@@ -121,8 +121,6 @@ def get_all_stations():
         print(f"Full error details: {str(e)}")
         return []
 
-'''
-'''
 STATIONS = [
     {"name": "Newark Penn Station", "accessible": True},
     {"name": "New York Penn Station", "accessible": True},
@@ -209,7 +207,7 @@ if __name__ == "__main__":
         combined_departures = pd.concat(all_departures, ignore_index=True)
         
         # Save data to MongoDB
-        save_to_mongodb(stations, combined_departures)
+        #save_to_mongodb(stations, combined_departures)
         
         # Backup to CSV
         save_to_csv(stations, combined_departures)
