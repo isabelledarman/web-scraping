@@ -1,0 +1,3257 @@
+Train,Time,Track,Station,Accessible
+Boston,10:51 AM,Track 4,30th Street Station Philadelphia,True
+New York,10:53 AM,Track 9,30th Street Station Philadelphia,True
+Washington,10:56 AM,Track 7,30th Street Station Philadelphia,True
+New York,11:02 AM,Track 4,30th Street Station Philadelphia,True
+Atlantic City,11:06 AM,Track,30th Street Station Philadelphia,True
+Washington,11:07 AM,Track 5,30th Street Station Philadelphia,True
+New York ✈,11:30 AM,Track 4,30th Street Station Philadelphia,True
+New York,11:50 AM,Track 9,30th Street Station Philadelphia,True
+Norfolk,12:00 PM,Track 5,30th Street Station Philadelphia,True
+New York,12:04 PM,Track 4,30th Street Station Philadelphia,True
+Washington,12:08 PM,Track 5,30th Street Station Philadelphia,True
+New York,12:14 PM,Track 4,30th Street Station Philadelphia,True
+Washington,12:34 PM,Track 5,30th Street Station Philadelphia,True
+Boston ✈,12:35 PM,Track 4,30th Street Station Philadelphia,True
+Atlantic City,12:58 PM,Track,30th Street Station Philadelphia,True
+Newport News,1:03 PM,Track 6,30th Street Station Philadelphia,True
+Baltimore,1:08 PM,Track 5,30th Street Station Philadelphia,True
+New York ✈,1:08 PM,Track 4,30th Street Station Philadelphia,True
+Washington,1:45 PM,Track 5,30th Street Station Philadelphia,True
+Long Branch,10:55 AM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,11:22 AM,Track 2,Aberdeen Matawan Station,True
+Long Branch,11:51 AM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,12:19 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,12:34 PM,Track 1,Aberdeen Matawan Station,True
+Long Branch,1:15 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,1:19 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,1:53 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,2:20 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,2:51 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,3:17 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,3:52 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,4:11 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,4:40 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,5:11 PM,Track 2,Aberdeen Matawan Station,True
+Bay Head,5:29 PM,Track 1,Aberdeen Matawan Station,True
+Bay Head,6:00 PM,Track 1,Aberdeen Matawan Station,True
+New York -SEC ✈,6:04 PM,Track 2,Aberdeen Matawan Station,True
+Long Branch,6:24 PM,Track 1,Aberdeen Matawan Station,True
+Atlantic City,"10:36 AM
+           in 14 Min",Track Single,Absecon Station,True
+Philadelphia,12:15 PM,Track Single,Absecon Station,True
+Atlantic City,12:28 PM,Track Single,Absecon Station,True
+Philadelphia,2:06 PM,Track Single,Absecon Station,True
+Atlantic City,2:19 PM,Track Single,Absecon Station,True
+Philadelphia,3:58 PM,Track Single,Absecon Station,True
+Atlantic City,4:11 PM,Track Single,Absecon Station,True
+Philadelphia,5:10 PM,Track Single,Absecon Station,True
+Atlantic City,6:03 PM,Track Single,Absecon Station,True
+Philadelphia,7:05 PM,Track Single,Absecon Station,True
+Atlantic City,7:17 PM,Track Single,Absecon Station,True
+Atlantic City,8:24 PM,Track Single,Absecon Station,True
+Philadelphia,9:04 PM,Track Single,Absecon Station,True
+Atlantic City,10:22 PM,Track Single,Absecon Station,True
+Philadelphia,11:02 PM,Track Single,Absecon Station,True
+Atlantic City,12:19 AM,Track Single,Absecon Station,True
+Atlantic City,2:11 AM,Track Single,Absecon Station,True
+Port Jervis,"10:37 AM
+           in 15 Min",Track 1,Allendale Station,False
+Hoboken -SEC,11:09 AM,Track 2,Allendale Station,False
+Suffern,11:41 AM,Track 1,Allendale Station,False
+Hoboken -SEC,12:10 PM,Track 2,Allendale Station,False
+Suffern,12:40 PM,Track 1,Allendale Station,False
+Hoboken -SEC,1:09 PM,Track 2,Allendale Station,False
+Hoboken -SEC,1:16 PM,Track 2,Allendale Station,False
+Suffern,1:31 PM,Track 1,Allendale Station,False
+Hoboken -SEC,2:07 PM,Track 2,Allendale Station,False
+Suffern,2:32 PM,Track 1,Allendale Station,False
+Hoboken -SEC,3:02 PM,Track 2,Allendale Station,False
+Hoboken -SEC,3:24 PM,Track 2,Allendale Station,False
+Suffern,3:28 PM,Track 1,Allendale Station,False
+Suffern,3:42 PM,Track 1,Allendale Station,False
+Suffern,4:15 PM,Track 1,Allendale Station,False
+Hoboken -SEC,4:21 PM,Track 2,Allendale Station,False
+Hoboken -SEC,4:40 PM,Track 2,Allendale Station,False
+Suffern,5:05 PM,Track 1,Allendale Station,False
+Hoboken -SEC,5:10 PM,Track 2,Allendale Station,False
+Long Branch,"10:38 AM
+           in 16 Min",Track 2,Allenhurst Station,False
+Long Branch,11:36 AM,Track 2,Allenhurst Station,False
+Bay Head,11:36 AM,Track 1,Allenhurst Station,False
+Bay Head,12:34 PM,Track 1,Allenhurst Station,False
+Long Branch,1:37 PM,Track 2,Allenhurst Station,False
+Bay Head,2:34 PM,Track 1,Allenhurst Station,False
+Long Branch,3:28 PM,Track 2,Allenhurst Station,False
+Long Branch,4:28 PM,Track 2,Allenhurst Station,False
+Bay Head,4:34 PM,Track 1,Allenhurst Station,False
+Bay Head,5:23 PM,Track 1,Allenhurst Station,False
+Long Branch,5:58 PM,Track 2,Allenhurst Station,False
+Bay Head,6:06 PM,Track 1,Allenhurst Station,False
+Bay Head,6:37 PM,Track 1,Allenhurst Station,False
+Bay Head,7:19 PM,Track 1,Allenhurst Station,False
+Bay Head,7:33 PM,Track 1,Allenhurst Station,False
+Long Branch,7:53 PM,Track 2,Allenhurst Station,False
+Bay Head,8:09 PM,Track 1,Allenhurst Station,False
+Bay Head,8:40 PM,Track 1,Allenhurst Station,False
+Long Branch,8:53 PM,Track 2,Allenhurst Station,False
+Spring Valley,"10:26 AM
+           in 8 Min",Track Single,Anderson Street Station,False
+Hoboken -SEC,11:35 AM,Track Single,Anderson Street Station,False
+Spring Valley,11:50 AM,Track Single,Anderson Street Station,False
+Spring Valley,1:00 PM,Track Single,Anderson Street Station,False
+Hoboken -SEC,1:05 PM,Track Single,Anderson Street Station,False
+Hoboken -SEC,2:00 PM,Track Single,Anderson Street Station,False
+Spring Valley,2:17 PM,Track Single,Anderson Street Station,False
+Hoboken -SEC,3:31 PM,Track Single,Anderson Street Station,False
+New Bridge Landing,3:46 PM,Track Single,Anderson Street Station,False
+Spring Valley,4:33 PM,Track Single,Anderson Street Station,False
+Hoboken -SEC,4:38 PM,Track Single,Anderson Street Station,False
+Spring Valley,5:08 PM,Track Single,Anderson Street Station,False
+Spring Valley,5:31 PM,Track Single,Anderson Street Station,False
+Spring Valley,6:10 PM,Track Single,Anderson Street Station,False
+Spring Valley,6:29 PM,Track Single,Anderson Street Station,False
+Spring Valley,6:48 PM,Track Single,Anderson Street Station,False
+Spring Valley,7:18 PM,Track Single,Anderson Street Station,False
+Spring Valley,7:58 PM,Track Single,Anderson Street Station,False
+Spring Valley,8:51 PM,Track Single,Anderson Street Station,False
+High Bridge,11:24 AM,Track Single,Annandale Station,False
+New York -SEC,12:23 PM,Track Single,Annandale Station,False
+High Bridge,2:22 PM,Track Single,Annandale Station,False
+Newark Penn,3:08 PM,Track Single,Annandale Station,False
+High Bridge,4:19 PM,Track Single,Annandale Station,False
+Newark Penn,4:59 PM,Track Single,Annandale Station,False
+High Bridge,6:11 PM,Track Single,Annandale Station,False
+High Bridge,6:45 PM,Track Single,Annandale Station,False
+High Bridge,7:36 PM,Track Single,Annandale Station,False
+High Bridge,8:35 PM,Track Single,Annandale Station,False
+High Bridge,10:27 PM,Track Single,Annandale Station,False
+High Bridge,12:27 AM,Track Single,Annandale Station,False
+Long Branch,"10:34 AM
+           in 12 Min",Track 2,Asbury Park Station,True
+Long Branch,11:32 AM,Track 2,Asbury Park Station,True
+Bay Head,11:40 AM,Track 1,Asbury Park Station,True
+Bay Head,12:38 PM,Track 1,Asbury Park Station,True
+Long Branch,1:33 PM,Track 2,Asbury Park Station,True
+Bay Head,2:38 PM,Track 1,Asbury Park Station,True
+Long Branch,3:24 PM,Track 2,Asbury Park Station,True
+Long Branch,4:24 PM,Track 2,Asbury Park Station,True
+Bay Head,4:38 PM,Track 1,Asbury Park Station,True
+Bay Head,5:27 PM,Track 1,Asbury Park Station,True
+Long Branch,5:54 PM,Track 2,Asbury Park Station,True
+Bay Head,6:10 PM,Track 1,Asbury Park Station,True
+Bay Head,6:41 PM,Track 1,Asbury Park Station,True
+Bay Head,7:22 PM,Track 1,Asbury Park Station,True
+Bay Head,7:37 PM,Track 1,Asbury Park Station,True
+Long Branch,7:49 PM,Track 2,Asbury Park Station,True
+Bay Head,8:13 PM,Track 1,Asbury Park Station,True
+Bay Head,8:44 PM,Track 1,Asbury Park Station,True
+Long Branch,8:50 PM,Track 2,Asbury Park Station,True
+Philadelphia,11:00 AM,Track Single,Atco Station,True
+Atlantic City,11:54 AM,Track Single,Atco Station,True
+Philadelphia,12:52 PM,Track Single,Atco Station,True
+Atlantic City,1:45 PM,Track Single,Atco Station,True
+Philadelphia,2:43 PM,Track Single,Atco Station,True
+Atlantic City,3:37 PM,Track Single,Atco Station,True
+Philadelphia,4:35 PM,Track Single,Atco Station,True
+Atlantic City,5:29 PM,Track Single,Atco Station,True
+Philadelphia,5:47 PM,Track Single,Atco Station,True
+Atlantic City,6:40 PM,Track Single,Atco Station,True
+Philadelphia,7:40 PM,Track Single,Atco Station,True
+Atlantic City,7:50 PM,Track Single,Atco Station,True
+Philadelphia,9:38 PM,Track Single,Atco Station,True
+Atlantic City,9:48 PM,Track Single,Atco Station,True
+Philadelphia,11:36 PM,Track Single,Atco Station,True
+Atlantic City,11:45 PM,Track Single,Atco Station,True
+Atlantic City,1:37 AM,Track Single,Atco Station,True
+Philadelphia,12:04 PM,Track 2,Atlantic City Rail Terminal,True
+Philadelphia,1:55 PM,Track 3,Atlantic City Rail Terminal,True
+Philadelphia,3:47 PM,Track 4,Atlantic City Rail Terminal,True
+Philadelphia,4:59 PM,Track 4,Atlantic City Rail Terminal,True
+Philadelphia,6:54 PM,Track 4,Atlantic City Rail Terminal,True
+Philadelphia,8:53 PM,Track 3,Atlantic City Rail Terminal,True
+Philadelphia,10:51 PM,Track 4,Atlantic City Rail Terminal,True
+Long Branch,"10:30 AM
+           in 13 Min",Track 1,Avenel Station,False
+Long Branch,12:10 PM,Track 1,Avenel Station,False
+New York -SEC ✈,12:44 PM,Track 2,Avenel Station,False
+Long Branch,2:25 PM,Track 1,Avenel Station,False
+New York -SEC ✈,2:45 PM,Track 2,Avenel Station,False
+Long Branch,3:27 PM,Track 1,Avenel Station,False
+South Amboy,4:06 PM,Track 1,Avenel Station,False
+New York -SEC ✈,4:36 PM,Track 2,Avenel Station,False
+South Amboy,4:56 PM,Track 1,Avenel Station,False
+New York -SEC ✈,5:36 PM,Track 2,Avenel Station,False
+South Amboy,5:50 PM,Track 1,Avenel Station,False
+New York -SEC ✈,5:57 PM,Track 2,Avenel Station,False
+Long Branch,5:59 PM,Track 1,Avenel Station,False
+South Amboy,6:18 PM,Track 1,Avenel Station,False
+Long Branch,6:51 PM,Track 1,Avenel Station,False
+South Amboy,7:22 PM,Track 1,Avenel Station,False
+Long Branch,7:35 PM,Track 1,Avenel Station,False
+Long Branch,8:07 PM,Track 1,Avenel Station,False
+New York -SEC ✈,8:21 PM,Track 2,Avenel Station,False
+Gladstone,"10:51 AM
+           in 28 Min",Track Single,Basking Ridge Station,False
+Hoboken,11:15 AM,Track Single,Basking Ridge Station,False
+Gladstone,11:51 AM,Track Single,Basking Ridge Station,False
+Hoboken,12:15 PM,Track Single,Basking Ridge Station,False
+Gladstone,12:51 PM,Track Single,Basking Ridge Station,False
+Hoboken,1:15 PM,Track Single,Basking Ridge Station,False
+Gladstone,1:51 PM,Track Single,Basking Ridge Station,False
+Hoboken,2:15 PM,Track Single,Basking Ridge Station,False
+Gladstone,2:51 PM,Track Single,Basking Ridge Station,False
+Hoboken,3:12 PM,Track Single,Basking Ridge Station,False
+Gladstone,3:53 PM,Track Single,Basking Ridge Station,False
+Hoboken,4:16 PM,Track Single,Basking Ridge Station,False
+Bernardsville,4:37 PM,Track Single,Basking Ridge Station,False
+Hoboken,5:10 PM,Track Single,Basking Ridge Station,False
+Gladstone,5:30 PM,Track Single,Basking Ridge Station,False
+Gladstone,6:08 PM,Track Single,Basking Ridge Station,False
+Gladstone,6:32 PM,Track Single,Basking Ridge Station,False
+Gladstone,6:44 PM,Track Single,Basking Ridge Station,False
+Gladstone,7:04 PM,Track Single,Basking Ridge Station,False
+Long Branch,11:08 AM,Track 2,Bay Head Station,False
+Long Branch,1:09 PM,Track 2,Bay Head Station,False
+Long Branch,3:00 PM,Track 2,Bay Head Station,False
+Long Branch,4:00 PM,Track 2,Bay Head Station,False
+Long Branch,5:30 PM,Track 2,Bay Head Station,False
+Long Branch,7:25 PM,Track 2,Bay Head Station,False
+Long Branch,8:26 PM,Track 2,Bay Head Station,False
+Long Branch,10:47 PM,Track 2,Bay Head Station,False
+Long Branch,11:30 PM,Track 2,Bay Head Station,False
+MSU,11:04 AM,Track 1,Bay Street Station,True
+New York -SEC,11:07 AM,Track 2,Bay Street Station,True
+MSU,12:04 PM,Track 1,Bay Street Station,True
+New York -SEC,12:04 PM,Track 2,Bay Street Station,True
+MSU,1:04 PM,Track 1,Bay Street Station,True
+New York -SEC,1:04 PM,Track 2,Bay Street Station,True
+MSU,2:04 PM,Track 1,Bay Street Station,True
+New York -SEC,2:04 PM,Track 2,Bay Street Station,True
+Dover,2:31 PM,Track 1,Bay Street Station,True
+New York -SEC,3:01 PM,Track 2,Bay Street Station,True
+MSU,3:26 PM,Track 1,Bay Street Station,True
+Denville,4:04 PM,Track 1,Bay Street Station,True
+MSU,4:21 PM,Track 1,Bay Street Station,True
+New York -SEC,4:33 PM,Track 2,Bay Street Station,True
+Hackettstown,5:02 PM,Track 1,Bay Street Station,True
+New York -SEC,5:21 PM,Track 2,Bay Street Station,True
+MSU,5:24 PM,Track 1,Bay Street Station,True
+Mount Olive,5:37 PM,Track 1,Bay Street Station,True
+MSU,5:54 PM,Track 1,Bay Street Station,True
+Long Branch,"10:27 AM
+           in 5 Min",Track 2,Belmar Station,False
+Long Branch,11:25 AM,Track 2,Belmar Station,False
+Bay Head,11:47 AM,Track 1,Belmar Station,False
+Bay Head,12:45 PM,Track 1,Belmar Station,False
+Long Branch,1:26 PM,Track 2,Belmar Station,False
+Bay Head,2:45 PM,Track 1,Belmar Station,False
+Long Branch,3:17 PM,Track 2,Belmar Station,False
+Long Branch,4:17 PM,Track 2,Belmar Station,False
+Bay Head,4:45 PM,Track 1,Belmar Station,False
+Bay Head,5:34 PM,Track 1,Belmar Station,False
+Long Branch,5:47 PM,Track 2,Belmar Station,False
+Bay Head,6:17 PM,Track 1,Belmar Station,False
+Bay Head,6:48 PM,Track 1,Belmar Station,False
+Bay Head,7:29 PM,Track 1,Belmar Station,False
+Long Branch,7:42 PM,Track 2,Belmar Station,False
+Bay Head,7:44 PM,Track 1,Belmar Station,False
+Bay Head,8:20 PM,Track 1,Belmar Station,False
+Long Branch,8:43 PM,Track 2,Belmar Station,False
+Bay Head,8:51 PM,Track 1,Belmar Station,False
+Hoboken,"10:29 AM
+           in 7 Min",Track Single,Berkeley Heights Station,False
+Gladstone,"10:37 AM
+           in 14 Min",Track Single,Berkeley Heights Station,False
+Hoboken,11:29 AM,Track Single,Berkeley Heights Station,False
+Gladstone,11:37 AM,Track Single,Berkeley Heights Station,False
+Hoboken,12:29 PM,Track Single,Berkeley Heights Station,False
+Gladstone,12:37 PM,Track Single,Berkeley Heights Station,False
+Hoboken,1:29 PM,Track Single,Berkeley Heights Station,False
+Gladstone,1:37 PM,Track Single,Berkeley Heights Station,False
+Hoboken,2:29 PM,Track Single,Berkeley Heights Station,False
+Gladstone,2:37 PM,Track Single,Berkeley Heights Station,False
+Hoboken,3:26 PM,Track Single,Berkeley Heights Station,False
+Gladstone,3:39 PM,Track Single,Berkeley Heights Station,False
+Bernardsville,4:23 PM,Track Single,Berkeley Heights Station,False
+Hoboken,4:36 PM,Track Single,Berkeley Heights Station,False
+Gladstone,5:16 PM,Track Single,Berkeley Heights Station,False
+Hoboken,5:28 PM,Track Single,Berkeley Heights Station,False
+Gladstone,5:54 PM,Track Single,Berkeley Heights Station,False
+Gladstone,6:15 PM,Track Single,Berkeley Heights Station,False
+Gladstone,6:28 PM,Track Single,Berkeley Heights Station,False
+Gladstone,10:53 AM,Track Single,Bernardsville Station,False
+Hoboken,11:12 AM,Track Single,Bernardsville Station,False
+Gladstone,11:53 AM,Track Single,Bernardsville Station,False
+Hoboken,12:12 PM,Track Single,Bernardsville Station,False
+Gladstone,12:53 PM,Track Single,Bernardsville Station,False
+Hoboken,1:12 PM,Track Single,Bernardsville Station,False
+Gladstone,1:55 PM,Track Single,Bernardsville Station,False
+Hoboken,2:12 PM,Track Single,Bernardsville Station,False
+Gladstone,2:53 PM,Track Single,Bernardsville Station,False
+Hoboken,3:09 PM,Track Single,Bernardsville Station,False
+Gladstone,3:55 PM,Track Single,Bernardsville Station,False
+Hoboken,4:13 PM,Track Single,Bernardsville Station,False
+Hoboken,5:07 PM,Track Single,Bernardsville Station,False
+Gladstone,5:33 PM,Track Single,Bernardsville Station,False
+Gladstone,6:11 PM,Track Single,Bernardsville Station,False
+Gladstone,6:35 PM,Track Single,Bernardsville Station,False
+Gladstone,6:47 PM,Track Single,Bernardsville Station,False
+Gladstone,7:07 PM,Track Single,Bernardsville Station,False
+Gladstone,7:23 PM,Track Single,Bernardsville Station,False
+New York -SEC,"10:25 AM
+           in 3 Min",Track 2,Bloomfield Rail Station,False
+MSU,10:58 AM,Track 1,Bloomfield Rail Station,False
+New York -SEC,11:13 AM,Track 2,Bloomfield Rail Station,False
+MSU,11:58 AM,Track 1,Bloomfield Rail Station,False
+New York -SEC,12:10 PM,Track 2,Bloomfield Rail Station,False
+MSU,12:58 PM,Track 1,Bloomfield Rail Station,False
+New York -SEC,1:10 PM,Track 2,Bloomfield Rail Station,False
+MSU,1:58 PM,Track 1,Bloomfield Rail Station,False
+New York -SEC,2:10 PM,Track 2,Bloomfield Rail Station,False
+Dover,2:25 PM,Track 1,Bloomfield Rail Station,False
+New York -SEC,3:07 PM,Track 2,Bloomfield Rail Station,False
+MSU,3:20 PM,Track 1,Bloomfield Rail Station,False
+Denville,3:58 PM,Track 1,Bloomfield Rail Station,False
+MSU,4:16 PM,Track 1,Bloomfield Rail Station,False
+New York -SEC,4:39 PM,Track 2,Bloomfield Rail Station,False
+Hackettstown,4:56 PM,Track 1,Bloomfield Rail Station,False
+MSU,5:19 PM,Track 1,Bloomfield Rail Station,False
+New York -SEC,5:27 PM,Track 2,Bloomfield Rail Station,False
+MSU,5:48 PM,Track 1,Bloomfield Rail Station,False
+Dover,3:14 PM,Track Single,Boonton Station,True
+Denville,4:45 PM,Track Single,Boonton Station,True
+Hackettstown,5:46 PM,Track Single,Boonton Station,True
+Mount Olive,6:16 PM,Track Single,Boonton Station,True
+Dover,6:58 PM,Track Single,Boonton Station,True
+Lake Hopatcong,7:46 PM,Track Single,Boonton Station,True
+Hackettstown,8:37 PM,Track Single,Boonton Station,True
+Hackettstown,10:13 PM,Track Single,Boonton Station,True
+Mount Olive,11:19 PM,Track Single,Boonton Station,True
+High Bridge,"10:48 AM
+           in 25 Min",Track 1,Bound Brook Station,False
+New York -SEC,10:57 AM,Track 2,Bound Brook Station,False
+Raritan,11:44 AM,Track 1,Bound Brook Station,False
+New York -SEC,11:57 AM,Track 2,Bound Brook Station,False
+Raritan,12:45 PM,Track 1,Bound Brook Station,False
+New York -SEC,1:00 PM,Track 2,Bound Brook Station,False
+High Bridge,1:46 PM,Track 1,Bound Brook Station,False
+Newark Penn,1:58 PM,Track 2,Bound Brook Station,False
+Raritan,2:45 PM,Track 1,Bound Brook Station,False
+Newark Penn,2:58 PM,Track 2,Bound Brook Station,False
+High Bridge,3:45 PM,Track 1,Bound Brook Station,False
+Newark Penn,3:45 PM,Track 2,Bound Brook Station,False
+Newark Penn,4:21 PM,Track 2,Bound Brook Station,False
+Raritan,4:58 PM,Track 1,Bound Brook Station,False
+High Bridge,5:33 PM,Track 1,Bound Brook Station,False
+Newark Penn,5:34 PM,Track 2,Bound Brook Station,False
+Raritan,6:00 PM,Track 1,Bound Brook Station,False
+Newark Penn,6:03 PM,Track 2,Bound Brook Station,False
+High Bridge,6:09 PM,Track 1,Bound Brook Station,False
+Long Branch,"10:31 AM
+           in 8 Min",Track 2,Bradley Beach Station,False
+Long Branch,11:29 AM,Track 2,Bradley Beach Station,False
+Bay Head,11:43 AM,Track 1,Bradley Beach Station,False
+Bay Head,12:41 PM,Track 1,Bradley Beach Station,False
+Long Branch,1:30 PM,Track 2,Bradley Beach Station,False
+Bay Head,2:41 PM,Track 1,Bradley Beach Station,False
+Long Branch,3:21 PM,Track 2,Bradley Beach Station,False
+Long Branch,4:21 PM,Track 2,Bradley Beach Station,False
+Bay Head,4:41 PM,Track 1,Bradley Beach Station,False
+Bay Head,5:30 PM,Track 1,Bradley Beach Station,False
+Long Branch,5:51 PM,Track 2,Bradley Beach Station,False
+Bay Head,6:13 PM,Track 1,Bradley Beach Station,False
+Bay Head,6:44 PM,Track 1,Bradley Beach Station,False
+Bay Head,7:25 PM,Track 1,Bradley Beach Station,False
+Bay Head,7:39 PM,Track 1,Bradley Beach Station,False
+Long Branch,7:46 PM,Track 2,Bradley Beach Station,False
+Bay Head,8:16 PM,Track 1,Bradley Beach Station,False
+Bay Head,8:47 PM,Track 1,Bradley Beach Station,False
+Long Branch,8:47 PM,Track 2,Bradley Beach Station,False
+Dover,"10:29 AM
+           in 8 Min",Track 3,Brick Church Station,False
+New York -SEC,10:50 AM,Track 2,Brick Church Station,False
+Gladstone,11:01 AM,Track 3,Brick Church Station,False
+Dover,11:11 AM,Track 3,Brick Church Station,False
+Hoboken,11:12 AM,Track 2,Brick Church Station,False
+New York -SEC,11:51 AM,Track 2,Brick Church Station,False
+Gladstone,12:01 PM,Track 3,Brick Church Station,False
+Hoboken,12:05 PM,Track 2,Brick Church Station,False
+Dover,12:11 PM,Track 3,Brick Church Station,False
+New York -SEC,12:58 PM,Track 2,Brick Church Station,False
+Gladstone,1:01 PM,Track 3,Brick Church Station,False
+Hoboken,1:06 PM,Track 2,Brick Church Station,False
+Dover,1:12 PM,Track 3,Brick Church Station,False
+Hoboken,1:34 PM,Track 2,Brick Church Station,False
+New York -SEC,1:58 PM,Track 2,Brick Church Station,False
+Gladstone,2:02 PM,Track 3,Brick Church Station,False
+Hoboken,2:06 PM,Track 2,Brick Church Station,False
+Dover,2:17 PM,Track 3,Brick Church Station,False
+Dover,2:57 PM,Track 3,Brick Church Station,False
+High Bridge,"10:51 AM
+           in 28 Min",Track 1,Bridgewater Station,False
+New York -SEC,10:54 AM,Track 2,Bridgewater Station,False
+Raritan,11:47 AM,Track 1,Bridgewater Station,False
+New York -SEC,11:54 AM,Track 2,Bridgewater Station,False
+Raritan,12:48 PM,Track 1,Bridgewater Station,False
+New York -SEC,12:57 PM,Track 2,Bridgewater Station,False
+High Bridge,1:49 PM,Track 1,Bridgewater Station,False
+Newark Penn,1:55 PM,Track 2,Bridgewater Station,False
+Raritan,2:48 PM,Track 1,Bridgewater Station,False
+Newark Penn,2:55 PM,Track 2,Bridgewater Station,False
+Newark Penn,3:41 PM,Track 2,Bridgewater Station,False
+High Bridge,3:47 PM,Track 1,Bridgewater Station,False
+Newark Penn,4:18 PM,Track 2,Bridgewater Station,False
+Raritan,5:01 PM,Track 1,Bridgewater Station,False
+Newark Penn,5:31 PM,Track 2,Bridgewater Station,False
+High Bridge,5:36 PM,Track 1,Bridgewater Station,False
+Newark Penn,6:00 PM,Track 2,Bridgewater Station,False
+Raritan,6:03 PM,Track 1,Bridgewater Station,False
+High Bridge,6:12 PM,Track 1,Bridgewater Station,False
+Hoboken -SEC,"10:36 AM
+           in 15 Min",Track 2,Broadway Station Fair Lawn,False
+Ridgewood,11:12 AM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,11:36 AM,Track 2,Broadway Station Fair Lawn,False
+Ridgewood,12:12 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,12:36 PM,Track 2,Broadway Station Fair Lawn,False
+Suffern,1:12 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,1:37 PM,Track 2,Broadway Station Fair Lawn,False
+Suffern,2:13 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,2:32 PM,Track 2,Broadway Station Fair Lawn,False
+Suffern,3:09 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,3:43 PM,Track 2,Broadway Station Fair Lawn,False
+Suffern,3:55 PM,Track 1,Broadway Station Fair Lawn,False
+Waldwick,4:52 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,5:00 PM,Track 2,Broadway Station Fair Lawn,False
+Ridgewood,5:30 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,5:48 PM,Track 2,Broadway Station Fair Lawn,False
+Waldwick,6:02 PM,Track 1,Broadway Station Fair Lawn,False
+Waldwick,6:36 PM,Track 1,Broadway Station Fair Lawn,False
+Hoboken -SEC,7:02 PM,Track 2,Broadway Station Fair Lawn,False
+Port Jervis,11:40 AM,Track Single,Campbell Hall Station,True
+Hoboken -SEC,12:14 PM,Track Single,Campbell Hall Station,True
+Hoboken -SEC,2:14 PM,Track Single,Campbell Hall Station,True
+Middletown,2:21 PM,Track Single,Campbell Hall Station,True
+Hoboken -SEC,3:27 PM,Track Single,Campbell Hall Station,True
+Middletown,4:15 PM,Track Single,Campbell Hall Station,True
+Port Jervis,5:38 PM,Track Single,Campbell Hall Station,True
+Port Jervis,6:20 PM,Track Single,Campbell Hall Station,True
+Port Jervis,6:48 PM,Track Single,Campbell Hall Station,True
+Port Jervis,7:20 PM,Track Single,Campbell Hall Station,True
+Port Jervis,7:44 PM,Track Single,Campbell Hall Station,True
+Port Jervis,8:01 PM,Track Single,Campbell Hall Station,True
+Port Jervis,8:32 PM,Track Single,Campbell Hall Station,True
+Port Jervis,9:27 PM,Track Single,Campbell Hall Station,True
+Hoboken -SEC,10:04 PM,Track Single,Campbell Hall Station,True
+Port Jervis,11:55 PM,Track Single,Campbell Hall Station,True
+Port Jervis,2:35 AM,Track Single,Campbell Hall Station,True
+New York -SEC,"10:39 AM
+           in 15 Min",Track 2,Chatham Station,False
+Dover,10:57 AM,Track 1,Chatham Station,False
+New York -SEC,11:23 AM,Track 2,Chatham Station,False
+Dover,11:40 AM,Track 1,Chatham Station,False
+New York -SEC,12:30 PM,Track 2,Chatham Station,False
+Dover,12:40 PM,Track 1,Chatham Station,False
+Hoboken,1:04 PM,Track 2,Chatham Station,False
+New York -SEC,1:30 PM,Track 2,Chatham Station,False
+Dover,1:41 PM,Track 1,Chatham Station,False
+New York,2:30 PM,Track 2,Chatham Station,False
+Dover,2:48 PM,Track 1,Chatham Station,False
+Hackettstown,3:09 PM,Track 1,Chatham Station,False
+New York -SEC,3:13 PM,Track 2,Chatham Station,False
+Dover,3:28 PM,Track 1,Chatham Station,False
+New York,3:51 PM,Track 2,Chatham Station,False
+Dover,4:08 PM,Track 1,Chatham Station,False
+New York -SEC,4:16 PM,Track 2,Chatham Station,False
+New York -SEC,4:34 PM,Track 2,Chatham Station,False
+Mount Olive,4:41 PM,Track 1,Chatham Station,False
+Philadelphia,11:20 AM,Track Siding,Cherry Hill Station,True
+Atlantic City,11:34 AM,Track Siding,Cherry Hill Station,True
+Philadelphia,1:11 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,1:26 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,3:03 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,3:17 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,4:55 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,5:09 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,6:07 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,6:21 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,7:31 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,8:02 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,9:29 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,10:00 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,11:23 PM,Track Siding,Cherry Hill Station,True
+Philadelphia,11:56 PM,Track Siding,Cherry Hill Station,True
+Atlantic City,1:18 AM,Track Siding,Cherry Hill Station,True
+Hoboken -SEC,"10:36 AM
+           in 16 Min",Track 2,Clifton Station,False
+Suffern,11:13 AM,Track 1,Clifton Station,False
+Hoboken -SEC,11:36 AM,Track 2,Clifton Station,False
+Suffern,12:13 PM,Track 1,Clifton Station,False
+Hoboken -SEC,12:37 PM,Track 2,Clifton Station,False
+Waldwick,1:14 PM,Track 1,Clifton Station,False
+Hoboken -SEC,1:36 PM,Track 2,Clifton Station,False
+Waldwick,2:12 PM,Track 1,Clifton Station,False
+Hoboken -SEC,2:34 PM,Track 2,Clifton Station,False
+Suffern,3:15 PM,Track 1,Clifton Station,False
+Hoboken -SEC,3:29 PM,Track 2,Clifton Station,False
+Hoboken -SEC,4:00 PM,Track 2,Clifton Station,False
+Waldwick,4:03 PM,Track 1,Clifton Station,False
+Hoboken -SEC,4:48 PM,Track 2,Clifton Station,False
+Ridgewood,4:56 PM,Track 1,Clifton Station,False
+Hoboken -SEC,5:37 PM,Track 2,Clifton Station,False
+Waldwick,5:43 PM,Track 1,Clifton Station,False
+Waldwick,6:15 PM,Track 1,Clifton Station,False
+Hoboken -SEC,6:29 PM,Track 2,Clifton Station,False
+New York -SEC,"10:31 AM
+           in 7 Min",Track 2,Convent Station,False
+Dover,11:05 AM,Track 1,Convent Station,False
+New York -SEC,11:15 AM,Track 2,Convent Station,False
+Dover,11:48 AM,Track 1,Convent Station,False
+New York -SEC,12:22 PM,Track 2,Convent Station,False
+Dover,12:48 PM,Track 1,Convent Station,False
+Hoboken,12:56 PM,Track 2,Convent Station,False
+New York -SEC,1:22 PM,Track 2,Convent Station,False
+Dover,1:49 PM,Track 1,Convent Station,False
+New York,2:22 PM,Track 2,Convent Station,False
+Dover,2:57 PM,Track 1,Convent Station,False
+New York -SEC,3:05 PM,Track 2,Convent Station,False
+Hackettstown,3:17 PM,Track 1,Convent Station,False
+Dover,3:36 PM,Track 1,Convent Station,False
+New York,3:43 PM,Track 2,Convent Station,False
+New York -SEC,4:08 PM,Track 2,Convent Station,False
+Dover,4:16 PM,Track 1,Convent Station,False
+New York -SEC,4:26 PM,Track 2,Convent Station,False
+Hoboken,4:42 PM,Track 2,Convent Station,False
+High Bridge,"10:19 AM
+           in 3 Min",Track 1,Cranford Station,True
+New York -SEC,"10:30 AM
+           in 6 Min",Track 2,Cranford Station,True
+Raritan,11:16 AM,Track 1,Cranford Station,True
+New York -SEC,11:27 AM,Track 2,Cranford Station,True
+Raritan,12:16 PM,Track 1,Cranford Station,True
+New York -SEC,12:26 PM,Track 2,Cranford Station,True
+High Bridge,1:18 PM,Track 1,Cranford Station,True
+New York -SEC,1:28 PM,Track 2,Cranford Station,True
+Raritan,2:16 PM,Track 1,Cranford Station,True
+Newark Penn,2:28 PM,Track 2,Cranford Station,True
+High Bridge,3:17 PM,Track 1,Cranford Station,True
+Newark Penn,3:28 PM,Track 2,Cranford Station,True
+Newark Penn,4:12 PM,Track 2,Cranford Station,True
+Raritan,4:29 PM,Track 1,Cranford Station,True
+Newark Penn,4:49 PM,Track 2,Cranford Station,True
+High Bridge,5:03 PM,Track 1,Cranford Station,True
+Raritan,5:34 PM,Track 1,Cranford Station,True
+Raritan,6:01 PM,Track 1,Cranford Station,True
+Newark Penn,6:01 PM,Track 2,Cranford Station,True
+Hoboken -SEC,"10:43 AM
+           in 23 Min",Track 2,Delawanna Station,False
+Suffern,11:06 AM,Track 1,Delawanna Station,False
+Hoboken -SEC,11:43 AM,Track 2,Delawanna Station,False
+Suffern,12:06 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,12:43 PM,Track 2,Delawanna Station,False
+Waldwick,1:07 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,1:43 PM,Track 2,Delawanna Station,False
+Waldwick,2:05 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,2:41 PM,Track 2,Delawanna Station,False
+Suffern,3:07 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,3:35 PM,Track 2,Delawanna Station,False
+Waldwick,3:57 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,4:07 PM,Track 2,Delawanna Station,False
+Ridgewood,4:49 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,4:54 PM,Track 2,Delawanna Station,False
+Waldwick,5:35 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,5:43 PM,Track 2,Delawanna Station,False
+Waldwick,6:07 PM,Track 1,Delawanna Station,False
+Hoboken -SEC,6:36 PM,Track 2,Delawanna Station,False
+Hackettstown,"10:39 AM
+           in 15 Min",Track 1,Denville Station,True
+New York -SEC,10:58 AM,Track 2,Denville Station,True
+Dover,11:23 AM,Track 1,Denville Station,True
+Dover,12:04 PM,Track 1,Denville Station,True
+New York -SEC,12:07 PM,Track 2,Denville Station,True
+Hoboken,12:40 PM,Track 2,Denville Station,True
+Dover,1:04 PM,Track 1,Denville Station,True
+New York -SEC,1:07 PM,Track 2,Denville Station,True
+Dover,2:05 PM,Track 1,Denville Station,True
+New York,2:07 PM,Track 2,Denville Station,True
+New York -SEC,2:48 PM,Track 2,Denville Station,True
+Dover,3:16 PM,Track 1,Denville Station,True
+Dover,3:22 PM,Track Single,Denville Station,True
+New York,3:28 PM,Track 2,Denville Station,True
+Hackettstown,3:35 PM,Track 1,Denville Station,True
+New York -SEC,3:53 PM,Track 2,Denville Station,True
+Dover,3:55 PM,Track 1,Denville Station,True
+New York -SEC,4:10 PM,Track 2,Denville Station,True
+Hoboken,4:26 PM,Track 2,Denville Station,True
+Hackettstown,"10:46 AM
+           in 22 Min",Track 1,Dover Station,True
+New York -SEC,"10:49 AM
+           in 24 Min",Track 2,Dover Station,True
+New York -SEC,11:58 AM,Track 2,Dover Station,True
+Hoboken,12:32 PM,Track 1,Dover Station,True
+New York -SEC,12:58 PM,Track 2,Dover Station,True
+New York,1:58 PM,Track 2,Dover Station,True
+New York -SEC,2:39 PM,Track 2,Dover Station,True
+New York,3:20 PM,Track 2,Dover Station,True
+Hackettstown,3:42 PM,Track 1,Dover Station,True
+New York -SEC,3:45 PM,Track 2,Dover Station,True
+New York -SEC,4:03 PM,Track 2,Dover Station,True
+Hoboken,4:19 PM,Track 1,Dover Station,True
+New York -SEC,4:48 PM,Track 2,Dover Station,True
+Mount Olive,5:13 PM,Track 1,Dover Station,True
+New York -SEC,5:15 PM,Track 2,Dover Station,True
+Hoboken,5:26 PM,Track 2,Dover Station,True
+New York,5:50 PM,Track 2,Dover Station,True
+Hackettstown,6:02 PM,Track 1,Dover Station,True
+Hoboken,6:21 PM,Track 2,Dover Station,True
+High Bridge,"10:42 AM
+           in 19 Min",Track 1,Dunellen Station,False
+New York -SEC,11:04 AM,Track 2,Dunellen Station,False
+Raritan,11:39 AM,Track 1,Dunellen Station,False
+New York -SEC,12:03 PM,Track 2,Dunellen Station,False
+Raritan,12:39 PM,Track 1,Dunellen Station,False
+New York -SEC,1:06 PM,Track 2,Dunellen Station,False
+High Bridge,1:40 PM,Track 1,Dunellen Station,False
+Newark Penn,2:04 PM,Track 2,Dunellen Station,False
+Raritan,2:39 PM,Track 1,Dunellen Station,False
+Newark Penn,3:04 PM,Track 2,Dunellen Station,False
+High Bridge,3:39 PM,Track 1,Dunellen Station,False
+Newark Penn,3:51 PM,Track 2,Dunellen Station,False
+Newark Penn,4:27 PM,Track 2,Dunellen Station,False
+Raritan,4:52 PM,Track 1,Dunellen Station,False
+High Bridge,5:27 PM,Track 1,Dunellen Station,False
+Newark Penn,5:40 PM,Track 2,Dunellen Station,False
+Raritan,5:54 PM,Track 1,Dunellen Station,False
+High Bridge,6:03 PM,Track 1,Dunellen Station,False
+Newark Penn,6:08 PM,Track 2,Dunellen Station,False
+Gladstone,10:59 AM,Track 3,East Orange Station,True
+Hoboken,11:14 AM,Track 2,East Orange Station,True
+Gladstone,11:59 AM,Track 3,East Orange Station,True
+Hoboken,12:07 PM,Track 2,East Orange Station,True
+Gladstone,12:59 PM,Track 3,East Orange Station,True
+Hoboken,1:08 PM,Track 2,East Orange Station,True
+Hoboken,1:37 PM,Track 2,East Orange Station,True
+Gladstone,2:00 PM,Track 3,East Orange Station,True
+Hoboken,2:08 PM,Track 2,East Orange Station,True
+Gladstone,3:04 PM,Track 3,East Orange Station,True
+Hoboken,3:08 PM,Track 2,East Orange Station,True
+Summit,3:52 PM,Track 3,East Orange Station,True
+Hoboken,4:10 PM,Track 2,East Orange Station,True
+New York,4:24 PM,Track 2,East Orange Station,True
+Summit,4:29 PM,Track 3,East Orange Station,True
+Hoboken,4:57 PM,Track 2,East Orange Station,True
+Summit,5:06 PM,Track 3,East Orange Station,True
+Hoboken,5:12 PM,Track 2,East Orange Station,True
+Hoboken,5:23 PM,Track 2,East Orange Station,True
+Trenton,"10:29 AM
+           in 14 Min",Track 4,Edison Station,True
+New York -SEC ✈,"10:44 AM
+           in 21 Min",Track 1,Edison Station,True
+Trenton,"10:54 AM
+           in 30 Min",Track 4,Edison Station,True
+New York -SEC ✈,11:14 AM,Track 1,Edison Station,True
+Trenton,11:29 AM,Track 4,Edison Station,True
+New York -SEC ✈,12:01 PM,Track 1,Edison Station,True
+Trenton,12:03 PM,Track 4,Edison Station,True
+New York -SEC ✈,12:24 PM,Track 1,Edison Station,True
+Trenton,12:30 PM,Track 4,Edison Station,True
+New York -SEC ✈,12:52 PM,Track 1,Edison Station,True
+Trenton,12:56 PM,Track 4,Edison Station,True
+New York -SEC ✈,1:22 PM,Track 1,Edison Station,True
+Trenton,1:30 PM,Track 4,Edison Station,True
+New York -SEC ✈,1:40 PM,Track 1,Edison Station,True
+Trenton,1:58 PM,Track 4,Edison Station,True
+New York -SEC ✈,2:16 PM,Track 1,Edison Station,True
+Trenton,2:26 PM,Track 4,Edison Station,True
+New York -SEC ✈,2:44 PM,Track 1,Edison Station,True
+Trenton,3:01 PM,Track 4,Edison Station,True
+Atlantic City,"10:25 AM
+           All Aboard",Track Single,Egg Harbor City Station,True
+Philadelphia,"10:36 AM
+           in 11 Min",Track Single,Egg Harbor City Station,True
+Atlantic City,12:17 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,12:28 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,2:09 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,2:19 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,4:00 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,4:11 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,5:20 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,5:52 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,7:04 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,7:15 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,8:14 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,9:14 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,10:12 PM,Track Single,Egg Harbor City Station,True
+Philadelphia,11:12 PM,Track Single,Egg Harbor City Station,True
+Atlantic City,12:09 AM,Track Single,Egg Harbor City Station,True
+Atlantic City,2:01 AM,Track Single,Egg Harbor City Station,True
+Long Branch,"10:42 AM
+           in 18 Min",Track 2,Elberon Station,True
+Bay Head,11:32 AM,Track 1,Elberon Station,True
+Long Branch,11:40 AM,Track 2,Elberon Station,True
+Bay Head,12:30 PM,Track 1,Elberon Station,True
+Long Branch,1:41 PM,Track 2,Elberon Station,True
+Bay Head,2:30 PM,Track 1,Elberon Station,True
+Long Branch,3:32 PM,Track 2,Elberon Station,True
+Bay Head,4:30 PM,Track 1,Elberon Station,True
+Long Branch,4:32 PM,Track 2,Elberon Station,True
+Bay Head,5:19 PM,Track 1,Elberon Station,True
+Long Branch,6:02 PM,Track 2,Elberon Station,True
+Bay Head,6:02 PM,Track 1,Elberon Station,True
+Bay Head,6:33 PM,Track 1,Elberon Station,True
+Bay Head,7:15 PM,Track 1,Elberon Station,True
+Bay Head,7:29 PM,Track 1,Elberon Station,True
+Long Branch,7:57 PM,Track 2,Elberon Station,True
+Bay Head,8:05 PM,Track 1,Elberon Station,True
+Bay Head,8:36 PM,Track 1,Elberon Station,True
+Long Branch,8:57 PM,Track 2,Elberon Station,True
+Trenton,"10:31 AM
+           in 7 Min",Track 4,Elizabeth Station,True
+New York -SEC ✈,11:01 AM,Track 1,Elizabeth Station,True
+Trenton,11:04 AM,Track 4,Elizabeth Station,True
+New York -SEC ✈,11:11 AM,Track 1,Elizabeth Station,True
+Long Branch,11:14 AM,Track 4,Elizabeth Station,True
+Trenton,11:39 AM,Track 4,Elizabeth Station,True
+New York -SEC ✈,11:43 AM,Track 1,Elizabeth Station,True
+Long Branch,11:54 AM,Track 4,Elizabeth Station,True
+New York -SEC ✈,12:03 PM,Track 1,Elizabeth Station,True
+Trenton,12:06 PM,Track 4,Elizabeth Station,True
+New York -SEC ✈,12:29 PM,Track 1,Elizabeth Station,True
+Trenton,12:31 PM,Track 4,Elizabeth Station,True
+New York -SEC ✈,12:51 PM,Track 1,Elizabeth Station,True
+New York -SEC ✈,1:01 PM,Track 1,Elizabeth Station,True
+Trenton,1:04 PM,Track 4,Elizabeth Station,True
+Long Branch,1:16 PM,Track 4,Elizabeth Station,True
+New York -SEC ✈,1:19 PM,Track 1,Elizabeth Station,True
+Trenton,1:34 PM,Track 4,Elizabeth Station,True
+New York -SEC ✈,1:49 PM,Track 1,Elizabeth Station,True
+Spring Valley,"10:40 AM
+           in 18 Min",Track Single,Emerson Station,False
+Hoboken -SEC,11:21 AM,Track Single,Emerson Station,False
+Spring Valley,12:04 PM,Track Single,Emerson Station,False
+Hoboken -SEC,12:46 PM,Track Single,Emerson Station,False
+Spring Valley,1:14 PM,Track Single,Emerson Station,False
+Spring Valley,2:31 PM,Track Single,Emerson Station,False
+Hoboken -SEC,3:12 PM,Track Single,Emerson Station,False
+Spring Valley,3:38 PM,Track Single,Emerson Station,False
+Hoboken -SEC,4:20 PM,Track Single,Emerson Station,False
+Spring Valley,4:47 PM,Track Single,Emerson Station,False
+Spring Valley,5:23 PM,Track Single,Emerson Station,False
+Spring Valley,5:46 PM,Track Single,Emerson Station,False
+Spring Valley,6:26 PM,Track Single,Emerson Station,False
+Spring Valley,6:45 PM,Track Single,Emerson Station,False
+Spring Valley,7:04 PM,Track Single,Emerson Station,False
+Spring Valley,7:33 PM,Track Single,Emerson Station,False
+Spring Valley,8:12 PM,Track Single,Emerson Station,False
+Spring Valley,9:05 PM,Track Single,Emerson Station,False
+Hoboken -SEC,9:44 PM,Track Single,Emerson Station,False
+Spring Valley,"10:23 AM
+           in 4 Min",Track Single,Essex Street Station (PVL),True
+Hoboken -SEC,11:38 AM,Track Single,Essex Street Station (PVL),True
+Spring Valley,11:47 AM,Track Single,Essex Street Station (PVL),True
+Spring Valley,12:57 PM,Track Single,Essex Street Station (PVL),True
+Hoboken -SEC,1:08 PM,Track Single,Essex Street Station (PVL),True
+Hoboken -SEC,2:03 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,2:14 PM,Track Single,Essex Street Station (PVL),True
+Hoboken -SEC,3:34 PM,Track Single,Essex Street Station (PVL),True
+New Bridge Landing,3:43 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,4:30 PM,Track Single,Essex Street Station (PVL),True
+Hoboken -SEC,4:41 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,5:05 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,5:28 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,6:06 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,6:25 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,6:45 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,7:15 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,7:55 PM,Track Single,Essex Street Station (PVL),True
+Spring Valley,8:48 PM,Track Single,Essex Street Station (PVL),True
+Boston,"10:18 AM
+           All Aboard",Track 1,EWR Newark Airport Station,True
+Trenton,"10:26 AM
+           in 2 Min",Track 5,EWR Newark Airport Station,True
+New York -SEC,"10:28 AM
+           in 4 Min",Track A,EWR Newark Airport Station,True
+New York -SEC,"10:47 AM
+           in 22 Min",Track A,EWR Newark Airport Station,True
+Trenton,11:00 AM,Track 5,EWR Newark Airport Station,True
+New York -SEC,11:06 AM,Track A,EWR Newark Airport Station,True
+Long Branch,11:08 AM,Track 5,EWR Newark Airport Station,True
+New York -SEC,11:18 AM,Track A,EWR Newark Airport Station,True
+Washington,11:24 AM,Track 4,EWR Newark Airport Station,True
+Trenton,11:33 AM,Track 5,EWR Newark Airport Station,True
+Long Branch,11:48 AM,Track 5,EWR Newark Airport Station,True
+New York -SEC,11:48 AM,Track A,EWR Newark Airport Station,True
+Trenton,12:01 PM,Track 5,EWR Newark Airport Station,True
+New York -SEC,12:10 PM,Track A,EWR Newark Airport Station,True
+Trenton,12:25 PM,Track 5,EWR Newark Airport Station,True
+New York,12:33 PM,Track 1,EWR Newark Airport Station,True
+New York -SEC,12:34 PM,Track A,EWR Newark Airport Station,True
+Long Branch,12:37 PM,Track 5,EWR Newark Airport Station,True
+New York -SEC,12:55 PM,Track A,EWR Newark Airport Station,True
+High Bridge,"10:30 AM
+           in 10 Min",Track 1,Fanwood Station,False
+New York -SEC,11:15 AM,Track 1,Fanwood Station,False
+Raritan,11:27 AM,Track 1,Fanwood Station,False
+New York -SEC,12:15 PM,Track 1,Fanwood Station,False
+Raritan,12:27 PM,Track 1,Fanwood Station,False
+New York -SEC,1:17 PM,Track 1,Fanwood Station,False
+High Bridge,1:29 PM,Track 1,Fanwood Station,False
+Newark Penn,2:16 PM,Track 1,Fanwood Station,False
+Raritan,2:27 PM,Track 1,Fanwood Station,False
+Newark Penn,3:16 PM,Track 2,Fanwood Station,False
+High Bridge,3:28 PM,Track 1,Fanwood Station,False
+Newark Penn,4:03 PM,Track 2,Fanwood Station,False
+Newark Penn,4:38 PM,Track 2,Fanwood Station,False
+Raritan,4:40 PM,Track 1,Fanwood Station,False
+High Bridge,5:15 PM,Track 1,Fanwood Station,False
+Raritan,5:43 PM,Track 1,Fanwood Station,False
+Newark Penn,5:50 PM,Track 2,Fanwood Station,False
+Raritan,6:13 PM,Track 1,Fanwood Station,False
+Newark Penn,6:20 PM,Track 2,Fanwood Station,False
+Gladstone,11:01 AM,Track Single,Far Hills Station,False
+Hoboken,11:06 AM,Track Single,Far Hills Station,False
+Gladstone,12:01 PM,Track Single,Far Hills Station,False
+Hoboken,12:06 PM,Track Single,Far Hills Station,False
+Gladstone,1:01 PM,Track Single,Far Hills Station,False
+Hoboken,1:06 PM,Track Single,Far Hills Station,False
+Gladstone,2:02 PM,Track Single,Far Hills Station,False
+Hoboken,2:06 PM,Track Single,Far Hills Station,False
+Gladstone,3:01 PM,Track Single,Far Hills Station,False
+Hoboken,3:03 PM,Track Single,Far Hills Station,False
+Gladstone,4:03 PM,Track Single,Far Hills Station,False
+Hoboken,4:06 PM,Track Single,Far Hills Station,False
+Hoboken,5:01 PM,Track Single,Far Hills Station,False
+Gladstone,5:39 PM,Track Single,Far Hills Station,False
+Gladstone,6:17 PM,Track Single,Far Hills Station,False
+Gladstone,6:42 PM,Track Single,Far Hills Station,False
+Gladstone,6:54 PM,Track Single,Far Hills Station,False
+Gladstone,7:13 PM,Track Single,Far Hills Station,False
+Gladstone,7:30 PM,Track Single,Far Hills Station,False
+Hoboken -SEC,"10:44 AM
+           in 22 Min",Track 2,Garfield Station,True
+Ridgewood,11:04 AM,Track 1,Garfield Station,True
+Hoboken -SEC,11:44 AM,Track 2,Garfield Station,True
+Ridgewood,12:04 PM,Track 1,Garfield Station,True
+Hoboken -SEC,12:43 PM,Track 2,Garfield Station,True
+Suffern,1:04 PM,Track 1,Garfield Station,True
+Hoboken -SEC,1:45 PM,Track 2,Garfield Station,True
+Suffern,2:04 PM,Track 1,Garfield Station,True
+Hoboken -SEC,2:40 PM,Track 2,Garfield Station,True
+Suffern,3:00 PM,Track 1,Garfield Station,True
+Suffern,3:47 PM,Track 1,Garfield Station,True
+Hoboken -SEC,3:51 PM,Track 2,Garfield Station,True
+Waldwick,4:44 PM,Track 1,Garfield Station,True
+Waldwick,5:54 PM,Track 1,Garfield Station,True
+Suffern,7:03 PM,Track 1,Garfield Station,True
+Suffern,7:44 PM,Track 1,Garfield Station,True
+Suffern,8:38 PM,Track 1,Garfield Station,True
+Suffern,9:36 PM,Track 1,Garfield Station,True
+Waldwick,10:42 PM,Track 1,Garfield Station,True
+High Bridge,"10:22 AM
+           in 3 Min",Track 1,Garwood Station,False
+New York -SEC,"10:27 AM
+           in 3 Min",Track 2,Garwood Station,False
+Raritan,11:19 AM,Track 1,Garwood Station,False
+New York -SEC,11:24 AM,Track 2,Garwood Station,False
+Raritan,12:19 PM,Track 1,Garwood Station,False
+New York -SEC,12:23 PM,Track 2,Garwood Station,False
+High Bridge,1:21 PM,Track 1,Garwood Station,False
+New York -SEC,1:25 PM,Track 2,Garwood Station,False
+Raritan,2:19 PM,Track 1,Garwood Station,False
+Newark Penn,2:24 PM,Track 2,Garwood Station,False
+High Bridge,3:20 PM,Track 1,Garwood Station,False
+Newark Penn,3:25 PM,Track 2,Garwood Station,False
+Raritan,4:32 PM,Track 1,Garwood Station,False
+Newark Penn,4:45 PM,Track 2,Garwood Station,False
+High Bridge,5:06 PM,Track 1,Garwood Station,False
+Newark Penn,5:58 PM,Track 2,Garwood Station,False
+Raritan,6:04 PM,Track 1,Garwood Station,False
+Newark Penn,6:28 PM,Track 2,Garwood Station,False
+Raritan,6:54 PM,Track 1,Garwood Station,False
+Hoboken,"10:26 AM
+           in 3 Min",Track Single,Gillette Station,False
+Gladstone,"10:39 AM
+           in 15 Min",Track Single,Gillette Station,False
+Hoboken,11:26 AM,Track Single,Gillette Station,False
+Gladstone,11:39 AM,Track Single,Gillette Station,False
+Hoboken,12:26 PM,Track Single,Gillette Station,False
+Gladstone,12:39 PM,Track Single,Gillette Station,False
+Hoboken,1:26 PM,Track Single,Gillette Station,False
+Gladstone,1:39 PM,Track Single,Gillette Station,False
+Hoboken,2:26 PM,Track Single,Gillette Station,False
+Gladstone,2:39 PM,Track Single,Gillette Station,False
+Hoboken,3:23 PM,Track Single,Gillette Station,False
+Gladstone,3:41 PM,Track Single,Gillette Station,False
+Bernardsville,4:25 PM,Track Single,Gillette Station,False
+Hoboken,4:33 PM,Track Single,Gillette Station,False
+Gladstone,5:18 PM,Track Single,Gillette Station,False
+Hoboken,5:26 PM,Track Single,Gillette Station,False
+Gladstone,5:57 PM,Track Single,Gillette Station,False
+Gladstone,6:18 PM,Track Single,Gillette Station,False
+Gladstone,6:31 PM,Track Single,Gillette Station,False
+Hoboken,10:56 AM,Track Single,Gladstone Station,True
+Hoboken,11:56 AM,Track Single,Gladstone Station,True
+Hoboken,12:56 PM,Track Single,Gladstone Station,True
+Hoboken,1:56 PM,Track Single,Gladstone Station,True
+Hoboken,2:54 PM,Track Single,Gladstone Station,True
+Hoboken,3:55 PM,Track Single,Gladstone Station,True
+Hoboken,4:53 PM,Track Single,Gladstone Station,True
+Hoboken,9:31 PM,Track Single,Gladstone Station,True
+Hoboken,10:49 PM,Track Single,Gladstone Station,True
+Hoboken,11:53 PM,Track Single,Gladstone Station,True
+New York -SEC,"10:22 AM
+           All Aboard",Track 2,Glen Ridge Station,False
+MSU,11:01 AM,Track 1,Glen Ridge Station,False
+New York -SEC,11:10 AM,Track 2,Glen Ridge Station,False
+MSU,12:01 PM,Track 1,Glen Ridge Station,False
+New York -SEC,12:07 PM,Track 2,Glen Ridge Station,False
+MSU,1:01 PM,Track 1,Glen Ridge Station,False
+New York -SEC,1:07 PM,Track 2,Glen Ridge Station,False
+MSU,2:01 PM,Track 1,Glen Ridge Station,False
+New York -SEC,2:07 PM,Track 2,Glen Ridge Station,False
+Dover,2:28 PM,Track 1,Glen Ridge Station,False
+New York -SEC,3:04 PM,Track 2,Glen Ridge Station,False
+MSU,3:23 PM,Track 1,Glen Ridge Station,False
+Denville,4:00 PM,Track 1,Glen Ridge Station,False
+MSU,4:18 PM,Track 1,Glen Ridge Station,False
+New York -SEC,4:36 PM,Track 2,Glen Ridge Station,False
+Hackettstown,4:58 PM,Track 1,Glen Ridge Station,False
+MSU,5:21 PM,Track 1,Glen Ridge Station,False
+New York -SEC,5:24 PM,Track 2,Glen Ridge Station,False
+MSU,5:51 PM,Track 1,Glen Ridge Station,False
+Port Jervis,"10:25 AM
+           in 3 Min",Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,"10:29 AM
+           in 7 Min",Track BC 2,Glen Rock Boro Hall Station,True
+Ridgewood,11:19 AM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,11:29 AM,Track 2,Glen Rock Boro Hall Station,True
+Ridgewood,12:19 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,12:29 PM,Track 2,Glen Rock Boro Hall Station,True
+Suffern,1:19 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,1:30 PM,Track 2,Glen Rock Boro Hall Station,True
+Suffern,2:20 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,2:25 PM,Track 2,Glen Rock Boro Hall Station,True
+Suffern,3:16 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,3:37 PM,Track 2,Glen Rock Boro Hall Station,True
+Suffern,4:02 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,4:53 PM,Track 2,Glen Rock Boro Hall Station,True
+Waldwick,4:59 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Suffern,5:24 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Ridgewood,5:37 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,5:41 PM,Track 2,Glen Rock Boro Hall Station,True
+Suffern,5:54 PM,Track BC 1,Glen Rock Boro Hall Station,True
+Hoboken -SEC,"10:22 AM
+           All Aboard",Track 2,Glen Rock Main Line Station,False
+Hoboken -SEC,11:22 AM,Track 2,Glen Rock Main Line Station,False
+Suffern,11:28 AM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,12:22 PM,Track 2,Glen Rock Main Line Station,False
+Suffern,12:27 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,1:22 PM,Track 2,Glen Rock Main Line Station,False
+Waldwick,1:28 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,2:20 PM,Track 2,Glen Rock Main Line Station,False
+Waldwick,2:26 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,3:15 PM,Track 2,Glen Rock Main Line Station,False
+Suffern,3:29 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,3:46 PM,Track 2,Glen Rock Main Line Station,False
+Waldwick,4:18 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,4:33 PM,Track 2,Glen Rock Main Line Station,False
+Ridgewood,5:11 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,5:23 PM,Track 2,Glen Rock Main Line Station,False
+Waldwick,5:58 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken -SEC,6:15 PM,Track 2,Glen Rock Main Line Station,False
+Waldwick,6:30 PM,Track 1,Glen Rock Main Line Station,False
+Hoboken,11:58 AM,Track Single,Hackettstown Station,True
+Hoboken,4:51 PM,Track Single,Hackettstown Station,True
+Hoboken,7:06 PM,Track Single,Hackettstown Station,True
+Hoboken,8:32 PM,Track Single,Hackettstown Station,True
+Trenton,"10:38 AM
+           Cancelled",Track 4,Hamilton Station,True
+New York -SEC ✈,"10:47 AM
+           in 22 Min",Track 1,Hamilton Station,True
+Trenton,10:58 AM,Track 4,Hamilton Station,True
+Trenton,11:19 AM,Track 4,Hamilton Station,True
+New York -SEC ✈,11:34 AM,Track 1,Hamilton Station,True
+New York -SEC ✈,11:58 AM,Track 1,Hamilton Station,True
+Trenton,12:02 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,12:27 PM,Track 1,Hamilton Station,True
+Trenton,12:36 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,12:56 PM,Track 1,Hamilton Station,True
+Trenton,12:59 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,1:15 PM,Track 1,Hamilton Station,True
+Trenton,1:24 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,1:50 PM,Track 1,Hamilton Station,True
+Trenton,1:58 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,2:18 PM,Track 1,Hamilton Station,True
+Trenton,2:26 PM,Track 4,Hamilton Station,True
+Trenton,2:53 PM,Track 4,Hamilton Station,True
+New York -SEC ✈,3:05 PM,Track 1,Hamilton Station,True
+Philadelphia,"10:47 AM
+           in 22 Min",Track Single,Hammonton Station,True
+Atlantic City,12:07 PM,Track Single,Hammonton Station,True
+Philadelphia,12:39 PM,Track Single,Hammonton Station,True
+Atlantic City,1:58 PM,Track Single,Hammonton Station,True
+Philadelphia,2:30 PM,Track Single,Hammonton Station,True
+Atlantic City,3:50 PM,Track Single,Hammonton Station,True
+Philadelphia,4:22 PM,Track Single,Hammonton Station,True
+Philadelphia,5:31 PM,Track Single,Hammonton Station,True
+Atlantic City,5:42 PM,Track Single,Hammonton Station,True
+Atlantic City,6:53 PM,Track Single,Hammonton Station,True
+Philadelphia,7:26 PM,Track Single,Hammonton Station,True
+Atlantic City,8:03 PM,Track Single,Hammonton Station,True
+Philadelphia,9:25 PM,Track Single,Hammonton Station,True
+Atlantic City,10:02 PM,Track Single,Hammonton Station,True
+Philadelphia,11:23 PM,Track Single,Hammonton Station,True
+Atlantic City,11:58 PM,Track Single,Hammonton Station,True
+Atlantic City,1:50 AM,Track Single,Hammonton Station,True
+Hoboken -SEC,"10:28 AM
+           in 3 Min",Track Single,Harriman Station,True
+Port Jervis,11:14 AM,Track Single,Harriman Station,True
+Hoboken -SEC,12:42 PM,Track Single,Harriman Station,True
+Middletown,1:50 PM,Track Single,Harriman Station,True
+Hoboken -SEC,2:42 PM,Track Single,Harriman Station,True
+Middletown,3:49 PM,Track Single,Harriman Station,True
+Hoboken -SEC,3:57 PM,Track Single,Harriman Station,True
+Port Jervis,5:12 PM,Track Single,Harriman Station,True
+Port Jervis,5:53 PM,Track Single,Harriman Station,True
+Port Jervis,6:22 PM,Track Single,Harriman Station,True
+Port Jervis,6:53 PM,Track Single,Harriman Station,True
+Port Jervis,7:17 PM,Track Single,Harriman Station,True
+Port Jervis,7:35 PM,Track Single,Harriman Station,True
+Port Jervis,8:05 PM,Track Single,Harriman Station,True
+Port Jervis,9:01 PM,Track Single,Harriman Station,True
+Hoboken -SEC,10:30 PM,Track Single,Harriman Station,True
+Port Jervis,11:29 PM,Track Single,Harriman Station,True
+Port Jervis,2:09 AM,Track Single,Harriman Station,True
+Hoboken -SEC,"10:26 AM
+           in 4 Min",Track 2,Hawthorne Station,False
+Suffern,11:24 AM,Track 1,Hawthorne Station,False
+Hoboken -SEC,11:26 AM,Track 2,Hawthorne Station,False
+Suffern,12:23 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,12:26 PM,Track 2,Hawthorne Station,False
+Waldwick,1:25 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,1:26 PM,Track 2,Hawthorne Station,False
+Waldwick,2:23 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,2:24 PM,Track 2,Hawthorne Station,False
+Hoboken -SEC,3:18 PM,Track 2,Hawthorne Station,False
+Suffern,3:25 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,3:50 PM,Track 2,Hawthorne Station,False
+Waldwick,4:14 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,4:37 PM,Track 2,Hawthorne Station,False
+Ridgewood,5:07 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,5:26 PM,Track 2,Hawthorne Station,False
+Waldwick,5:54 PM,Track 1,Hawthorne Station,False
+Hoboken -SEC,6:18 PM,Track 2,Hawthorne Station,False
+Waldwick,6:26 PM,Track 1,Hawthorne Station,False
+Long Branch,10:59 AM,Track 1,Hazlet Station,True
+New York -SEC ✈,11:18 AM,Track 2,Hazlet Station,True
+Long Branch,11:55 AM,Track 1,Hazlet Station,True
+New York -SEC ✈,12:15 PM,Track 2,Hazlet Station,True
+Long Branch,12:38 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,1:15 PM,Track 2,Hazlet Station,True
+Long Branch,1:19 PM,Track 1,Hazlet Station,True
+Long Branch,1:57 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,2:16 PM,Track 2,Hazlet Station,True
+Long Branch,2:55 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,3:13 PM,Track 2,Hazlet Station,True
+Long Branch,3:56 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,4:07 PM,Track 2,Hazlet Station,True
+Long Branch,4:44 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,5:07 PM,Track 2,Hazlet Station,True
+Bay Head,5:33 PM,Track 1,Hazlet Station,True
+New York -SEC ✈,6:01 PM,Track 2,Hazlet Station,True
+Bay Head,6:04 PM,Track 1,Hazlet Station,True
+Long Branch,6:28 PM,Track 1,Hazlet Station,True
+New York -SEC,12:19 PM,Track Single,High Bridge Station,False
+Newark Penn,3:04 PM,Track Single,High Bridge Station,False
+Newark Penn,4:55 PM,Track Single,High Bridge Station,False
+Gladstone,11:06 AM,Track 3,Highland Avenue Station,False
+Hoboken,11:08 AM,Track 2,Highland Avenue Station,False
+Hoboken,12:01 PM,Track 2,Highland Avenue Station,False
+Gladstone,12:06 PM,Track 3,Highland Avenue Station,False
+Hoboken,1:01 PM,Track 2,Highland Avenue Station,False
+Gladstone,1:06 PM,Track 3,Highland Avenue Station,False
+Hoboken,1:29 PM,Track 2,Highland Avenue Station,False
+Hoboken,2:01 PM,Track 2,Highland Avenue Station,False
+Gladstone,2:06 PM,Track 3,Highland Avenue Station,False
+Hoboken,3:01 PM,Track 2,Highland Avenue Station,False
+Gladstone,3:10 PM,Track 3,Highland Avenue Station,False
+Summit,3:58 PM,Track 3,Highland Avenue Station,False
+Hoboken,4:02 PM,Track 2,Highland Avenue Station,False
+New York,4:15 PM,Track 2,Highland Avenue Station,False
+Summit,4:37 PM,Track 3,Highland Avenue Station,False
+Hoboken,4:51 PM,Track 2,Highland Avenue Station,False
+Hoboken,5:05 PM,Track 2,Highland Avenue Station,False
+Summit,5:14 PM,Track 3,Highland Avenue Station,False
+Hoboken,5:16 PM,Track 2,Highland Avenue Station,False
+Spring Valley,"10:46 AM
+           in 22 Min",Track Single,Hillsdale Station,False
+Hoboken -SEC,11:15 AM,Track Single,Hillsdale Station,False
+Spring Valley,12:10 PM,Track Single,Hillsdale Station,False
+Hoboken -SEC,12:40 PM,Track Single,Hillsdale Station,False
+Spring Valley,1:20 PM,Track Single,Hillsdale Station,False
+Spring Valley,2:37 PM,Track Single,Hillsdale Station,False
+Hoboken -SEC,3:06 PM,Track Single,Hillsdale Station,False
+Spring Valley,3:45 PM,Track Single,Hillsdale Station,False
+Hoboken -SEC,4:14 PM,Track Single,Hillsdale Station,False
+Spring Valley,4:53 PM,Track Single,Hillsdale Station,False
+Spring Valley,5:30 PM,Track Single,Hillsdale Station,False
+Spring Valley,5:52 PM,Track Single,Hillsdale Station,False
+Spring Valley,6:33 PM,Track Single,Hillsdale Station,False
+Spring Valley,6:52 PM,Track Single,Hillsdale Station,False
+Spring Valley,7:11 PM,Track Single,Hillsdale Station,False
+Spring Valley,7:40 PM,Track Single,Hillsdale Station,False
+Spring Valley,8:18 PM,Track Single,Hillsdale Station,False
+Spring Valley,9:11 PM,Track Single,Hillsdale Station,False
+Hoboken -SEC,9:38 PM,Track Single,Hillsdale Station,False
+Hoboken -SEC,"10:22 AM
+           All Aboard",Track 2,Ho-Ho-Kus Station,False
+Hoboken -SEC,11:16 AM,Track 2,Ho-Ho-Kus Station,False
+Hoboken -SEC,11:23 AM,Track 2,Ho-Ho-Kus Station,False
+Suffern,11:34 AM,Track 3,Ho-Ho-Kus Station,False
+Hoboken -SEC,12:16 PM,Track 2,Ho-Ho-Kus Station,False
+Hoboken -SEC,12:22 PM,Track 2,Ho-Ho-Kus Station,False
+Suffern,12:34 PM,Track 3,Ho-Ho-Kus Station,False
+Hoboken -SEC,1:16 PM,Track 2,Ho-Ho-Kus Station,False
+Hoboken -SEC,1:23 PM,Track 2,Ho-Ho-Kus Station,False
+Suffern,1:25 PM,Track 3,Ho-Ho-Kus Station,False
+Waldwick,1:35 PM,Track 3,Ho-Ho-Kus Station,False
+Hoboken -SEC,2:14 PM,Track 2,Ho-Ho-Kus Station,False
+Hoboken -SEC,2:18 PM,Track 2,Ho-Ho-Kus Station,False
+Suffern,2:26 PM,Track 3,Ho-Ho-Kus Station,False
+Waldwick,2:33 PM,Track 3,Ho-Ho-Kus Station,False
+Hoboken -SEC,3:08 PM,Track 2,Ho-Ho-Kus Station,False
+Suffern,3:22 PM,Track 3,Ho-Ho-Kus Station,False
+Hoboken -SEC,3:30 PM,Track 2,Ho-Ho-Kus Station,False
+Suffern,3:35 PM,Track 3,Ho-Ho-Kus Station,False
+Gladstone,10:38 AM,Track 16,Hoboken Terminal,True
+Ridgewood -SEC,10:39 AM,Track 2,Hoboken Terminal,True
+Suffern -SEC,10:45 AM,Track 9,Hoboken Terminal,True
+Spring Valley -SEC,11:17 AM,Track 11,Hoboken Terminal,True
+Gladstone,11:38 AM,Track 13,Hoboken Terminal,True
+Ridgewood -SEC,11:39 AM,Track 7,Hoboken Terminal,True
+Suffern -SEC,11:45 AM,Track 17,Hoboken Terminal,True
+Spring Valley -SEC,12:29 PM,Track 3,Hoboken Terminal,True
+Gladstone,12:38 PM,Track 12,Hoboken Terminal,True
+Suffern -SEC,12:39 PM,Track 4,Hoboken Terminal,True
+Middletown -SEC,12:42 PM,Track 10,Hoboken Terminal,True
+Waldwick -SEC,12:46 PM,Track,Hoboken Terminal,True
+Gladstone,1:38 PM,Track 16,Hoboken Terminal,True
+Suffern -SEC,1:39 PM,Track 13,Hoboken Terminal,True
+Waldwick -SEC,1:44 PM,Track 9,Hoboken Terminal,True
+Spring Valley -SEC,1:48 PM,Track 11,Hoboken Terminal,True
+Dover,1:58 PM,Track 7,Hoboken Terminal,True
+Hackettstown,2:27 PM,Track 6,Hoboken Terminal,True
+Suffern -SEC,2:35 PM,Track 3,Hoboken Terminal,True
+Trenton,"10:38 AM
+           in 22 Min",Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,11:37 AM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,12:38 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,1:04 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,1:39 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,2:06 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,2:34 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,3:09 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,3:47 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,4:24 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,6:28 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,7:02 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,7:20 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,7:28 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,7:41 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,8:06 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,8:14 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,8:34 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Trenton,9:05 PM,Track 4,Jersey Avenue Station (Northeast Corridor),False
+Hackettstown,10:58 AM,Track Single,Lake Hopatcong Station,False
+Hoboken,12:19 PM,Track Single,Lake Hopatcong Station,False
+Hackettstown,3:55 PM,Track Single,Lake Hopatcong Station,False
+Hoboken,5:13 PM,Track Single,Lake Hopatcong Station,False
+Mount Olive,5:26 PM,Track Single,Lake Hopatcong Station,False
+Hoboken,6:07 PM,Track Single,Lake Hopatcong Station,False
+Hackettstown,6:16 PM,Track Single,Lake Hopatcong Station,False
+Mount Olive,6:45 PM,Track Single,Lake Hopatcong Station,False
+Hoboken,7:27 PM,Track Single,Lake Hopatcong Station,False
+Hackettstown,7:38 PM,Track Single,Lake Hopatcong Station,False
+Hoboken,8:52 PM,Track Single,Lake Hopatcong Station,False
+Hackettstown,9:06 PM,Track Single,Lake Hopatcong Station,False
+Hackettstown,10:42 PM,Track Single,Lake Hopatcong Station,False
+Mount Olive,11:47 PM,Track Single,Lake Hopatcong Station,False
+High Bridge,11:19 AM,Track 1,Lebanon Station,False
+New York -SEC,12:27 PM,Track 1,Lebanon Station,False
+High Bridge,2:17 PM,Track 1,Lebanon Station,False
+Newark Penn,3:12 PM,Track 1,Lebanon Station,False
+High Bridge,4:14 PM,Track 1,Lebanon Station,False
+Newark Penn,5:03 PM,Track 1,Lebanon Station,False
+High Bridge,6:06 PM,Track 1,Lebanon Station,False
+High Bridge,6:40 PM,Track 1,Lebanon Station,False
+High Bridge,7:32 PM,Track 1,Lebanon Station,False
+High Bridge,8:30 PM,Track 1,Lebanon Station,False
+High Bridge,10:23 PM,Track 1,Lebanon Station,False
+High Bridge,12:23 AM,Track 1,Lebanon Station,False
+Trenton,"10:26 AM
+           All Aboard",Track 5,Liberty International Airport,True
+New York -SEC,"10:28 AM
+           in 2 Min",Track A,Liberty International Airport,True
+New York -SEC,"10:47 AM
+           in 21 Min",Track A,Liberty International Airport,True
+Trenton,11:00 AM,Track 5,Liberty International Airport,True
+New York -SEC,11:06 AM,Track A,Liberty International Airport,True
+Long Branch,11:08 AM,Track 5,Liberty International Airport,True
+New York -SEC,11:18 AM,Track A,Liberty International Airport,True
+Washington,11:24 AM,Track 4,Liberty International Airport,True
+Trenton,11:33 AM,Track 5,Liberty International Airport,True
+Long Branch,11:48 AM,Track 5,Liberty International Airport,True
+New York -SEC,11:48 AM,Track A,Liberty International Airport,True
+Trenton,12:01 PM,Track 5,Liberty International Airport,True
+New York -SEC,12:10 PM,Track A,Liberty International Airport,True
+Trenton,12:25 PM,Track 5,Liberty International Airport,True
+New York,12:33 PM,Track 1,Liberty International Airport,True
+New York -SEC,12:34 PM,Track A,Liberty International Airport,True
+Long Branch,12:37 PM,Track 5,Liberty International Airport,True
+New York -SEC,12:55 PM,Track A,Liberty International Airport,True
+Trenton,12:59 PM,Track 5,Liberty International Airport,True
+Dover,3:04 PM,Track Single,Lincoln Park Station,False
+Denville,4:35 PM,Track Single,Lincoln Park Station,False
+Hackettstown,5:35 PM,Track Single,Lincoln Park Station,False
+Mount Olive,6:05 PM,Track Single,Lincoln Park Station,False
+Dover,6:47 PM,Track Single,Lincoln Park Station,False
+Lake Hopatcong,7:35 PM,Track Single,Lincoln Park Station,False
+Hackettstown,8:27 PM,Track Single,Lincoln Park Station,False
+Hackettstown,10:02 PM,Track Single,Lincoln Park Station,False
+Mount Olive,11:09 PM,Track Single,Lincoln Park Station,False
+Long Branch,"10:20 AM
+           All Aboard",Track B,Linden Station,True
+Trenton,"10:36 AM
+           in 10 Min",Track B,Linden Station,True
+New York -SEC ✈,"10:54 AM
+           in 28 Min",Track A,Linden Station,True
+New York -SEC ✈,11:05 AM,Track A,Linden Station,True
+Trenton,11:10 AM,Track B,Linden Station,True
+Long Branch,11:19 AM,Track B,Linden Station,True
+New York -SEC ✈,11:36 AM,Track A,Linden Station,True
+Trenton,11:45 AM,Track B,Linden Station,True
+New York -SEC ✈,11:57 AM,Track A,Linden Station,True
+Long Branch,12:00 PM,Track B,Linden Station,True
+Trenton,12:11 PM,Track B,Linden Station,True
+New York -SEC ✈,12:22 PM,Track A,Linden Station,True
+Trenton,12:37 PM,Track B,Linden Station,True
+New York -SEC ✈,12:44 PM,Track A,Linden Station,True
+New York -SEC ✈,12:55 PM,Track A,Linden Station,True
+Trenton,1:09 PM,Track B,Linden Station,True
+New York -SEC ✈,1:13 PM,Track A,Linden Station,True
+Long Branch,1:22 PM,Track B,Linden Station,True
+Trenton,1:39 PM,Track B,Linden Station,True
+Philadelphia,11:07 AM,Track Single,Lindenwold Station,True
+Atlantic City,11:46 AM,Track Single,Lindenwold Station,True
+Philadelphia,12:59 PM,Track Single,Lindenwold Station,True
+Atlantic City,1:38 PM,Track Single,Lindenwold Station,True
+Philadelphia,2:51 PM,Track Single,Lindenwold Station,True
+Atlantic City,3:30 PM,Track Single,Lindenwold Station,True
+Philadelphia,4:42 PM,Track Single,Lindenwold Station,True
+Atlantic City,5:22 PM,Track Single,Lindenwold Station,True
+Philadelphia,5:54 PM,Track Single,Lindenwold Station,True
+Atlantic City,6:33 PM,Track Single,Lindenwold Station,True
+Atlantic City,7:43 PM,Track Single,Lindenwold Station,True
+Philadelphia,7:50 PM,Track Single,Lindenwold Station,True
+Atlantic City,9:41 PM,Track Single,Lindenwold Station,True
+Philadelphia,9:48 PM,Track Single,Lindenwold Station,True
+Atlantic City,11:35 PM,Track Single,Lindenwold Station,True
+Philadelphia,11:43 PM,Track Single,Lindenwold Station,True
+Atlantic City,1:30 AM,Track Single,Lindenwold Station,True
+Dover,2:53 PM,Track Single,Little Falls Station,False
+Denville,4:24 PM,Track Single,Little Falls Station,False
+Hackettstown,5:23 PM,Track Single,Little Falls Station,False
+Mount Olive,5:54 PM,Track Single,Little Falls Station,False
+Dover,6:36 PM,Track Single,Little Falls Station,False
+Lake Hopatcong,7:24 PM,Track Single,Little Falls Station,False
+Hackettstown,8:16 PM,Track Single,Little Falls Station,False
+Hackettstown,9:51 PM,Track Single,Little Falls Station,False
+Mount Olive,10:58 PM,Track Single,Little Falls Station,False
+New York -SEC ✈,11:02 AM,Track 2,Little Silver Station,False
+Long Branch,11:15 AM,Track 1,Little Silver Station,False
+New York -SEC ✈,11:59 AM,Track 2,Little Silver Station,False
+Long Branch,12:11 PM,Track 1,Little Silver Station,False
+Long Branch,12:54 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,12:59 PM,Track 2,Little Silver Station,False
+Long Branch,1:36 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,2:00 PM,Track 2,Little Silver Station,False
+Long Branch,2:13 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,2:57 PM,Track 2,Little Silver Station,False
+Long Branch,3:12 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,3:51 PM,Track 2,Little Silver Station,False
+Long Branch,4:12 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,4:51 PM,Track 2,Little Silver Station,False
+Long Branch,4:59 PM,Track 1,Little Silver Station,False
+New York -SEC ✈,5:45 PM,Track 2,Little Silver Station,False
+Bay Head,5:50 PM,Track 1,Little Silver Station,False
+Bay Head,6:21 PM,Track 1,Little Silver Station,False
+New York -SEC,6:22 PM,Track 2,Little Silver Station,False
+New York -SEC ✈,10:54 AM,Track 1,Long Branch Station,True
+Bay Head,11:28 AM,Track 2,Long Branch Station,True
+New York -SEC ✈,11:52 AM,Track 1,Long Branch Station,True
+Bay Head,12:26 PM,Track 2,Long Branch Station,True
+New York -SEC ✈,12:52 PM,Track 1,Long Branch Station,True
+New York -SEC ✈,1:53 PM,Track 1,Long Branch Station,True
+Bay Head,2:26 PM,Track 2,Long Branch Station,True
+New York -SEC ✈,2:50 PM,Track 1,Long Branch Station,True
+New York -SEC ✈,3:44 PM,Track 1,Long Branch Station,True
+Bay Head,4:26 PM,Track 2,Long Branch Station,True
+New York -SEC ✈,4:44 PM,Track 1,Long Branch Station,True
+Bay Head,5:15 PM,Track 2,Long Branch Station,True
+New York -SEC ✈,5:38 PM,Track 1,Long Branch Station,True
+Bay Head,5:57 PM,Track 1,Long Branch Station,True
+New York -SEC,6:15 PM,Track 2,Long Branch Station,True
+Bay Head,6:28 PM,Track 1,Long Branch Station,True
+Bay Head,7:10 PM,Track 1,Long Branch Station,True
+New York -SEC ✈,7:21 PM,Track 1,Long Branch Station,True
+Bay Head,7:24 PM,Track 1,Long Branch Station,True
+Hoboken -SEC,"10:46 AM
+           in 23 Min",Track 2,Lyndhurst Station,True
+Suffern,11:03 AM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,11:46 AM,Track 2,Lyndhurst Station,True
+Suffern,12:03 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,12:46 PM,Track 2,Lyndhurst Station,True
+Waldwick,1:04 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,1:46 PM,Track 2,Lyndhurst Station,True
+Waldwick,2:02 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,2:44 PM,Track 2,Lyndhurst Station,True
+Suffern,3:04 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,3:38 PM,Track 2,Lyndhurst Station,True
+Waldwick,3:54 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,4:10 PM,Track 2,Lyndhurst Station,True
+Ridgewood,4:46 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,4:57 PM,Track 2,Lyndhurst Station,True
+Waldwick,5:31 PM,Track 1,Lyndhurst Station,True
+Hoboken -SEC,5:46 PM,Track 2,Lyndhurst Station,True
+Waldwick,6:03 PM,Track 1,Lyndhurst Station,True
+Waldwick,6:38 PM,Track 1,Lyndhurst Station,True
+Gladstone,"10:48 AM
+           in 21 Min",Track Single,Lyons Station,True
+Hoboken,11:18 AM,Track Single,Lyons Station,True
+Gladstone,11:48 AM,Track Single,Lyons Station,True
+Hoboken,12:18 PM,Track Single,Lyons Station,True
+Gladstone,12:48 PM,Track Single,Lyons Station,True
+Hoboken,1:18 PM,Track Single,Lyons Station,True
+Gladstone,1:48 PM,Track Single,Lyons Station,True
+Hoboken,2:18 PM,Track Single,Lyons Station,True
+Gladstone,2:48 PM,Track Single,Lyons Station,True
+Hoboken,3:15 PM,Track Single,Lyons Station,True
+Gladstone,3:50 PM,Track Single,Lyons Station,True
+Hoboken,4:19 PM,Track Single,Lyons Station,True
+Bernardsville,4:34 PM,Track Single,Lyons Station,True
+Hoboken,5:13 PM,Track Single,Lyons Station,True
+Gladstone,5:27 PM,Track Single,Lyons Station,True
+Gladstone,6:05 PM,Track Single,Lyons Station,True
+Gladstone,6:28 PM,Track Single,Lyons Station,True
+Gladstone,6:40 PM,Track Single,Lyons Station,True
+Gladstone,7:01 PM,Track Single,Lyons Station,True
+New York -SEC,"10:35 AM
+           in 9 Min",Track 2,Madison Station,True
+Dover,11:01 AM,Track 1,Madison Station,True
+New York -SEC,11:19 AM,Track 2,Madison Station,True
+Dover,11:44 AM,Track 1,Madison Station,True
+New York -SEC,12:26 PM,Track 2,Madison Station,True
+Dover,12:44 PM,Track 1,Madison Station,True
+Hoboken,1:00 PM,Track 2,Madison Station,True
+New York -SEC,1:26 PM,Track 2,Madison Station,True
+Dover,1:45 PM,Track 1,Madison Station,True
+New York,2:26 PM,Track 2,Madison Station,True
+Dover,2:52 PM,Track 1,Madison Station,True
+New York -SEC,3:09 PM,Track 2,Madison Station,True
+Hackettstown,3:13 PM,Track 1,Madison Station,True
+Dover,3:32 PM,Track 1,Madison Station,True
+New York,3:47 PM,Track 2,Madison Station,True
+Dover,4:12 PM,Track 1,Madison Station,True
+New York -SEC,4:12 PM,Track 2,Madison Station,True
+New York -SEC,4:30 PM,Track 2,Madison Station,True
+Mount Olive,4:44 PM,Track 1,Madison Station,True
+Port Jervis,"10:48 AM
+           in 21 Min",Track 1,Mahwah Station,False
+Hoboken -SEC,10:59 AM,Track 2,Mahwah Station,False
+Suffern,11:51 AM,Track 1,Mahwah Station,False
+Hoboken -SEC,11:59 AM,Track 2,Mahwah Station,False
+Suffern,12:51 PM,Track 1,Mahwah Station,False
+Hoboken -SEC,12:59 PM,Track 2,Mahwah Station,False
+Hoboken -SEC,1:07 PM,Track 2,Mahwah Station,False
+Suffern,1:42 PM,Track 1,Mahwah Station,False
+Hoboken -SEC,1:57 PM,Track 2,Mahwah Station,False
+Suffern,2:43 PM,Track 1,Mahwah Station,False
+Hoboken -SEC,2:52 PM,Track 2,Mahwah Station,False
+Hoboken -SEC,3:14 PM,Track 2,Mahwah Station,False
+Suffern,3:39 PM,Track 1,Mahwah Station,False
+Suffern,3:52 PM,Track 1,Mahwah Station,False
+Hoboken -SEC,4:10 PM,Track 2,Mahwah Station,False
+Suffern,4:26 PM,Track 1,Mahwah Station,False
+Hoboken -SEC,4:29 PM,Track 2,Mahwah Station,False
+Hoboken -SEC,5:00 PM,Track 2,Mahwah Station,False
+Suffern,5:16 PM,Track 1,Mahwah Station,False
+Long Branch,11:17 AM,Track 2,Manasquan Station,False
+Bay Head,11:55 AM,Track 1,Manasquan Station,False
+Bay Head,12:53 PM,Track 1,Manasquan Station,False
+Long Branch,1:18 PM,Track 2,Manasquan Station,False
+Bay Head,2:53 PM,Track 1,Manasquan Station,False
+Long Branch,3:09 PM,Track 2,Manasquan Station,False
+Long Branch,4:09 PM,Track 2,Manasquan Station,False
+Bay Head,4:53 PM,Track 1,Manasquan Station,False
+Long Branch,5:39 PM,Track 2,Manasquan Station,False
+Bay Head,5:42 PM,Track 1,Manasquan Station,False
+Bay Head,6:25 PM,Track 1,Manasquan Station,False
+Bay Head,6:56 PM,Track 1,Manasquan Station,False
+Long Branch,7:34 PM,Track 2,Manasquan Station,False
+Bay Head,7:37 PM,Track 1,Manasquan Station,False
+Bay Head,7:52 PM,Track 1,Manasquan Station,False
+Bay Head,8:28 PM,Track 1,Manasquan Station,False
+Long Branch,8:35 PM,Track 2,Manasquan Station,False
+Bay Head,8:59 PM,Track 1,Manasquan Station,False
+Bay Head,10:26 PM,Track 1,Manasquan Station,False
+New York -SEC,10:38 AM,Track 2,Maplewood Station,False
+Dover,"10:40 AM
+           in 14 Min",Track 3,Maplewood Station,False
+Hoboken,11:00 AM,Track 2,Maplewood Station,False
+Gladstone,11:12 AM,Track 3,Maplewood Station,False
+Dover,11:22 AM,Track 3,Maplewood Station,False
+New York -SEC,11:40 AM,Track 2,Maplewood Station,False
+Hoboken,11:53 AM,Track 2,Maplewood Station,False
+Gladstone,12:12 PM,Track 3,Maplewood Station,False
+Dover,12:22 PM,Track 3,Maplewood Station,False
+New York -SEC,12:47 PM,Track 2,Maplewood Station,False
+Hoboken,12:54 PM,Track 2,Maplewood Station,False
+Gladstone,1:12 PM,Track 3,Maplewood Station,False
+Hoboken,1:21 PM,Track 2,Maplewood Station,False
+Dover,1:23 PM,Track 3,Maplewood Station,False
+New York -SEC,1:47 PM,Track 2,Maplewood Station,False
+Hoboken,1:54 PM,Track 2,Maplewood Station,False
+Gladstone,2:13 PM,Track 3,Maplewood Station,False
+Dover,2:28 PM,Track 3,Maplewood Station,False
+New York,2:47 PM,Track 2,Maplewood Station,False
+Long Branch,10:55 AM,Track 1,Matawan Station,True
+New York -SEC ✈,11:22 AM,Track 2,Matawan Station,True
+Long Branch,11:51 AM,Track 1,Matawan Station,True
+New York -SEC ✈,12:19 PM,Track 2,Matawan Station,True
+Long Branch,12:34 PM,Track 1,Matawan Station,True
+Long Branch,1:15 PM,Track 1,Matawan Station,True
+New York -SEC ✈,1:19 PM,Track 2,Matawan Station,True
+Long Branch,1:53 PM,Track 1,Matawan Station,True
+New York -SEC ✈,2:20 PM,Track 2,Matawan Station,True
+Long Branch,2:51 PM,Track 1,Matawan Station,True
+New York -SEC ✈,3:17 PM,Track 2,Matawan Station,True
+Long Branch,3:52 PM,Track 1,Matawan Station,True
+New York -SEC ✈,4:11 PM,Track 2,Matawan Station,True
+Long Branch,4:40 PM,Track 1,Matawan Station,True
+New York -SEC ✈,5:11 PM,Track 2,Matawan Station,True
+Bay Head,5:29 PM,Track 1,Matawan Station,True
+Bay Head,6:00 PM,Track 1,Matawan Station,True
+New York -SEC ✈,6:04 PM,Track 2,Matawan Station,True
+Long Branch,6:24 PM,Track 1,Matawan Station,True
+Trenton,"10:20 AM
+           in 3 Min",Track 4,Metropark Station,True
+Washington,"10:25 AM
+           All Aboard",Track 4,Metropark Station,True
+New York -SEC ✈,"10:29 AM
+           in 2 Min",Track 1,Metropark Station,True
+Trenton,"10:45 AM
+           in 18 Min",Track 4,Metropark Station,True
+New York -SEC ✈,"10:54 AM
+           in 27 Min",Track 1,Metropark Station,True
+Norfolk,11:07 AM,Track 4,Metropark Station,True
+Trenton,11:20 AM,Track 4,Metropark Station,True
+New York -SEC ✈,11:24 AM,Track 1,Metropark Station,True
+Boston,11:41 AM,Track 1,Metropark Station,True
+Boston,11:51 AM,Track 1,Metropark Station,True
+Trenton,11:54 AM,Track 4,Metropark Station,True
+Newport News,12:06 PM,Track 4,Metropark Station,True
+New York -SEC ✈,12:11 PM,Track 1,Metropark Station,True
+Trenton,12:21 PM,Track 4,Metropark Station,True
+New York -SEC ✈,12:33 PM,Track 1,Metropark Station,True
+Trenton,12:46 PM,Track 4,Metropark Station,True
+New York -SEC ✈,1:02 PM,Track 1,Metropark Station,True
+Roanoke,1:17 PM,Track 4,Metropark Station,True
+Trenton,1:21 PM,Track 4,Metropark Station,True
+Trenton,"10:24 AM
+           in 7 Min",Track 4,Metuchen Station,True
+Trenton,"10:49 AM
+           in 23 Min",Track 4,Metuchen Station,True
+New York -SEC ✈,"10:49 AM
+           in 23 Min",Track 1,Metuchen Station,True
+New York -SEC ✈,11:19 AM,Track 1,Metuchen Station,True
+Trenton,11:24 AM,Track 4,Metuchen Station,True
+Trenton,11:58 AM,Track 4,Metuchen Station,True
+New York -SEC ✈,12:06 PM,Track 1,Metuchen Station,True
+Trenton,12:25 PM,Track 4,Metuchen Station,True
+New York -SEC ✈,12:29 PM,Track 1,Metuchen Station,True
+Trenton,12:51 PM,Track 4,Metuchen Station,True
+New York -SEC ✈,12:57 PM,Track 1,Metuchen Station,True
+Trenton,1:25 PM,Track 4,Metuchen Station,True
+New York -SEC ✈,1:27 PM,Track 1,Metuchen Station,True
+New York -SEC ✈,1:45 PM,Track 1,Metuchen Station,True
+Trenton,1:53 PM,Track 4,Metuchen Station,True
+New York -SEC ✈,2:21 PM,Track 1,Metuchen Station,True
+Trenton,2:21 PM,Track 4,Metuchen Station,True
+New York -SEC ✈,2:49 PM,Track 1,Metuchen Station,True
+Trenton,2:56 PM,Track 4,Metuchen Station,True
+Long Branch,11:05 AM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,11:12 AM,Track 2,Middletown New Jersey Station,True
+Long Branch,12:01 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,12:09 PM,Track 2,Middletown New Jersey Station,True
+Long Branch,12:44 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,1:09 PM,Track 2,Middletown New Jersey Station,True
+Long Branch,1:26 PM,Track 1,Middletown New Jersey Station,True
+Long Branch,2:03 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,2:10 PM,Track 2,Middletown New Jersey Station,True
+Long Branch,3:02 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,3:07 PM,Track 2,Middletown New Jersey Station,True
+New York -SEC ✈,4:01 PM,Track 2,Middletown New Jersey Station,True
+Long Branch,4:02 PM,Track 1,Middletown New Jersey Station,True
+Long Branch,4:49 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,5:01 PM,Track 2,Middletown New Jersey Station,True
+Bay Head,5:39 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC ✈,5:55 PM,Track 2,Middletown New Jersey Station,True
+Bay Head,6:11 PM,Track 1,Middletown New Jersey Station,True
+New York -SEC,6:32 PM,Track 2,Middletown New Jersey Station,True
+Port Jervis,11:48 AM,Track Single,Middletown New York Station,True
+Hoboken -SEC,12:07 PM,Track Single,Middletown New York Station,True
+Hoboken -SEC,2:07 PM,Track Single,Middletown New York Station,True
+Hoboken -SEC,3:20 PM,Track Single,Middletown New York Station,True
+Port Jervis,5:46 PM,Track Single,Middletown New York Station,True
+Port Jervis,6:28 PM,Track Single,Middletown New York Station,True
+Port Jervis,6:57 PM,Track Single,Middletown New York Station,True
+Port Jervis,7:28 PM,Track Single,Middletown New York Station,True
+Port Jervis,7:52 PM,Track Single,Middletown New York Station,True
+Port Jervis,8:09 PM,Track Single,Middletown New York Station,True
+Port Jervis,8:40 PM,Track Single,Middletown New York Station,True
+Port Jervis,9:34 PM,Track Single,Middletown New York Station,True
+Hoboken -SEC,9:57 PM,Track Single,Middletown New York Station,True
+Port Jervis,12:03 AM,Track Single,Middletown New York Station,True
+Port Jervis,2:43 AM,Track Single,Middletown New York Station,True
+New York -SEC,10:35 AM,Track 2,Millburn Station,False
+Dover,"10:44 AM
+           in 17 Min",Track 1,Millburn Station,False
+Hoboken,"10:57 AM
+           in 30 Min",Track 2,Millburn Station,False
+Gladstone,11:16 AM,Track 1,Millburn Station,False
+Dover,11:26 AM,Track 1,Millburn Station,False
+New York -SEC,11:36 AM,Track 2,Millburn Station,False
+Hoboken,11:50 AM,Track 2,Millburn Station,False
+Gladstone,12:16 PM,Track 1,Millburn Station,False
+Dover,12:26 PM,Track 1,Millburn Station,False
+New York -SEC,12:43 PM,Track 2,Millburn Station,False
+Hoboken,12:50 PM,Track 2,Millburn Station,False
+Gladstone,1:16 PM,Track 1,Millburn Station,False
+Hoboken,1:18 PM,Track 2,Millburn Station,False
+Dover,1:27 PM,Track 1,Millburn Station,False
+New York -SEC,1:43 PM,Track 2,Millburn Station,False
+Hoboken,1:50 PM,Track 2,Millburn Station,False
+Gladstone,2:16 PM,Track 1,Millburn Station,False
+Dover,2:32 PM,Track 1,Millburn Station,False
+New York,2:43 PM,Track 2,Millburn Station,False
+Gladstone,"10:45 AM
+           in 18 Min",Track Single,Millington Station,False
+Hoboken,11:21 AM,Track Single,Millington Station,False
+Gladstone,11:45 AM,Track Single,Millington Station,False
+Hoboken,12:21 PM,Track Single,Millington Station,False
+Gladstone,12:45 PM,Track Single,Millington Station,False
+Hoboken,1:21 PM,Track Single,Millington Station,False
+Gladstone,1:45 PM,Track Single,Millington Station,False
+Hoboken,2:21 PM,Track Single,Millington Station,False
+Gladstone,2:45 PM,Track Single,Millington Station,False
+Hoboken,3:18 PM,Track Single,Millington Station,False
+Gladstone,3:47 PM,Track Single,Millington Station,False
+Hoboken,4:22 PM,Track Single,Millington Station,False
+Bernardsville,4:31 PM,Track Single,Millington Station,False
+Hoboken,5:16 PM,Track Single,Millington Station,False
+Gladstone,5:24 PM,Track Single,Millington Station,False
+Gladstone,6:02 PM,Track Single,Millington Station,False
+Gladstone,6:25 PM,Track Single,Millington Station,False
+Gladstone,6:37 PM,Track Single,Millington Station,False
+Gladstone,6:58 PM,Track Single,Millington Station,False
+MSU,"10:32 AM
+           in 5 Min",Track 1,Montclair Heights Station,True
+New York -SEC,10:53 AM,Track 2,Montclair Heights Station,True
+MSU,11:17 AM,Track 1,Montclair Heights Station,True
+New York -SEC,11:51 AM,Track 2,Montclair Heights Station,True
+MSU,12:17 PM,Track 1,Montclair Heights Station,True
+New York -SEC,12:51 PM,Track 2,Montclair Heights Station,True
+MSU,1:17 PM,Track 1,Montclair Heights Station,True
+New York -SEC,1:51 PM,Track 2,Montclair Heights Station,True
+MSU,2:17 PM,Track 1,Montclair Heights Station,True
+Dover,2:44 PM,Track 1,Montclair Heights Station,True
+New York -SEC,2:49 PM,Track 2,Montclair Heights Station,True
+MSU,3:39 PM,Track 1,Montclair Heights Station,True
+Denville,4:15 PM,Track 1,Montclair Heights Station,True
+New York -SEC,4:20 PM,Track 2,Montclair Heights Station,True
+MSU,4:35 PM,Track 1,Montclair Heights Station,True
+New York -SEC,5:10 PM,Track 2,Montclair Heights Station,True
+Hackettstown,5:14 PM,Track 1,Montclair Heights Station,True
+MSU,5:38 PM,Track 1,Montclair Heights Station,True
+MSU,6:07 PM,Track 1,Montclair Heights Station,True
+New York -SEC,10:51 AM,Track 2,Montclair State University Station,True
+New York -SEC,11:47 AM,Track 2,Montclair State University Station,True
+New York -SEC,12:47 PM,Track 2,Montclair State University Station,True
+New York -SEC,1:47 PM,Track 2,Montclair State University Station,True
+New York -SEC,2:45 PM,Track 2,Montclair State University Station,True
+Dover,2:47 PM,Track 1,Montclair State University Station,True
+New York -SEC,4:17 PM,Track 2,Montclair State University Station,True
+Denville,4:18 PM,Track 1,Montclair State University Station,True
+New York -SEC,5:07 PM,Track 1,Montclair State University Station,True
+Hackettstown,5:17 PM,Track 1,Montclair State University Station,True
+Mount Olive,5:48 PM,Track 1,Montclair State University Station,True
+New York -SEC,6:06 PM,Track 2,Montclair State University Station,True
+Dover,6:30 PM,Track 1,Montclair State University Station,True
+Hoboken,6:39 PM,Track 2,Montclair State University Station,True
+Lake Hopatcong,7:18 PM,Track 1,Montclair State University Station,True
+Hoboken,7:22 PM,Track 2,Montclair State University Station,True
+New York -SEC,8:04 PM,Track 2,Montclair State University Station,True
+Hackettstown,8:09 PM,Track 1,Montclair State University Station,True
+New York -SEC,9:09 PM,Track 2,Montclair State University Station,True
+Spring Valley,"10:53 AM
+           in 27 Min",Track Single,Montvale Station,True
+Hoboken -SEC,11:08 AM,Track Single,Montvale Station,True
+Spring Valley,12:16 PM,Track Single,Montvale Station,True
+Hoboken -SEC,12:33 PM,Track Single,Montvale Station,True
+Spring Valley,1:27 PM,Track Single,Montvale Station,True
+Spring Valley,2:44 PM,Track Single,Montvale Station,True
+Hoboken -SEC,2:59 PM,Track Single,Montvale Station,True
+Spring Valley,3:53 PM,Track Single,Montvale Station,True
+Hoboken -SEC,4:07 PM,Track Single,Montvale Station,True
+Spring Valley,5:01 PM,Track Single,Montvale Station,True
+Spring Valley,5:38 PM,Track Single,Montvale Station,True
+Spring Valley,6:00 PM,Track Single,Montvale Station,True
+Spring Valley,6:42 PM,Track Single,Montvale Station,True
+Spring Valley,7:01 PM,Track Single,Montvale Station,True
+Spring Valley,7:20 PM,Track Single,Montvale Station,True
+Spring Valley,7:49 PM,Track Single,Montvale Station,True
+Spring Valley,8:26 PM,Track Single,Montvale Station,True
+Spring Valley,9:19 PM,Track Single,Montvale Station,True
+Hoboken -SEC,9:31 PM,Track Single,Montvale Station,True
+Hackettstown,"10:29 AM
+           in 1 Min",Track 1,Morris Plains Station,False
+New York -SEC,11:07 AM,Track 2,Morris Plains Station,False
+Dover,11:13 AM,Track 1,Morris Plains Station,False
+Dover,11:56 AM,Track 1,Morris Plains Station,False
+New York -SEC,12:14 PM,Track 2,Morris Plains Station,False
+Hoboken,12:49 PM,Track 2,Morris Plains Station,False
+Dover,12:56 PM,Track 1,Morris Plains Station,False
+New York -SEC,1:14 PM,Track 2,Morris Plains Station,False
+Dover,1:57 PM,Track 1,Morris Plains Station,False
+New York,2:14 PM,Track 2,Morris Plains Station,False
+New York -SEC,2:57 PM,Track 2,Morris Plains Station,False
+Dover,3:06 PM,Track 1,Morris Plains Station,False
+Hackettstown,3:26 PM,Track 1,Morris Plains Station,False
+New York,3:35 PM,Track 2,Morris Plains Station,False
+Dover,3:45 PM,Track 1,Morris Plains Station,False
+New York -SEC,4:00 PM,Track 2,Morris Plains Station,False
+New York -SEC,4:18 PM,Track 2,Morris Plains Station,False
+Dover,4:24 PM,Track 1,Morris Plains Station,False
+Hoboken,4:35 PM,Track 2,Morris Plains Station,False
+New York -SEC,"10:27 AM
+           All Aboard",Track 2,Morristown Station,True
+Dover,11:09 AM,Track 1,Morristown Station,True
+New York -SEC,11:11 AM,Track 2,Morristown Station,True
+Dover,11:52 AM,Track 1,Morristown Station,True
+New York -SEC,12:18 PM,Track 2,Morristown Station,True
+Dover,12:52 PM,Track 1,Morristown Station,True
+Hoboken,12:52 PM,Track 2,Morristown Station,True
+New York -SEC,1:18 PM,Track 2,Morristown Station,True
+Dover,1:53 PM,Track 1,Morristown Station,True
+New York,2:18 PM,Track 2,Morristown Station,True
+Dover,3:01 PM,Track 1,Morristown Station,True
+New York -SEC,3:01 PM,Track 2,Morristown Station,True
+Hackettstown,3:21 PM,Track 1,Morristown Station,True
+New York,3:39 PM,Track 2,Morristown Station,True
+Dover,3:40 PM,Track 1,Morristown Station,True
+New York -SEC,4:04 PM,Track 2,Morristown Station,True
+Dover,4:20 PM,Track 1,Morristown Station,True
+New York -SEC,4:22 PM,Track 2,Morristown Station,True
+Hoboken,4:38 PM,Track 2,Morristown Station,True
+Hackettstown,"10:53 AM
+           in 25 Min",Track 1,Mount Arlington Station,True
+Hoboken,12:23 PM,Track 1,Mount Arlington Station,True
+Hackettstown,3:50 PM,Track 1,Mount Arlington Station,True
+Hoboken,5:17 PM,Track 2,Mount Arlington Station,True
+Mount Olive,5:20 PM,Track 1,Mount Arlington Station,True
+Hackettstown,6:10 PM,Track 1,Mount Arlington Station,True
+Hoboken,6:12 PM,Track 2,Mount Arlington Station,True
+Mount Olive,6:40 PM,Track 1,Mount Arlington Station,True
+Lake Hopatcong,6:57 PM,Track 1,Mount Arlington Station,True
+Hoboken,7:31 PM,Track 2,Mount Arlington Station,True
+Hackettstown,7:33 PM,Track 1,Mount Arlington Station,True
+Lake Hopatcong,8:10 PM,Track 1,Mount Arlington Station,True
+Hoboken,8:56 PM,Track 2,Mount Arlington Station,True
+Hackettstown,9:01 PM,Track 1,Mount Arlington Station,True
+Hackettstown,10:37 PM,Track 1,Mount Arlington Station,True
+Mount Olive,11:42 PM,Track 1,Mount Arlington Station,True
+Hackettstown,11:09 AM,Track Single,Mount Olive Station,True
+Hoboken,12:09 PM,Track Single,Mount Olive Station,True
+Hackettstown,4:07 PM,Track Single,Mount Olive Station,True
+Hoboken,5:02 PM,Track Single,Mount Olive Station,True
+Hoboken,5:56 PM,Track Single,Mount Olive Station,True
+Hackettstown,6:26 PM,Track Single,Mount Olive Station,True
+Hoboken,7:17 PM,Track Single,Mount Olive Station,True
+Hackettstown,7:49 PM,Track Single,Mount Olive Station,True
+Hoboken,8:43 PM,Track Single,Mount Olive Station,True
+Hackettstown,9:16 PM,Track Single,Mount Olive Station,True
+Hackettstown,10:54 PM,Track Single,Mount Olive Station,True
+Hackettstown,"10:36 AM
+           in 8 Min",Track 1,Mount Tabor Station,False
+New York -SEC,11:01 AM,Track 2,Mount Tabor Station,False
+Dover,11:20 AM,Track 1,Mount Tabor Station,False
+Hoboken,12:42 PM,Track 2,Mount Tabor Station,False
+New York -SEC,2:51 PM,Track 2,Mount Tabor Station,False
+Dover,3:13 PM,Track 1,Mount Tabor Station,False
+Hackettstown,3:33 PM,Track 1,Mount Tabor Station,False
+Dover,3:52 PM,Track 1,Mount Tabor Station,False
+New York -SEC,4:12 PM,Track 2,Mount Tabor Station,False
+Hoboken,4:28 PM,Track 2,Mount Tabor Station,False
+Mount Olive,5:03 PM,Track 1,Mount Tabor Station,False
+Hoboken,5:36 PM,Track 2,Mount Tabor Station,False
+Dover,5:46 PM,Track 1,Mount Tabor Station,False
+Dover,6:16 PM,Track 1,Mount Tabor Station,False
+Lake Hopatcong,6:40 PM,Track 1,Mount Tabor Station,False
+Hackettstown,7:14 PM,Track 1,Mount Tabor Station,False
+Hoboken,7:48 PM,Track 2,Mount Tabor Station,False
+Dover,7:57 PM,Track 1,Mount Tabor Station,False
+Dover,8:32 PM,Track 1,Mount Tabor Station,False
+MSU,"10:30 AM
+           in 3 Min",Track 1,Mountain Avenue Station,False
+New York -SEC,10:56 AM,Track 2,Mountain Avenue Station,False
+MSU,11:14 AM,Track 1,Mountain Avenue Station,False
+New York -SEC,11:53 AM,Track 2,Mountain Avenue Station,False
+MSU,12:14 PM,Track 1,Mountain Avenue Station,False
+New York -SEC,12:53 PM,Track 2,Mountain Avenue Station,False
+MSU,1:14 PM,Track 1,Mountain Avenue Station,False
+New York -SEC,1:53 PM,Track 2,Mountain Avenue Station,False
+MSU,2:14 PM,Track 1,Mountain Avenue Station,False
+Dover,2:41 PM,Track 1,Mountain Avenue Station,False
+New York -SEC,2:51 PM,Track 2,Mountain Avenue Station,False
+MSU,3:36 PM,Track 1,Mountain Avenue Station,False
+New York -SEC,4:22 PM,Track 2,Mountain Avenue Station,False
+MSU,4:32 PM,Track 1,Mountain Avenue Station,False
+MSU,5:35 PM,Track 1,Mountain Avenue Station,False
+MSU,6:04 PM,Track 1,Mountain Avenue Station,False
+New York -SEC,6:12 PM,Track 2,Mountain Avenue Station,False
+MSU,6:15 PM,Track 1,Mountain Avenue Station,False
+MSU,6:38 PM,Track 1,Mountain Avenue Station,False
+Dover,3:17 PM,Track Single,Mountain Lakes Station,False
+Denville,4:48 PM,Track Single,Mountain Lakes Station,False
+Hackettstown,5:50 PM,Track Single,Mountain Lakes Station,False
+Mount Olive,6:20 PM,Track Single,Mountain Lakes Station,False
+Dover,7:01 PM,Track Single,Mountain Lakes Station,False
+Lake Hopatcong,7:49 PM,Track Single,Mountain Lakes Station,False
+Hackettstown,8:41 PM,Track Single,Mountain Lakes Station,False
+Hackettstown,10:16 PM,Track Single,Mountain Lakes Station,False
+Mount Olive,11:23 PM,Track Single,Mountain Lakes Station,False
+Hoboken,11:05 AM,Track 2,Mountain Station,False
+Gladstone,11:08 AM,Track 3,Mountain Station,False
+Hoboken,11:59 AM,Track 2,Mountain Station,False
+Gladstone,12:08 PM,Track 3,Mountain Station,False
+Hoboken,12:59 PM,Track 2,Mountain Station,False
+Gladstone,1:08 PM,Track 3,Mountain Station,False
+Hoboken,1:27 PM,Track 2,Mountain Station,False
+Hoboken,1:59 PM,Track 2,Mountain Station,False
+Gladstone,2:08 PM,Track 3,Mountain Station,False
+Hoboken,2:59 PM,Track 2,Mountain Station,False
+Dover,3:05 PM,Track 3,Mountain Station,False
+Gladstone,3:12 PM,Track 3,Mountain Station,False
+Hoboken,4:00 PM,Track 2,Mountain Station,False
+Summit,4:01 PM,Track 3,Mountain Station,False
+New York,4:12 PM,Track 2,Mountain Station,False
+Summit,4:40 PM,Track 3,Mountain Station,False
+Hoboken,4:49 PM,Track 2,Mountain Station,False
+Hoboken,5:02 PM,Track 2,Mountain Station,False
+Hoboken,5:13 PM,Track 2,Mountain Station,False
+Dover,3:00 PM,Track Single,Mountain View Station,True
+Denville,4:31 PM,Track Single,Mountain View Station,True
+Hackettstown,5:30 PM,Track Single,Mountain View Station,True
+Mount Olive,6:00 PM,Track Single,Mountain View Station,True
+Dover,6:43 PM,Track Single,Mountain View Station,True
+Lake Hopatcong,7:31 PM,Track Single,Mountain View Station,True
+Hackettstown,8:23 PM,Track Single,Mountain View Station,True
+Hackettstown,9:58 PM,Track Single,Mountain View Station,True
+Mount Olive,11:05 PM,Track Single,Mountain View Station,True
+New York -SEC,10:51 AM,Track 2,MSU Station,True
+New York -SEC,11:47 AM,Track 2,MSU Station,True
+New York -SEC,12:47 PM,Track 2,MSU Station,True
+New York -SEC,1:47 PM,Track 2,MSU Station,True
+New York -SEC,2:45 PM,Track 2,MSU Station,True
+Dover,2:47 PM,Track 1,MSU Station,True
+New York -SEC,4:17 PM,Track 2,MSU Station,True
+Denville,4:18 PM,Track 1,MSU Station,True
+New York -SEC,5:07 PM,Track 1,MSU Station,True
+Hackettstown,5:17 PM,Track 1,MSU Station,True
+Mount Olive,5:48 PM,Track 1,MSU Station,True
+New York -SEC,6:06 PM,Track 2,MSU Station,True
+Dover,6:30 PM,Track 1,MSU Station,True
+Hoboken,6:39 PM,Track 2,MSU Station,True
+Lake Hopatcong,7:18 PM,Track 1,MSU Station,True
+Hoboken,7:22 PM,Track 2,MSU Station,True
+New York -SEC,8:04 PM,Track 2,MSU Station,True
+Hackettstown,8:09 PM,Track 1,MSU Station,True
+New York -SEC,9:09 PM,Track 2,MSU Station,True
+Hackettstown,11:09 AM,Track Single,Mt. Olive Station,True
+Hoboken,12:09 PM,Track Single,Mt. Olive Station,True
+Hackettstown,4:07 PM,Track Single,Mt. Olive Station,True
+Hoboken,5:02 PM,Track Single,Mt. Olive Station,True
+Hoboken,5:56 PM,Track Single,Mt. Olive Station,True
+Hackettstown,6:26 PM,Track Single,Mt. Olive Station,True
+Hoboken,7:17 PM,Track Single,Mt. Olive Station,True
+Hackettstown,7:49 PM,Track Single,Mt. Olive Station,True
+Hoboken,8:43 PM,Track Single,Mt. Olive Station,True
+Hackettstown,9:16 PM,Track Single,Mt. Olive Station,True
+Hackettstown,10:54 PM,Track Single,Mt. Olive Station,True
+Gladstone,"10:31 AM
+           in 4 Min",Track Siding,Murray Hill Station,False
+Hoboken,"10:34 AM
+           in 7 Min",Track Single,Murray Hill Station,False
+Gladstone,11:31 AM,Track Siding,Murray Hill Station,False
+Hoboken,11:34 AM,Track Single,Murray Hill Station,False
+Gladstone,12:31 PM,Track Siding,Murray Hill Station,False
+Hoboken,12:34 PM,Track Single,Murray Hill Station,False
+Gladstone,1:31 PM,Track Siding,Murray Hill Station,False
+Hoboken,1:34 PM,Track Single,Murray Hill Station,False
+Gladstone,2:32 PM,Track Siding,Murray Hill Station,False
+Hoboken,2:34 PM,Track Single,Murray Hill Station,False
+Gladstone,3:35 PM,Track Single,Murray Hill Station,False
+Hoboken,3:36 PM,Track Siding,Murray Hill Station,False
+Bernardsville,4:19 PM,Track Single,Murray Hill Station,False
+Hoboken,4:40 PM,Track Single,Murray Hill Station,False
+Gladstone,5:12 PM,Track Single,Murray Hill Station,False
+Hoboken,5:33 PM,Track Single,Murray Hill Station,False
+Gladstone,5:50 PM,Track Single,Murray Hill Station,False
+Gladstone,6:10 PM,Track Single,Murray Hill Station,False
+Gladstone,6:24 PM,Track Single,Murray Hill Station,False
+Hoboken -SEC,11:00 AM,Track Single,Nanuet Station,True
+Spring Valley,11:05 AM,Track Single,Nanuet Station,True
+Hoboken -SEC,12:25 PM,Track Single,Nanuet Station,True
+Spring Valley,12:30 PM,Track Single,Nanuet Station,True
+Hoboken -SEC,1:36 PM,Track Single,Nanuet Station,True
+Spring Valley,1:40 PM,Track Single,Nanuet Station,True
+Hoboken -SEC,2:51 PM,Track Single,Nanuet Station,True
+Spring Valley,2:56 PM,Track Single,Nanuet Station,True
+Hoboken -SEC,3:59 PM,Track Single,Nanuet Station,True
+Spring Valley,4:04 PM,Track Single,Nanuet Station,True
+Spring Valley,5:09 PM,Track Single,Nanuet Station,True
+Spring Valley,5:46 PM,Track Single,Nanuet Station,True
+Spring Valley,6:08 PM,Track Single,Nanuet Station,True
+Spring Valley,6:20 PM,Track Single,Nanuet Station,True
+Spring Valley,6:51 PM,Track Single,Nanuet Station,True
+Spring Valley,7:09 PM,Track Single,Nanuet Station,True
+Spring Valley,7:29 PM,Track Single,Nanuet Station,True
+Spring Valley,7:57 PM,Track Single,Nanuet Station,True
+Spring Valley,8:34 PM,Track Single,Nanuet Station,True
+Hackettstown,11:05 AM,Track Single,Netcong Station,False
+Hoboken,12:13 PM,Track Single,Netcong Station,False
+Hackettstown,4:02 PM,Track Single,Netcong Station,False
+Hoboken,5:06 PM,Track Single,Netcong Station,False
+Mount Olive,5:32 PM,Track Single,Netcong Station,False
+Hoboken,6:01 PM,Track Single,Netcong Station,False
+Hackettstown,6:21 PM,Track Single,Netcong Station,False
+Mount Olive,6:50 PM,Track Single,Netcong Station,False
+Hoboken,7:21 PM,Track Single,Netcong Station,False
+Hackettstown,7:45 PM,Track Single,Netcong Station,False
+Hoboken,8:48 PM,Track Single,Netcong Station,False
+Hackettstown,9:11 PM,Track Single,Netcong Station,False
+Hackettstown,10:48 PM,Track Single,Netcong Station,False
+Mount Olive,11:52 PM,Track Single,Netcong Station,False
+High Bridge,"10:34 AM
+           in 9 Min",Track 1,Netherwood Station,False
+New York -SEC,11:12 AM,Track 1,Netherwood Station,False
+Raritan,11:30 AM,Track 1,Netherwood Station,False
+New York -SEC,12:12 PM,Track 1,Netherwood Station,False
+Raritan,12:31 PM,Track 1,Netherwood Station,False
+New York -SEC,1:14 PM,Track 1,Netherwood Station,False
+High Bridge,1:32 PM,Track 1,Netherwood Station,False
+Newark Penn,2:13 PM,Track 1,Netherwood Station,False
+Raritan,2:31 PM,Track 1,Netherwood Station,False
+Newark Penn,3:13 PM,Track 1,Netherwood Station,False
+High Bridge,3:31 PM,Track 1,Netherwood Station,False
+Newark Penn,3:59 PM,Track 2,Netherwood Station,False
+Newark Penn,4:35 PM,Track 2,Netherwood Station,False
+Raritan,4:43 PM,Track 1,Netherwood Station,False
+High Bridge,5:18 PM,Track 1,Netherwood Station,False
+Raritan,5:46 PM,Track 1,Netherwood Station,False
+Newark Penn,5:47 PM,Track 2,Netherwood Station,False
+Raritan,6:16 PM,Track 1,Netherwood Station,False
+Newark Penn,6:16 PM,Track 2,Netherwood Station,False
+Spring Valley,"10:29 AM
+           in 6 Min",Track Single,New Bridge Landing Station,False
+Hoboken -SEC,11:32 AM,Track Single,New Bridge Landing Station,False
+Spring Valley,11:53 AM,Track Single,New Bridge Landing Station,False
+Hoboken -SEC,12:57 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,1:03 PM,Track Single,New Bridge Landing Station,False
+Hoboken -SEC,1:56 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,2:20 PM,Track Single,New Bridge Landing Station,False
+Hoboken -SEC,3:23 PM,Track Single,New Bridge Landing Station,False
+Hoboken -SEC,4:31 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,4:36 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,5:12 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,5:35 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,6:14 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,6:33 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,6:52 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,7:22 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,8:01 PM,Track Single,New Bridge Landing Station,False
+Spring Valley,8:55 PM,Track Single,New Bridge Landing Station,False
+Hoboken -SEC,9:54 PM,Track Single,New Bridge Landing Station,False
+New York,10:28 AM,Track 1,New Brunswick Station,True
+Trenton,"10:34 AM
+           in 15 Min",Track 4,New Brunswick Station,True
+New York -SEC ✈,"10:40 AM
+           in 12 Min",Track 1,New Brunswick Station,True
+Trenton,"10:58 AM
+           in 30 Min",Track 4,New Brunswick Station,True
+New York -SEC ✈,11:09 AM,Track 1,New Brunswick Station,True
+Trenton,11:33 AM,Track 4,New Brunswick Station,True
+New York -SEC ✈,11:56 AM,Track 1,New Brunswick Station,True
+Trenton,12:07 PM,Track 4,New Brunswick Station,True
+New York -SEC ✈,12:19 PM,Track 1,New Brunswick Station,True
+Trenton,12:34 PM,Track 4,New Brunswick Station,True
+New York -SEC ✈,12:48 PM,Track 1,New Brunswick Station,True
+Washington,12:52 PM,Track 4,New Brunswick Station,True
+Trenton,1:00 PM,Track 4,New Brunswick Station,True
+New York -SEC ✈,1:18 PM,Track 1,New Brunswick Station,True
+Boston ✈,1:27 PM,Track 1,New Brunswick Station,True
+Trenton,1:34 PM,Track 4,New Brunswick Station,True
+New York -SEC ✈,1:36 PM,Track 1,New Brunswick Station,True
+Trenton,2:02 PM,Track 4,New Brunswick Station,True
+New York -SEC ✈,2:11 PM,Track 1,New Brunswick Station,True
+Gladstone,"10:27 AM
+           All Aboard",Track Single,New Providence Station,False
+Hoboken,"10:38 AM
+           in 8 Min",Track Single,New Providence Station,False
+Gladstone,11:27 AM,Track Single,New Providence Station,False
+Hoboken,11:37 AM,Track Single,New Providence Station,False
+Gladstone,12:27 PM,Track Single,New Providence Station,False
+Hoboken,12:38 PM,Track Single,New Providence Station,False
+Gladstone,1:27 PM,Track Single,New Providence Station,False
+Hoboken,1:38 PM,Track Single,New Providence Station,False
+Gladstone,2:27 PM,Track Single,New Providence Station,False
+Hoboken,2:38 PM,Track Single,New Providence Station,False
+Gladstone,3:31 PM,Track Single,New Providence Station,False
+Hoboken,3:39 PM,Track Single,New Providence Station,False
+Bernardsville,4:16 PM,Track Single,New Providence Station,False
+Hoboken,4:43 PM,Track Single,New Providence Station,False
+Gladstone,5:08 PM,Track Single,New Providence Station,False
+Hoboken,5:36 PM,Track Single,New Providence Station,False
+Gladstone,5:47 PM,Track Single,New Providence Station,False
+Gladstone,6:07 PM,Track Single,New Providence Station,False
+Gladstone,6:21 PM,Track Single,New Providence Station,False
+MSU -SEC,"10:29 AM
+           BOARDING",Track 6,New York Penn Station,True
+Trenton -SEC ✈,"10:33 AM
+           BOARDING",Track 3,New York Penn Station,True
+Norfolk,"10:35 AM
+           DELAYED",Track Not Available,New York Penn Station,True
+Raritan -SEC,10:40 AM,Track Not Available,New York Penn Station,True
+Long Branch -SEC ✈,10:43 AM,Track Not Available,New York Penn Station,True
+Dover -SEC,10:46 AM,Track Not Available,New York Penn Station,True
+Pittsburgh,10:52 AM,Track Not Available,New York Penn Station,True
+Secaucus Upper Lvl -SEC,10:57 AM,Track Not Available,New York Penn Station,True
+Washington,11:00 AM,Track Not Available,New York Penn Station,True
+Washington ✈,11:02 AM,Track Not Available,New York Penn Station,True
+Trenton -SEC ✈,11:09 AM,Track Not Available,New York Penn Station,True
+Secaucus Upper Lvl -SEC,11:17 AM,Track Not Available,New York Penn Station,True
+Long Branch -SEC ✈,11:23 AM,Track Not Available,New York Penn Station,True
+MSU -SEC,11:29 AM,Track Not Available,New York Penn Station,True
+Newport News,11:35 AM,Track Not Available,New York Penn Station,True
+Trenton -SEC ✈,11:37 AM,Track Not Available,New York Penn Station,True
+Raritan -SEC,11:40 AM,Track Not Available,New York Penn Station,True
+Dover -SEC,11:46 AM,Track Not Available,New York Penn Station,True
+Baltimore,12:00 PM,Track Not Available,New York Penn Station,True
+New York -SEC,"10:28 AM
+           All Aboard",Track A,Newark Airport Rail Station,True
+New York -SEC,"10:47 AM
+           in 18 Min",Track A,Newark Airport Rail Station,True
+Trenton,11:00 AM,Track 5,Newark Airport Rail Station,True
+New York -SEC,11:06 AM,Track A,Newark Airport Rail Station,True
+Long Branch,11:08 AM,Track 5,Newark Airport Rail Station,True
+New York -SEC,11:18 AM,Track A,Newark Airport Rail Station,True
+Washington,11:24 AM,Track 4,Newark Airport Rail Station,True
+Trenton,11:33 AM,Track 5,Newark Airport Rail Station,True
+Long Branch,11:48 AM,Track 5,Newark Airport Rail Station,True
+New York -SEC,11:48 AM,Track A,Newark Airport Rail Station,True
+Trenton,12:01 PM,Track 5,Newark Airport Rail Station,True
+New York -SEC,12:10 PM,Track A,Newark Airport Rail Station,True
+Trenton,12:25 PM,Track 5,Newark Airport Rail Station,True
+New York,12:33 PM,Track 1,Newark Airport Rail Station,True
+New York -SEC,12:34 PM,Track A,Newark Airport Rail Station,True
+Long Branch,12:37 PM,Track 5,Newark Airport Rail Station,True
+New York -SEC,12:55 PM,Track A,Newark Airport Rail Station,True
+Trenton,12:59 PM,Track 5,Newark Airport Rail Station,True
+Roanoke,1:02 PM,Track 4,Newark Airport Rail Station,True
+Dover,"10:23 AM
+           All Aboard",Track 3,Newark Broad Street Station,True
+New York -SEC,"10:34 AM
+           in 7 Min",Track 2,Newark Broad Street Station,True
+MSU,10:49 AM,Track 3,Newark Broad Street Station,True
+Gladstone,10:55 AM,Track 3,Newark Broad Street Station,True
+New York -SEC,"10:55 AM
+           in 26 Min",Track 2,Newark Broad Street Station,True
+New York -SEC,11:03 AM,Track 2,Newark Broad Street Station,True
+Dover,11:05 AM,Track 3,Newark Broad Street Station,True
+Hoboken,11:19 AM,Track 2,Newark Broad Street Station,True
+New York -SEC,11:23 AM,Track 2,Newark Broad Street Station,True
+MSU,11:49 AM,Track 3,Newark Broad Street Station,True
+Gladstone,11:55 AM,Track 3,Newark Broad Street Station,True
+New York -SEC,11:57 AM,Track 2,Newark Broad Street Station,True
+Dover,12:05 PM,Track 3,Newark Broad Street Station,True
+Hoboken,12:12 PM,Track 2,Newark Broad Street Station,True
+New York -SEC,12:19 PM,Track 2,Newark Broad Street Station,True
+MSU,12:49 PM,Track 3,Newark Broad Street Station,True
+Gladstone,12:55 PM,Track 3,Newark Broad Street Station,True
+New York -SEC,1:04 PM,Track 2,Newark Broad Street Station,True
+Dover,1:06 PM,Track 3,Newark Broad Street Station,True
+New York -SEC,"10:28 AM
+           All Aboard",Track A,Newark Liberty International Airport,True
+New York -SEC,"10:47 AM
+           in 18 Min",Track A,Newark Liberty International Airport,True
+Trenton,11:00 AM,Track 5,Newark Liberty International Airport,True
+New York -SEC,11:06 AM,Track A,Newark Liberty International Airport,True
+Long Branch,11:08 AM,Track 5,Newark Liberty International Airport,True
+New York -SEC,11:18 AM,Track A,Newark Liberty International Airport,True
+Washington,11:24 AM,Track 4,Newark Liberty International Airport,True
+Trenton,11:33 AM,Track 5,Newark Liberty International Airport,True
+Long Branch,11:48 AM,Track 5,Newark Liberty International Airport,True
+New York -SEC,11:48 AM,Track A,Newark Liberty International Airport,True
+Trenton,12:01 PM,Track 5,Newark Liberty International Airport,True
+New York -SEC,12:10 PM,Track A,Newark Liberty International Airport,True
+Trenton,12:25 PM,Track 5,Newark Liberty International Airport,True
+New York,12:33 PM,Track 1,Newark Liberty International Airport,True
+New York -SEC,12:34 PM,Track A,Newark Liberty International Airport,True
+Long Branch,12:37 PM,Track 5,Newark Liberty International Airport,True
+New York -SEC,12:55 PM,Track A,Newark Liberty International Airport,True
+Trenton,12:59 PM,Track 5,Newark Liberty International Airport,True
+Roanoke,1:02 PM,Track 4,Newark Liberty International Airport,True
+New York -SEC,"10:18 AM
+           All Aboard",Track 1,Newark Penn Station,True
+New York -SEC,"10:34 AM
+           in 4 Min",Track 1,Newark Penn Station,True
+New York,10:44 AM,Track 2,Newark Penn Station,True
+New York,"10:49 AM
+           in 21 Min",Track 2,Newark Penn Station,True
+New York -SEC,"10:50 AM
+           in 21 Min",Track 1,Newark Penn Station,True
+New York -SEC,"10:53 AM
+           in 24 Min",Track 1,Newark Penn Station,True
+Norfolk,"10:53 AM
+           in 24 Min",Track 3,Newark Penn Station,True
+Trenton ✈,10:54 AM,Track 4,Newark Penn Station,True
+New York,"10:55 AM
+           in 26 Min",Track 2,Newark Penn Station,True
+Raritan,11:00 AM,Track 5,Newark Penn Station,True
+Long Branch ✈,11:02 AM,Track 4,Newark Penn Station,True
+Discharge Only,11:02 AM,Track 2,Newark Penn Station,True
+Saint Albans,11:03 AM,Track 2,Newark Penn Station,True
+Pittsburgh,11:09 AM,Track 3,Newark Penn Station,True
+New York -SEC,11:12 AM,Track 1,Newark Penn Station,True
+Washington,11:15 AM,Track 3,Newark Penn Station,True
+Washington ✈,11:18 AM,Track 3,Newark Penn Station,True
+New York -SEC,11:24 AM,Track 1,Newark Penn Station,True
+Trenton ✈,11:27 AM,Track 4,Newark Penn Station,True
+High Bridge,11:06 AM,Track Single,North Branch Station,False
+New York -SEC,12:40 PM,Track Single,North Branch Station,False
+High Bridge,2:04 PM,Track Single,North Branch Station,False
+Newark Penn,3:25 PM,Track Single,North Branch Station,False
+High Bridge,4:01 PM,Track Single,North Branch Station,False
+Newark Penn,5:15 PM,Track Single,North Branch Station,False
+High Bridge,5:52 PM,Track Single,North Branch Station,False
+High Bridge,6:27 PM,Track Single,North Branch Station,False
+High Bridge,7:18 PM,Track Single,North Branch Station,False
+High Bridge,8:17 PM,Track Single,North Branch Station,False
+High Bridge,10:09 PM,Track Single,North Branch Station,False
+High Bridge,12:09 AM,Track Single,North Branch Station,False
+Long Branch,11:11 AM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,11:14 AM,Track 1,North Elizabeth Station,True
+Trenton,11:36 AM,Track 4,North Elizabeth Station,True
+Long Branch,11:51 AM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,12:06 PM,Track 1,North Elizabeth Station,True
+Trenton,12:28 PM,Track 4,North Elizabeth Station,True
+Long Branch,1:13 PM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,1:22 PM,Track 1,North Elizabeth Station,True
+Trenton,1:59 PM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,2:10 PM,Track 1,North Elizabeth Station,True
+Jersey Avenue,2:56 PM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,3:13 PM,Track 1,North Elizabeth Station,True
+South Amboy,3:49 PM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,4:00 PM,Track 1,North Elizabeth Station,True
+New York -SEC ✈,4:11 PM,Track 1,North Elizabeth Station,True
+South Amboy,4:37 PM,Track 4,North Elizabeth Station,True
+New York -SEC ✈,4:56 PM,Track 1,North Elizabeth Station,True
+Trenton,5:02 PM,Track 4,North Elizabeth Station,True
+South Amboy,5:31 PM,Track 4,North Elizabeth Station,True
+MSU -SEC,"10:29 AM
+           BOARDING",Track 6,NY Penn Station,True
+Trenton -SEC ✈,"10:33 AM
+           BOARDING",Track 3,NY Penn Station,True
+Norfolk,"10:35 AM
+           DELAYED",Track Not Available,NY Penn Station,True
+Raritan -SEC,10:40 AM,Track Not Available,NY Penn Station,True
+Long Branch -SEC ✈,10:43 AM,Track Not Available,NY Penn Station,True
+Dover -SEC,10:46 AM,Track Not Available,NY Penn Station,True
+Pittsburgh,10:52 AM,Track Not Available,NY Penn Station,True
+Secaucus Upper Lvl -SEC,10:57 AM,Track Not Available,NY Penn Station,True
+Washington,11:00 AM,Track Not Available,NY Penn Station,True
+Washington ✈,11:02 AM,Track Not Available,NY Penn Station,True
+Trenton -SEC ✈,11:09 AM,Track Not Available,NY Penn Station,True
+Secaucus Upper Lvl -SEC,11:17 AM,Track Not Available,NY Penn Station,True
+Long Branch -SEC ✈,11:23 AM,Track Not Available,NY Penn Station,True
+MSU -SEC,11:29 AM,Track Not Available,NY Penn Station,True
+Newport News,11:35 AM,Track Not Available,NY Penn Station,True
+Trenton -SEC ✈,11:37 AM,Track Not Available,NY Penn Station,True
+Raritan -SEC,11:40 AM,Track Not Available,NY Penn Station,True
+Dover -SEC,11:46 AM,Track Not Available,NY Penn Station,True
+Baltimore,12:00 PM,Track Not Available,NY Penn Station,True
+Spring Valley,"10:37 AM
+           in 10 Min",Track Single,Oradell Station,False
+Hoboken -SEC,11:25 AM,Track Single,Oradell Station,False
+Spring Valley,12:00 PM,Track Single,Oradell Station,False
+Hoboken -SEC,12:49 PM,Track Single,Oradell Station,False
+Spring Valley,1:10 PM,Track Single,Oradell Station,False
+Spring Valley,2:28 PM,Track Single,Oradell Station,False
+Hoboken -SEC,3:16 PM,Track Single,Oradell Station,False
+Spring Valley,3:35 PM,Track Single,Oradell Station,False
+Hoboken -SEC,4:24 PM,Track Single,Oradell Station,False
+Spring Valley,4:43 PM,Track Single,Oradell Station,False
+Spring Valley,5:20 PM,Track Single,Oradell Station,False
+Spring Valley,5:43 PM,Track Single,Oradell Station,False
+Spring Valley,6:22 PM,Track Single,Oradell Station,False
+Spring Valley,6:41 PM,Track Single,Oradell Station,False
+Spring Valley,7:01 PM,Track Single,Oradell Station,False
+Spring Valley,7:30 PM,Track Single,Oradell Station,False
+Spring Valley,8:09 PM,Track Single,Oradell Station,False
+Spring Valley,9:02 PM,Track Single,Oradell Station,False
+Hoboken -SEC,9:47 PM,Track Single,Oradell Station,False
+Dover,"10:32 AM
+           in 5 Min",Track 3,Orange Station,False
+New York -SEC,"10:46 AM
+           in 18 Min",Track 2,Orange Station,False
+Gladstone,11:04 AM,Track 3,Orange Station,False
+Hoboken,11:10 AM,Track 2,Orange Station,False
+Dover,11:14 AM,Track 3,Orange Station,False
+New York -SEC,11:48 AM,Track 2,Orange Station,False
+Hoboken,12:03 PM,Track 2,Orange Station,False
+Gladstone,12:04 PM,Track 3,Orange Station,False
+Dover,12:14 PM,Track 3,Orange Station,False
+New York -SEC,12:55 PM,Track 2,Orange Station,False
+Hoboken,1:03 PM,Track 2,Orange Station,False
+Gladstone,1:04 PM,Track 3,Orange Station,False
+Dover,1:15 PM,Track 3,Orange Station,False
+Hoboken,1:32 PM,Track 2,Orange Station,False
+New York -SEC,1:55 PM,Track 2,Orange Station,False
+Hoboken,2:03 PM,Track 2,Orange Station,False
+Gladstone,2:04 PM,Track 3,Orange Station,False
+Dover,2:20 PM,Track 3,Orange Station,False
+New York,2:55 PM,Track 2,Orange Station,False
+Port Jervis,"10:30 AM
+           All Aboard",Track Single,Otisville Station,False
+Hoboken -SEC,11:56 AM,Track Single,Otisville Station,False
+Port Jervis,12:01 PM,Track Siding,Otisville Station,False
+Hoboken -SEC,1:56 PM,Track Single,Otisville Station,False
+Port Jervis,5:58 PM,Track Single,Otisville Station,False
+Port Jervis,6:39 PM,Track Single,Otisville Station,False
+Port Jervis,7:08 PM,Track Single,Otisville Station,False
+Port Jervis,7:39 PM,Track Single,Otisville Station,False
+Port Jervis,8:04 PM,Track Single,Otisville Station,False
+Port Jervis,8:20 PM,Track Single,Otisville Station,False
+Port Jervis,8:51 PM,Track Single,Otisville Station,False
+Hoboken -SEC,9:43 PM,Track Siding,Otisville Station,False
+Port Jervis,9:52 PM,Track Single,Otisville Station,False
+Port Jervis,12:14 AM,Track Single,Otisville Station,False
+Port Jervis,2:54 AM,Track Single,Otisville Station,False
+Spring Valley,"10:50 AM
+           in 23 Min",Track Single,Park Ridge Station,True
+Hoboken -SEC,11:10 AM,Track Single,Park Ridge Station,True
+Spring Valley,12:14 PM,Track Single,Park Ridge Station,True
+Hoboken -SEC,12:35 PM,Track Single,Park Ridge Station,True
+Spring Valley,1:25 PM,Track Single,Park Ridge Station,True
+Spring Valley,2:42 PM,Track Single,Park Ridge Station,True
+Hoboken -SEC,3:01 PM,Track Single,Park Ridge Station,True
+Spring Valley,3:50 PM,Track Single,Park Ridge Station,True
+Hoboken -SEC,4:09 PM,Track Single,Park Ridge Station,True
+Spring Valley,4:58 PM,Track Single,Park Ridge Station,True
+Spring Valley,5:35 PM,Track Single,Park Ridge Station,True
+Spring Valley,5:58 PM,Track Single,Park Ridge Station,True
+Spring Valley,6:40 PM,Track Single,Park Ridge Station,True
+Spring Valley,6:58 PM,Track Single,Park Ridge Station,True
+Spring Valley,7:17 PM,Track Single,Park Ridge Station,True
+Spring Valley,7:46 PM,Track Single,Park Ridge Station,True
+Spring Valley,8:24 PM,Track Single,Park Ridge Station,True
+Spring Valley,9:17 PM,Track Single,Park Ridge Station,True
+Hoboken -SEC,9:33 PM,Track Single,Park Ridge Station,True
+Hoboken -SEC,"10:40 AM
+           in 15 Min",Track 1,Passaic Station,False
+Suffern,11:09 AM,Track 1,Passaic Station,False
+Hoboken -SEC,11:40 AM,Track 2,Passaic Station,False
+Suffern,12:09 PM,Track 1,Passaic Station,False
+Hoboken -SEC,12:40 PM,Track 2,Passaic Station,False
+Waldwick,1:10 PM,Track 1,Passaic Station,False
+Hoboken -SEC,1:40 PM,Track 2,Passaic Station,False
+Waldwick,2:08 PM,Track 1,Passaic Station,False
+Hoboken -SEC,2:38 PM,Track 2,Passaic Station,False
+Suffern,3:10 PM,Track 1,Passaic Station,False
+Hoboken -SEC,3:32 PM,Track 2,Passaic Station,False
+Waldwick,4:00 PM,Track 1,Passaic Station,False
+Hoboken -SEC,4:04 PM,Track 2,Passaic Station,False
+Hoboken -SEC,4:51 PM,Track 2,Passaic Station,False
+Ridgewood,4:52 PM,Track 1,Passaic Station,False
+Waldwick,5:39 PM,Track 1,Passaic Station,False
+Hoboken -SEC,5:40 PM,Track 2,Passaic Station,False
+Waldwick,6:11 PM,Track 1,Passaic Station,False
+Hoboken -SEC,6:33 PM,Track 2,Passaic Station,False
+Hoboken -SEC,"10:30 AM
+           in 5 Min",Track 1,Paterson Station,True
+Suffern,11:20 AM,Track 1,Paterson Station,True
+Hoboken -SEC,11:30 AM,Track 2,Paterson Station,True
+Suffern,12:19 PM,Track 1,Paterson Station,True
+Hoboken -SEC,12:30 PM,Track 2,Paterson Station,True
+Waldwick,1:21 PM,Track 1,Paterson Station,True
+Hoboken -SEC,1:30 PM,Track 2,Paterson Station,True
+Waldwick,2:19 PM,Track 1,Paterson Station,True
+Hoboken -SEC,2:28 PM,Track 2,Paterson Station,True
+Suffern,3:21 PM,Track 1,Paterson Station,True
+Hoboken -SEC,3:22 PM,Track 2,Paterson Station,True
+Hoboken -SEC,3:54 PM,Track 2,Paterson Station,True
+Waldwick,4:10 PM,Track 1,Paterson Station,True
+Hoboken -SEC,4:41 PM,Track 2,Paterson Station,True
+Ridgewood,5:03 PM,Track 1,Paterson Station,True
+Hoboken -SEC,5:30 PM,Track 2,Paterson Station,True
+Waldwick,5:50 PM,Track 1,Paterson Station,True
+Hoboken -SEC,6:22 PM,Track 2,Paterson Station,True
+Waldwick,6:22 PM,Track 1,Paterson Station,True
+Hoboken,11:00 AM,Track Single,Peapack Station,False
+Gladstone,11:09 AM,Track Single,Peapack Station,False
+Hoboken,12:00 PM,Track Single,Peapack Station,False
+Gladstone,12:09 PM,Track Single,Peapack Station,False
+Hoboken,1:00 PM,Track Single,Peapack Station,False
+Gladstone,1:09 PM,Track Single,Peapack Station,False
+Hoboken,2:00 PM,Track Single,Peapack Station,False
+Gladstone,2:12 PM,Track Single,Peapack Station,False
+Hoboken,2:59 PM,Track Single,Peapack Station,False
+Gladstone,3:09 PM,Track Single,Peapack Station,False
+Hoboken,3:59 PM,Track Single,Peapack Station,False
+Gladstone,4:09 PM,Track Single,Peapack Station,False
+Hoboken,4:57 PM,Track Single,Peapack Station,False
+Gladstone,5:43 PM,Track Single,Peapack Station,False
+Gladstone,6:21 PM,Track Single,Peapack Station,False
+Gladstone,6:47 PM,Track Single,Peapack Station,False
+Gladstone,7:01 PM,Track Single,Peapack Station,False
+Gladstone,7:18 PM,Track Single,Peapack Station,False
+Gladstone,7:34 PM,Track Single,Peapack Station,False
+Spring Valley,"10:56 AM
+           in 27 Min",Track Single,Pearl River Station,False
+Hoboken -SEC,11:04 AM,Track Single,Pearl River Station,False
+Spring Valley,12:20 PM,Track Single,Pearl River Station,False
+Hoboken -SEC,12:29 PM,Track Single,Pearl River Station,False
+Spring Valley,1:30 PM,Track Single,Pearl River Station,False
+Hoboken -SEC,1:41 PM,Track Single,Pearl River Station,False
+Spring Valley,2:48 PM,Track Single,Pearl River Station,False
+Hoboken -SEC,2:55 PM,Track Single,Pearl River Station,False
+Spring Valley,3:56 PM,Track Single,Pearl River Station,False
+Hoboken -SEC,4:04 PM,Track Single,Pearl River Station,False
+Spring Valley,5:04 PM,Track Single,Pearl River Station,False
+Spring Valley,5:41 PM,Track Single,Pearl River Station,False
+Spring Valley,6:03 PM,Track Single,Pearl River Station,False
+Spring Valley,6:15 PM,Track Single,Pearl River Station,False
+Spring Valley,6:46 PM,Track Single,Pearl River Station,False
+Spring Valley,7:04 PM,Track Single,Pearl River Station,False
+Spring Valley,7:24 PM,Track Single,Pearl River Station,False
+Spring Valley,7:52 PM,Track Single,Pearl River Station,False
+Spring Valley,8:29 PM,Track Single,Pearl River Station,False
+Trenton -SEC ✈,"10:33 AM
+           BOARDING",Track 3,Penn Station New York,True
+Norfolk,"10:35 AM
+           DELAYED",Track Not Available,Penn Station New York,True
+Raritan -SEC,10:40 AM,Track Not Available,Penn Station New York,True
+Long Branch -SEC ✈,10:43 AM,Track Not Available,Penn Station New York,True
+Dover -SEC,10:46 AM,Track Not Available,Penn Station New York,True
+Pittsburgh,10:52 AM,Track Not Available,Penn Station New York,True
+Secaucus Upper Lvl -SEC,10:57 AM,Track Not Available,Penn Station New York,True
+Washington,11:00 AM,Track Not Available,Penn Station New York,True
+Washington ✈,11:02 AM,Track Not Available,Penn Station New York,True
+Trenton -SEC ✈,11:09 AM,Track Not Available,Penn Station New York,True
+Secaucus Upper Lvl -SEC,11:17 AM,Track Not Available,Penn Station New York,True
+Long Branch -SEC ✈,11:23 AM,Track Not Available,Penn Station New York,True
+MSU -SEC,11:29 AM,Track Not Available,Penn Station New York,True
+Newport News,11:35 AM,Track Not Available,Penn Station New York,True
+Trenton -SEC ✈,11:37 AM,Track Not Available,Penn Station New York,True
+Raritan -SEC,11:40 AM,Track Not Available,Penn Station New York,True
+Dover -SEC,11:46 AM,Track Not Available,Penn Station New York,True
+Baltimore,12:00 PM,Track Not Available,Penn Station New York,True
+Trenton -SEC ✈,12:01 PM,Track Not Available,Penn Station New York,True
+New York -SEC,"10:34 AM
+           in 4 Min",Track 1,Penn Station Newark,True
+New York,10:44 AM,Track 2,Penn Station Newark,True
+New York,"10:49 AM
+           in 20 Min",Track 2,Penn Station Newark,True
+New York -SEC,"10:50 AM
+           in 20 Min",Track 1,Penn Station Newark,True
+New York -SEC,"10:53 AM
+           in 23 Min",Track 1,Penn Station Newark,True
+Norfolk,"10:53 AM
+           in 23 Min",Track 3,Penn Station Newark,True
+Trenton ✈,10:54 AM,Track 4,Penn Station Newark,True
+New York,"10:55 AM
+           in 25 Min",Track 2,Penn Station Newark,True
+Raritan,11:00 AM,Track 5,Penn Station Newark,True
+Long Branch ✈,11:02 AM,Track 4,Penn Station Newark,True
+Discharge Only,11:02 AM,Track 2,Penn Station Newark,True
+Saint Albans,11:03 AM,Track 2,Penn Station Newark,True
+Pittsburgh,11:09 AM,Track 3,Penn Station Newark,True
+New York -SEC,11:12 AM,Track 1,Penn Station Newark,True
+Washington,11:15 AM,Track 3,Penn Station Newark,True
+Washington ✈,11:18 AM,Track 3,Penn Station Newark,True
+New York -SEC,11:24 AM,Track 1,Penn Station Newark,True
+Trenton ✈,11:27 AM,Track 4,Penn Station Newark,True
+Long Branch ✈,11:42 AM,Track 4,Penn Station Newark,True
+Philadelphia,11:27 AM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,11:27 AM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,1:18 PM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,1:19 PM,Track 1,Pennsauken Transit Center Station,True
+Atlantic City,3:10 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,3:10 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,5:02 PM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,5:02 PM,Track 1,Pennsauken Transit Center Station,True
+Atlantic City,6:14 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,6:14 PM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,7:24 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,8:09 PM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,9:22 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,10:07 PM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,11:16 PM,Track 1,Pennsauken Transit Center Station,True
+Philadelphia,12:03 AM,Track 2,Pennsauken Transit Center Station,True
+Atlantic City,1:11 AM,Track 1,Pennsauken Transit Center Station,True
+New York -SEC ✈,"10:36 AM
+           in 5 Min",Track 2,Perth Amboy Station,False
+Long Branch,"10:40 AM
+           in 16 Min",Track 2,Perth Amboy Station,False
+Long Branch,11:36 AM,Track 2,Perth Amboy Station,False
+New York -SEC ✈,11:38 AM,Track 2,Perth Amboy Station,False
+Long Branch,12:19 PM,Track 2,Perth Amboy Station,False
+New York -SEC ✈,12:35 PM,Track 2,Perth Amboy Station,False
+Long Branch,1:01 PM,Track 2,Perth Amboy Station,False
+New York -SEC ✈,1:35 PM,Track 2,Perth Amboy Station,False
+Long Branch,1:39 PM,Track 2,Perth Amboy Station,False
+Long Branch,2:35 PM,Track 2,Perth Amboy Station,False
+New York -SEC ✈,2:36 PM,Track 2,Perth Amboy Station,False
+New York -SEC ✈,3:33 PM,Track 2,Perth Amboy Station,False
+Long Branch,3:36 PM,Track 1,Perth Amboy Station,False
+South Amboy,4:16 PM,Track 1,Perth Amboy Station,False
+New York -SEC ✈,4:27 PM,Track 2,Perth Amboy Station,False
+New York -SEC,4:50 PM,Track 2,Perth Amboy Station,False
+South Amboy,5:05 PM,Track 1,Perth Amboy Station,False
+Bay Head,5:14 PM,Track 1,Perth Amboy Station,False
+New York -SEC ✈,5:27 PM,Track 2,Perth Amboy Station,False
+Boston,10:51 AM,Track 4,Philadelphia 30th Street Station,True
+New York,10:53 AM,Track 9,Philadelphia 30th Street Station,True
+Washington,"10:56 AM
+           in 27 Min",Track 7,Philadelphia 30th Street Station,True
+New York,11:02 AM,Track 4,Philadelphia 30th Street Station,True
+Atlantic City,11:06 AM,Track,Philadelphia 30th Street Station,True
+Washington,11:07 AM,Track 5,Philadelphia 30th Street Station,True
+New York ✈,11:30 AM,Track 4,Philadelphia 30th Street Station,True
+New York,11:50 AM,Track 9,Philadelphia 30th Street Station,True
+Norfolk,12:00 PM,Track 5,Philadelphia 30th Street Station,True
+New York,12:04 PM,Track 4,Philadelphia 30th Street Station,True
+Washington,12:08 PM,Track 5,Philadelphia 30th Street Station,True
+New York,12:14 PM,Track 4,Philadelphia 30th Street Station,True
+Washington,12:34 PM,Track 5,Philadelphia 30th Street Station,True
+Boston ✈,12:35 PM,Track 4,Philadelphia 30th Street Station,True
+Atlantic City,12:58 PM,Track,Philadelphia 30th Street Station,True
+Newport News,1:03 PM,Track 6,Philadelphia 30th Street Station,True
+Baltimore,1:08 PM,Track 5,Philadelphia 30th Street Station,True
+New York ✈,1:08 PM,Track 4,Philadelphia 30th Street Station,True
+Washington,1:45 PM,Track 5,Philadelphia 30th Street Station,True
+High Bridge,"10:37 AM
+           in 10 Min",Track 1,Plainfield Station,True
+New York -SEC,11:09 AM,Track 2,Plainfield Station,True
+Raritan,11:34 AM,Track 1,Plainfield Station,True
+New York -SEC,12:09 PM,Track 2,Plainfield Station,True
+Raritan,12:34 PM,Track 1,Plainfield Station,True
+New York -SEC,1:11 PM,Track 2,Plainfield Station,True
+High Bridge,1:35 PM,Track 1,Plainfield Station,True
+Newark Penn,2:10 PM,Track 2,Plainfield Station,True
+Raritan,2:34 PM,Track 1,Plainfield Station,True
+Newark Penn,3:09 PM,Track 2,Plainfield Station,True
+High Bridge,3:34 PM,Track 1,Plainfield Station,True
+Newark Penn,3:56 PM,Track 2,Plainfield Station,True
+Newark Penn,4:32 PM,Track 2,Plainfield Station,True
+Raritan,4:47 PM,Track 1,Plainfield Station,True
+High Bridge,5:22 PM,Track 1,Plainfield Station,True
+Newark Penn,5:44 PM,Track 2,Plainfield Station,True
+Raritan,5:49 PM,Track 1,Plainfield Station,True
+High Bridge,5:58 PM,Track 1,Plainfield Station,True
+Newark Penn,6:13 PM,Track 2,Plainfield Station,True
+Hoboken -SEC,"10:40 AM
+           in 13 Min",Track 2,Plauderville Station,True
+Ridgewood,11:07 AM,Track 1,Plauderville Station,True
+Hoboken -SEC,11:41 AM,Track 2,Plauderville Station,True
+Ridgewood,12:07 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,12:40 PM,Track 2,Plauderville Station,True
+Suffern,1:07 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,1:42 PM,Track 2,Plauderville Station,True
+Suffern,2:07 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,2:37 PM,Track 2,Plauderville Station,True
+Suffern,3:03 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,3:48 PM,Track 2,Plauderville Station,True
+Suffern,3:50 PM,Track 1,Plauderville Station,True
+Waldwick,4:47 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,5:05 PM,Track 2,Plauderville Station,True
+Ridgewood,5:25 PM,Track 1,Plauderville Station,True
+Hoboken -SEC,5:53 PM,Track 2,Plauderville Station,True
+Waldwick,5:57 PM,Track 1,Plauderville Station,True
+Waldwick,6:31 PM,Track 1,Plauderville Station,True
+Suffern,7:06 PM,Track 1,Plauderville Station,True
+Long Branch,11:12 AM,Track 2,Point Pleasant Beach Station,True
+Bay Head,12:01 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,12:59 PM,Track 1,Point Pleasant Beach Station,True
+Long Branch,1:13 PM,Track 2,Point Pleasant Beach Station,True
+Bay Head,3:02 PM,Track 1,Point Pleasant Beach Station,True
+Long Branch,3:04 PM,Track 2,Point Pleasant Beach Station,True
+Long Branch,4:04 PM,Track 2,Point Pleasant Beach Station,True
+Bay Head,5:00 PM,Track 1,Point Pleasant Beach Station,True
+Long Branch,5:34 PM,Track 2,Point Pleasant Beach Station,True
+Bay Head,5:49 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,6:30 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,7:04 PM,Track 1,Point Pleasant Beach Station,True
+Long Branch,7:29 PM,Track 2,Point Pleasant Beach Station,True
+Bay Head,7:43 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,7:58 PM,Track 1,Point Pleasant Beach Station,True
+Long Branch,8:30 PM,Track 2,Point Pleasant Beach Station,True
+Bay Head,8:33 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,9:04 PM,Track 1,Point Pleasant Beach Station,True
+Bay Head,10:31 PM,Track 1,Point Pleasant Beach Station,True
+Hoboken -SEC,11:35 AM,Track 1,Port Jervis Station,False
+Hoboken -SEC,1:35 PM,Track 1,Port Jervis Station,False
+Hoboken -SEC,9:22 PM,Track 1,Port Jervis Station,False
+Trenton,"10:31 AM
+           Cancelled",Track 4,Princeton Junction Station,True
+Trenton,"10:51 AM
+           in 29 Min",Track 4,Princeton Junction Station,True
+New York -SEC ✈,"10:54 AM
+           in 24 Min",Track 1,Princeton Junction Station,True
+Princeton,11:00 AM,Track S,Princeton Junction Station,True
+Trenton,11:13 AM,Track 4,Princeton Junction Station,True
+Princeton,11:20 AM,Track S,Princeton Junction Station,True
+Princeton,11:40 AM,Track S,Princeton Junction Station,True
+New York -SEC ✈,11:41 AM,Track 1,Princeton Junction Station,True
+New York,11:49 AM,Track 2,Princeton Junction Station,True
+Trenton,11:55 AM,Track 4,Princeton Junction Station,True
+Princeton,12:02 PM,Track S,Princeton Junction Station,True
+New York -SEC ✈,12:05 PM,Track 1,Princeton Junction Station,True
+Trenton,12:30 PM,Track 4,Princeton Junction Station,True
+New York -SEC ✈,12:34 PM,Track 1,Princeton Junction Station,True
+Princeton,12:35 PM,Track S,Princeton Junction Station,True
+Trenton,12:52 PM,Track 4,Princeton Junction Station,True
+Princeton,12:59 PM,Track S,Princeton Junction Station,True
+New York -SEC ✈,1:03 PM,Track 1,Princeton Junction Station,True
+Washington,1:06 PM,Track 4,Princeton Junction Station,True
+Princeton Junction,11:10 AM,Track S,Princeton Station,True
+Princeton Junction,11:30 AM,Track S,Princeton Station,True
+Princeton Junction,11:52 AM,Track S,Princeton Station,True
+Princeton Junction,12:18 PM,Track S,Princeton Station,True
+Princeton Junction,12:49 PM,Track S,Princeton Station,True
+Princeton Junction,1:11 PM,Track S,Princeton Station,True
+Princeton Junction,1:46 PM,Track S,Princeton Station,True
+Princeton Junction,2:14 PM,Track S,Princeton Station,True
+Princeton Junction,2:41 PM,Track S,Princeton Station,True
+Princeton Junction,3:01 PM,Track S,Princeton Station,True
+Princeton Junction,3:38 PM,Track S,Princeton Station,True
+Princeton Junction,4:14 PM,Track S,Princeton Station,True
+Princeton Junction,4:38 PM,Track S,Princeton Station,True
+Princeton Junction,5:04 PM,Track S,Princeton Station,True
+Princeton Junction,5:27 PM,Track S,Princeton Station,True
+Princeton Junction,5:50 PM,Track S,Princeton Station,True
+Princeton Junction,6:10 PM,Track S,Princeton Station,True
+Princeton Junction,6:30 PM,Track S,Princeton Station,True
+Princeton Junction,6:50 PM,Track S,Princeton Station,True
+Hoboken -SEC,"10:32 AM
+           in 5 Min",Track 2,Radburn Station,False
+Ridgewood,11:15 AM,Track 1,Radburn Station,False
+Hoboken -SEC,11:33 AM,Track 2,Radburn Station,False
+Ridgewood,12:15 PM,Track 1,Radburn Station,False
+Hoboken -SEC,12:32 PM,Track 2,Radburn Station,False
+Suffern,1:15 PM,Track 1,Radburn Station,False
+Hoboken -SEC,1:34 PM,Track 2,Radburn Station,False
+Suffern,2:16 PM,Track 1,Radburn Station,False
+Hoboken -SEC,2:29 PM,Track 2,Radburn Station,False
+Suffern,3:12 PM,Track 1,Radburn Station,False
+Hoboken -SEC,3:40 PM,Track 2,Radburn Station,False
+Suffern,3:58 PM,Track 1,Radburn Station,False
+Waldwick,4:55 PM,Track 1,Radburn Station,False
+Hoboken -SEC,4:56 PM,Track 2,Radburn Station,False
+Suffern,5:20 PM,Track 1,Radburn Station,False
+Ridgewood,5:33 PM,Track 1,Radburn Station,False
+Hoboken -SEC,5:45 PM,Track 2,Radburn Station,False
+Suffern,5:50 PM,Track 1,Radburn Station,False
+Waldwick,6:06 PM,Track 1,Radburn Station,False
+Long Branch,"10:24 AM
+           All Aboard",Track B,Rahway Station,True
+New York -SEC ✈,"10:36 AM
+           in 6 Min",Track A,Rahway Station,True
+Trenton,"10:40 AM
+           in 9 Min",Track B,Rahway Station,True
+New York -SEC ✈,"10:50 AM
+           in 20 Min",Track A,Rahway Station,True
+New York -SEC ✈,"11:01 AM
+           in 30 Min",Track A,Rahway Station,True
+Trenton,11:13 AM,Track B,Rahway Station,True
+Long Branch,11:23 AM,Track B,Rahway Station,True
+New York -SEC ✈,11:31 AM,Track A,Rahway Station,True
+Trenton,11:48 AM,Track B,Rahway Station,True
+New York -SEC ✈,11:53 AM,Track A,Rahway Station,True
+Long Branch,12:04 PM,Track B,Rahway Station,True
+Trenton,12:15 PM,Track B,Rahway Station,True
+New York -SEC ✈,12:18 PM,Track A,Rahway Station,True
+New York -SEC ✈,12:40 PM,Track A,Rahway Station,True
+Trenton,12:40 PM,Track B,Rahway Station,True
+Long Branch,12:47 PM,Track B,Rahway Station,True
+New York -SEC ✈,12:51 PM,Track A,Rahway Station,True
+New York -SEC ✈,1:09 PM,Track A,Rahway Station,True
+Trenton,1:13 PM,Track B,Rahway Station,True
+Port Jervis,"10:42 AM
+           in 12 Min",Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,11:06 AM,Track 2,Ramsey Main Street Station,True
+Suffern,11:45 AM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,12:06 PM,Track 2,Ramsey Main Street Station,True
+Suffern,12:44 PM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,1:06 PM,Track 2,Ramsey Main Street Station,True
+Hoboken -SEC,1:13 PM,Track 2,Ramsey Main Street Station,True
+Suffern,1:35 PM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,2:04 PM,Track 2,Ramsey Main Street Station,True
+Suffern,2:36 PM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,2:58 PM,Track 2,Ramsey Main Street Station,True
+Hoboken -SEC,3:20 PM,Track 2,Ramsey Main Street Station,True
+Suffern,3:32 PM,Track 1,Ramsey Main Street Station,True
+Suffern,3:45 PM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,4:17 PM,Track 2,Ramsey Main Street Station,True
+Suffern,4:19 PM,Track 1,Ramsey Main Street Station,True
+Hoboken -SEC,4:36 PM,Track 2,Ramsey Main Street Station,True
+Hoboken -SEC,5:06 PM,Track 2,Ramsey Main Street Station,True
+Suffern,5:09 PM,Track 1,Ramsey Main Street Station,True
+Port Jervis,"10:44 AM
+           in 15 Min",Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,"10:54 AM
+           in 23 Min",Track 2,Ramsey Route 17 Station,True
+Hoboken -SEC,11:02 AM,Track 2,Ramsey Route 17 Station,True
+Suffern,11:48 AM,Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,12:02 PM,Track 2,Ramsey Route 17 Station,True
+Suffern,12:47 PM,Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,1:02 PM,Track 2,Ramsey Route 17 Station,True
+Hoboken -SEC,1:10 PM,Track 2,Ramsey Route 17 Station,True
+Middletown,1:22 PM,Track 1,Ramsey Route 17 Station,True
+Suffern,1:38 PM,Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,2:00 PM,Track 2,Ramsey Route 17 Station,True
+Suffern,2:40 PM,Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,2:55 PM,Track 2,Ramsey Route 17 Station,True
+Hoboken -SEC,3:10 PM,Track 2,Ramsey Route 17 Station,True
+Hoboken -SEC,3:17 PM,Track 2,Ramsey Route 17 Station,True
+Middletown,3:20 PM,Track 1,Ramsey Route 17 Station,True
+Suffern,3:36 PM,Track 1,Ramsey Route 17 Station,True
+Suffern,3:49 PM,Track 1,Ramsey Route 17 Station,True
+Hoboken -SEC,4:14 PM,Track 2,Ramsey Route 17 Station,True
+New York -SEC,"10:46 AM
+           in 15 Min",Track 2,Raritan Station,False
+High Bridge,"10:59 AM
+           in 28 Min",Track 1,Raritan Station,False
+New York -SEC,11:46 AM,Track 2,Raritan Station,False
+New York -SEC,12:49 PM,Track 2,Raritan Station,False
+Newark Penn,1:47 PM,Track 2,Raritan Station,False
+High Bridge,1:57 PM,Track 1,Raritan Station,False
+Newark Penn,2:47 PM,Track 2,Raritan Station,False
+Newark Penn,3:33 PM,Track 2,Raritan Station,False
+High Bridge,3:55 PM,Track 1,Raritan Station,False
+Newark Penn,4:10 PM,Track 2,Raritan Station,False
+Newark Penn,5:23 PM,Track 2,Raritan Station,False
+High Bridge,5:45 PM,Track 1,Raritan Station,False
+Newark Penn,5:52 PM,Track 2,Raritan Station,False
+High Bridge,6:21 PM,Track 1,Raritan Station,False
+New York -SEC,6:49 PM,Track 2,Raritan Station,False
+High Bridge,7:12 PM,Track 1,Raritan Station,False
+New York -SEC,7:56 PM,Track 2,Raritan Station,False
+High Bridge,8:10 PM,Track 1,Raritan Station,False
+New York -SEC,8:47 PM,Track 2,Raritan Station,False
+New York -SEC ✈,11:06 AM,Track 2,Red Bank Station,True
+Long Branch,11:11 AM,Track 1,Red Bank Station,True
+New York -SEC ✈,12:03 PM,Track 2,Red Bank Station,True
+Long Branch,12:07 PM,Track 1,Red Bank Station,True
+Long Branch,12:50 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,1:03 PM,Track 2,Red Bank Station,True
+Long Branch,1:32 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,2:04 PM,Track 2,Red Bank Station,True
+Long Branch,2:09 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,3:01 PM,Track 2,Red Bank Station,True
+Long Branch,3:08 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,3:55 PM,Track 2,Red Bank Station,True
+Long Branch,4:08 PM,Track 1,Red Bank Station,True
+Long Branch,4:55 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,4:56 PM,Track 2,Red Bank Station,True
+Bay Head,5:45 PM,Track 1,Red Bank Station,True
+New York -SEC ✈,5:49 PM,Track 2,Red Bank Station,True
+Bay Head,6:17 PM,Track 1,Red Bank Station,True
+New York -SEC,6:26 PM,Track 2,Red Bank Station,True
+Port Jervis,"10:29 AM
+           All Aboard",Track 3,Ridgewood Station,False
+Hoboken -SEC,11:19 AM,Track 2,Ridgewood Station,False
+Hoboken -SEC,11:26 AM,Track 2,Ridgewood Station,False
+Suffern,11:31 AM,Track 3,Ridgewood Station,False
+Hoboken -SEC,12:19 PM,Track 2,Ridgewood Station,False
+Hoboken -SEC,12:25 PM,Track 2,Ridgewood Station,False
+Suffern,12:31 PM,Track 3,Ridgewood Station,False
+Middletown,1:13 PM,Track 1,Ridgewood Station,False
+Hoboken -SEC,1:19 PM,Track 2,Ridgewood Station,False
+Suffern,1:22 PM,Track 3,Ridgewood Station,False
+Hoboken -SEC,1:26 PM,Track 2,Ridgewood Station,False
+Waldwick,1:32 PM,Track 3,Ridgewood Station,False
+Hoboken -SEC,2:17 PM,Track 2,Ridgewood Station,False
+Hoboken -SEC,2:22 PM,Track 2,Ridgewood Station,False
+Suffern,2:23 PM,Track 3,Ridgewood Station,False
+Waldwick,2:30 PM,Track 3,Ridgewood Station,False
+Hoboken -SEC,3:11 PM,Track 2,Ridgewood Station,False
+Suffern,3:19 PM,Track 3,Ridgewood Station,False
+Hoboken -SEC,3:20 PM,Track 2,Ridgewood Station,False
+Spring Valley,"10:33 AM
+           in 7 Min",Track Single,River Edge Station,False
+Hoboken -SEC,11:28 AM,Track Single,River Edge Station,False
+Spring Valley,11:57 AM,Track Single,River Edge Station,False
+Hoboken -SEC,12:53 PM,Track Single,River Edge Station,False
+Spring Valley,1:07 PM,Track Single,River Edge Station,False
+Spring Valley,2:25 PM,Track Single,River Edge Station,False
+Hoboken -SEC,3:19 PM,Track Single,River Edge Station,False
+Spring Valley,3:31 PM,Track Single,River Edge Station,False
+Hoboken -SEC,4:27 PM,Track Single,River Edge Station,False
+Spring Valley,4:40 PM,Track Single,River Edge Station,False
+Spring Valley,5:16 PM,Track Single,River Edge Station,False
+Spring Valley,5:39 PM,Track Single,River Edge Station,False
+Spring Valley,6:19 PM,Track Single,River Edge Station,False
+Spring Valley,6:38 PM,Track Single,River Edge Station,False
+Spring Valley,6:57 PM,Track Single,River Edge Station,False
+Spring Valley,7:26 PM,Track Single,River Edge Station,False
+Spring Valley,8:06 PM,Track Single,River Edge Station,False
+Spring Valley,8:59 PM,Track Single,River Edge Station,False
+Hoboken -SEC,9:50 PM,Track Single,River Edge Station,False
+New York -SEC,"10:36 AM
+           in 6 Min",Track 1,Roselle Park Station,False
+Raritan,11:12 AM,Track 1,Roselle Park Station,False
+New York -SEC,11:32 AM,Track 1,Roselle Park Station,False
+Raritan,12:12 PM,Track 1,Roselle Park Station,False
+New York -SEC,12:32 PM,Track 1,Roselle Park Station,False
+High Bridge,1:14 PM,Track 1,Roselle Park Station,False
+New York -SEC,1:34 PM,Track 1,Roselle Park Station,False
+Raritan,2:12 PM,Track 1,Roselle Park Station,False
+Newark Penn,2:33 PM,Track 1,Roselle Park Station,False
+High Bridge,3:13 PM,Track 1,Roselle Park Station,False
+Newark Penn,3:33 PM,Track 1,Roselle Park Station,False
+Newark Penn,4:18 PM,Track 2,Roselle Park Station,False
+Raritan,4:24 PM,Track 1,Roselle Park Station,False
+Newark Penn,4:54 PM,Track 2,Roselle Park Station,False
+High Bridge,4:58 PM,Track 1,Roselle Park Station,False
+Raritan,5:29 PM,Track 1,Roselle Park Station,False
+Raritan,5:57 PM,Track 1,Roselle Park Station,False
+Newark Penn,6:07 PM,Track 1,Roselle Park Station,False
+Raritan,6:18 PM,Track 1,Roselle Park Station,False
+Hoboken -SEC,"10:51 AM
+           in 23 Min",Track 2,Rutherford Station,False
+Ridgewood,10:58 AM,Track 1,Rutherford Station,False
+Hoboken -SEC,11:52 AM,Track 2,Rutherford Station,False
+Ridgewood,11:58 AM,Track 1,Rutherford Station,False
+Hoboken -SEC,12:51 PM,Track 2,Rutherford Station,False
+Suffern,12:58 PM,Track 1,Rutherford Station,False
+Hoboken -SEC,1:53 PM,Track 2,Rutherford Station,False
+Suffern,1:58 PM,Track 1,Rutherford Station,False
+Hoboken -SEC,2:47 PM,Track 2,Rutherford Station,False
+Suffern,2:54 PM,Track 1,Rutherford Station,False
+Suffern,3:40 PM,Track 1,Rutherford Station,False
+Hoboken -SEC,3:59 PM,Track 2,Rutherford Station,False
+Waldwick,4:38 PM,Track 1,Rutherford Station,False
+Hoboken -SEC,5:14 PM,Track 2,Rutherford Station,False
+Ridgewood,5:16 PM,Track 1,Rutherford Station,False
+Waldwick,5:47 PM,Track 1,Rutherford Station,False
+Hoboken -SEC,6:03 PM,Track 2,Rutherford Station,False
+Waldwick,6:22 PM,Track 1,Rutherford Station,False
+Suffern,6:56 PM,Track 1,Rutherford Station,False
+Port Jervis,11:29 AM,Track Single,Salisbury Mills Cornwall Station,True
+Hoboken -SEC,12:27 PM,Track Single,Salisbury Mills Cornwall Station,True
+Middletown,2:05 PM,Track Single,Salisbury Mills Cornwall Station,True
+Hoboken -SEC,2:27 PM,Track Single,Salisbury Mills Cornwall Station,True
+Hoboken -SEC,3:39 PM,Track Single,Salisbury Mills Cornwall Station,True
+Middletown,4:04 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,5:27 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,6:08 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,6:37 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,7:08 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,7:32 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,7:50 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,8:20 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,9:15 PM,Track Single,Salisbury Mills Cornwall Station,True
+Hoboken -SEC,10:16 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,11:44 PM,Track Single,Salisbury Mills Cornwall Station,True
+Port Jervis,2:24 AM,Track Single,Salisbury Mills Cornwall Station,True
+Meadowlands,"10:28 AM
+           All Aboard",Track G,Secaucus Junction Lower Level,True
+Meadowlands,10:38 AM,Track H,Secaucus Junction Lower Level,True
+Meadowlands,10:48 AM,Track G,Secaucus Junction Lower Level,True
+Ridgewood,10:50 AM,Track F,Secaucus Junction Lower Level,True
+Hoboken,"10:54 AM
+           in 28 Min",Track E,Secaucus Junction Lower Level,True
+Suffern,10:56 AM,Track F,Secaucus Junction Lower Level,True
+Meadowlands,10:58 AM,Track H,Secaucus Junction Lower Level,True
+Hoboken,11:01 AM,Track E,Secaucus Junction Lower Level,True
+Meadowlands,11:08 AM,Track H,Secaucus Junction Lower Level,True
+Meadowlands,11:18 AM,Track H,Secaucus Junction Lower Level,True
+Hoboken,11:26 AM,Track E,Secaucus Junction Lower Level,True
+Spring Valley,11:28 AM,Track F,Secaucus Junction Lower Level,True
+Meadowlands,11:28 AM,Track H,Secaucus Junction Lower Level,True
+Meadowlands,11:38 AM,Track H,Secaucus Junction Lower Level,True
+Meadowlands,11:48 AM,Track H,Secaucus Junction Lower Level,True
+Ridgewood,11:50 AM,Track F,Secaucus Junction Lower Level,True
+Hoboken,11:53 AM,Track E,Secaucus Junction Lower Level,True
+Hoboken,11:54 AM,Track E,Secaucus Junction Lower Level,True
+Suffern,11:56 AM,Track F,Secaucus Junction Lower Level,True
+New York,"10:25 AM
+           in 5 Min",Track A,Secaucus Junction Upper Level,True
+Secaucus,"10:28 AM
+           All Aboard",Track A,Secaucus Junction Upper Level,True
+MSU,"10:38 AM
+           in 7 Min",Track B,Secaucus Junction Upper Level,True
+New York,"10:41 AM
+           in 10 Min",Track A,Secaucus Junction Upper Level,True
+Trenton ✈,10:43 AM,Track B,Secaucus Junction Upper Level,True
+New York,"10:44 AM
+           in 13 Min",Track A,Secaucus Junction Upper Level,True
+Raritan,10:49 AM,Track B,Secaucus Junction Upper Level,True
+Long Branch ✈,10:53 AM,Track B,Secaucus Junction Upper Level,True
+Dover,10:56 AM,Track B,Secaucus Junction Upper Level,True
+New York,"10:58 AM
+           in 28 Min",Track A,Secaucus Junction Upper Level,True
+New York,"11:01 AM
+           in 30 Min",Track A,Secaucus Junction Upper Level,True
+New York,11:05 AM,Track A,Secaucus Junction Upper Level,True
+New York,11:15 AM,Track A,Secaucus Junction Upper Level,True
+Trenton ✈,11:19 AM,Track B,Secaucus Junction Upper Level,True
+New York,11:20 AM,Track A,Secaucus Junction Upper Level,True
+New York,11:31 AM,Track A,Secaucus Junction Upper Level,True
+Long Branch ✈,11:33 AM,Track B,Secaucus Junction Upper Level,True
+New York,11:35 AM,Track A,Secaucus Junction Upper Level,True
+MSU,11:38 AM,Track B,Secaucus Junction Upper Level,True
+New York -SEC,"10:32 AM
+           in 2 Min",Track 2,Short Hills Station,False
+Dover,"10:47 AM
+           in 16 Min",Track 1,Short Hills Station,False
+Hoboken,"10:54 AM
+           in 23 Min",Track 2,Short Hills Station,False
+Gladstone,11:18 AM,Track 1,Short Hills Station,False
+Dover,11:29 AM,Track 1,Short Hills Station,False
+New York -SEC,11:33 AM,Track 2,Short Hills Station,False
+Hoboken,11:47 AM,Track 2,Short Hills Station,False
+Gladstone,12:18 PM,Track 1,Short Hills Station,False
+Dover,12:29 PM,Track 1,Short Hills Station,False
+New York -SEC,12:40 PM,Track 2,Short Hills Station,False
+Hoboken,12:47 PM,Track 2,Short Hills Station,False
+Hoboken,1:15 PM,Track 2,Short Hills Station,False
+Gladstone,1:18 PM,Track 1,Short Hills Station,False
+Dover,1:30 PM,Track 1,Short Hills Station,False
+New York -SEC,1:40 PM,Track 2,Short Hills Station,False
+Hoboken,1:47 PM,Track 2,Short Hills Station,False
+Gladstone,2:18 PM,Track 1,Short Hills Station,False
+Dover,2:36 PM,Track 1,Short Hills Station,False
+New York,2:40 PM,Track 2,Short Hills Station,False
+Hoboken -SEC,"10:43 AM
+           in 14 Min",Track Single,Sloatsburg Station,False
+Port Jervis,"10:58 AM
+           in 27 Min",Track Single,Sloatsburg Station,False
+Hoboken -SEC,12:57 PM,Track Single,Sloatsburg Station,False
+Middletown,1:34 PM,Track Single,Sloatsburg Station,False
+Hoboken -SEC,2:58 PM,Track Single,Sloatsburg Station,False
+Middletown,3:32 PM,Track Single,Sloatsburg Station,False
+Hoboken -SEC,4:12 PM,Track Single,Sloatsburg Station,False
+Port Jervis,4:56 PM,Track Single,Sloatsburg Station,False
+Port Jervis,5:37 PM,Track Single,Sloatsburg Station,False
+Port Jervis,6:07 PM,Track Single,Sloatsburg Station,False
+Port Jervis,6:37 PM,Track Single,Sloatsburg Station,False
+Port Jervis,7:19 PM,Track Single,Sloatsburg Station,False
+Port Jervis,7:49 PM,Track Single,Sloatsburg Station,False
+Port Jervis,8:45 PM,Track Single,Sloatsburg Station,False
+Hoboken -SEC,10:45 PM,Track Single,Sloatsburg Station,False
+Port Jervis,11:13 PM,Track Single,Sloatsburg Station,False
+Port Jervis,1:53 AM,Track Single,Sloatsburg Station,False
+New York -SEC,"10:49 AM
+           in 18 Min",Track 2,Somerville Station,True
+High Bridge,"10:56 AM
+           in 25 Min",Track 1,Somerville Station,True
+New York -SEC,11:49 AM,Track 2,Somerville Station,True
+Raritan,11:53 AM,Track 1,Somerville Station,True
+New York -SEC,12:52 PM,Track 2,Somerville Station,True
+Raritan,12:53 PM,Track 1,Somerville Station,True
+Newark Penn,1:50 PM,Track 2,Somerville Station,True
+High Bridge,1:54 PM,Track 1,Somerville Station,True
+Newark Penn,2:50 PM,Track 2,Somerville Station,True
+Raritan,2:53 PM,Track 1,Somerville Station,True
+Newark Penn,3:36 PM,Track 2,Somerville Station,True
+High Bridge,3:52 PM,Track 1,Somerville Station,True
+Newark Penn,4:13 PM,Track 2,Somerville Station,True
+Raritan,5:07 PM,Track 1,Somerville Station,True
+Newark Penn,5:26 PM,Track 2,Somerville Station,True
+High Bridge,5:42 PM,Track 1,Somerville Station,True
+Newark Penn,5:55 PM,Track 2,Somerville Station,True
+Raritan,6:08 PM,Track 1,Somerville Station,True
+High Bridge,6:18 PM,Track 1,Somerville Station,True
+Long Branch,"10:47 AM
+           in 21 Min",Track 2,South Amboy Station,True
+New York -SEC ✈,11:32 AM,Track 2,South Amboy Station,True
+Long Branch,11:43 AM,Track 2,South Amboy Station,True
+Long Branch,12:26 PM,Track 2,South Amboy Station,True
+New York -SEC ✈,12:28 PM,Track 2,South Amboy Station,True
+Long Branch,1:08 PM,Track 2,South Amboy Station,True
+New York -SEC ✈,1:28 PM,Track 2,South Amboy Station,True
+Long Branch,1:46 PM,Track 2,South Amboy Station,True
+New York -SEC ✈,2:29 PM,Track 2,South Amboy Station,True
+Long Branch,2:42 PM,Track 2,South Amboy Station,True
+New York -SEC ✈,3:26 PM,Track 2,South Amboy Station,True
+Long Branch,3:43 PM,Track 1,South Amboy Station,True
+New York -SEC ✈,4:21 PM,Track 2,South Amboy Station,True
+Long Branch,4:31 PM,Track 1,South Amboy Station,True
+New York -SEC,4:44 PM,Track 2,South Amboy Station,True
+New York -SEC ✈,5:20 PM,Track 2,South Amboy Station,True
+Bay Head,5:21 PM,Track 1,South Amboy Station,True
+New York -SEC ✈,5:41 PM,Track 2,South Amboy Station,True
+Bay Head,5:51 PM,Track 1,South Amboy Station,True
+Dover,"10:37 AM
+           in 9 Min",Track 3,South Orange Station,True
+New York -SEC,"10:42 AM
+           in 11 Min",Track 2,South Orange Station,True
+Hoboken,11:03 AM,Track 2,South Orange Station,True
+Gladstone,11:10 AM,Track 3,South Orange Station,True
+Dover,11:19 AM,Track 3,South Orange Station,True
+New York -SEC,11:43 AM,Track 2,South Orange Station,True
+Hoboken,11:56 AM,Track 2,South Orange Station,True
+Gladstone,12:10 PM,Track 3,South Orange Station,True
+Dover,12:19 PM,Track 3,South Orange Station,True
+New York -SEC,12:50 PM,Track 2,South Orange Station,True
+Hoboken,12:57 PM,Track 2,South Orange Station,True
+Gladstone,1:10 PM,Track 3,South Orange Station,True
+Dover,1:20 PM,Track 3,South Orange Station,True
+Hoboken,1:25 PM,Track 2,South Orange Station,True
+New York -SEC,1:50 PM,Track 2,South Orange Station,True
+Hoboken,1:57 PM,Track 2,South Orange Station,True
+Gladstone,2:10 PM,Track 3,South Orange Station,True
+Dover,2:25 PM,Track 3,South Orange Station,True
+New York,2:50 PM,Track 2,South Orange Station,True
+Long Branch,11:21 AM,Track 2,Spring Lake Station,False
+Bay Head,11:51 AM,Track 1,Spring Lake Station,False
+Bay Head,12:49 PM,Track 1,Spring Lake Station,False
+Long Branch,1:22 PM,Track 2,Spring Lake Station,False
+Bay Head,2:49 PM,Track 1,Spring Lake Station,False
+Long Branch,3:13 PM,Track 2,Spring Lake Station,False
+Long Branch,4:13 PM,Track 2,Spring Lake Station,False
+Bay Head,4:49 PM,Track 1,Spring Lake Station,False
+Bay Head,5:38 PM,Track 1,Spring Lake Station,False
+Long Branch,5:43 PM,Track 2,Spring Lake Station,False
+Bay Head,6:21 PM,Track 1,Spring Lake Station,False
+Bay Head,6:52 PM,Track 1,Spring Lake Station,False
+Bay Head,7:33 PM,Track 1,Spring Lake Station,False
+Long Branch,7:38 PM,Track 2,Spring Lake Station,False
+Bay Head,7:48 PM,Track 1,Spring Lake Station,False
+Bay Head,8:24 PM,Track 1,Spring Lake Station,False
+Long Branch,8:39 PM,Track 2,Spring Lake Station,False
+Bay Head,8:55 PM,Track 1,Spring Lake Station,False
+Bay Head,10:22 PM,Track 1,Spring Lake Station,False
+Hoboken -SEC,10:55 AM,Track Si,Spring Valley Station,True
+Hoboken -SEC,12:20 PM,Track Si,Spring Valley Station,True
+Hoboken -SEC,1:31 PM,Track Si,Spring Valley Station,True
+Hoboken -SEC,2:46 PM,Track Si,Spring Valley Station,True
+Hoboken -SEC,3:54 PM,Track Si,Spring Valley Station,True
+Hoboken -SEC,9:14 PM,Track Si,Spring Valley Station,True
+Hoboken -SEC,12:05 AM,Track Si,Spring Valley Station,True
+Gladstone,"10:42 AM
+           in 10 Min",Track Single,Stirling Station,False
+Hoboken,11:23 AM,Track Single,Stirling Station,False
+Gladstone,11:42 AM,Track Single,Stirling Station,False
+Hoboken,12:23 PM,Track Single,Stirling Station,False
+Gladstone,12:42 PM,Track Single,Stirling Station,False
+Hoboken,1:23 PM,Track Single,Stirling Station,False
+Gladstone,1:42 PM,Track Single,Stirling Station,False
+Hoboken,2:23 PM,Track Single,Stirling Station,False
+Gladstone,2:42 PM,Track Single,Stirling Station,False
+Hoboken,3:21 PM,Track Single,Stirling Station,False
+Gladstone,3:44 PM,Track Single,Stirling Station,False
+Bernardsville,4:29 PM,Track Single,Stirling Station,False
+Hoboken,4:30 PM,Track Siding,Stirling Station,False
+Gladstone,5:22 PM,Track Single,Stirling Station,False
+Hoboken,5:23 PM,Track Siding,Stirling Station,False
+Gladstone,5:59 PM,Track Single,Stirling Station,False
+Gladstone,6:21 PM,Track Single,Stirling Station,False
+Gladstone,6:34 PM,Track Single,Stirling Station,False
+Gladstone,6:55 PM,Track Single,Stirling Station,False
+Hoboken -SEC,"10:50 AM
+           in 21 Min",Track 2,Suffern Station,False
+Port Jervis,"10:51 AM
+           in 19 Min",Track 1,Suffern Station,False
+Hoboken -SEC,10:56 AM,Track 2,Suffern Station,False
+Hoboken -SEC,11:56 AM,Track 2,Suffern Station,False
+Hoboken -SEC,12:56 PM,Track 2,Suffern Station,False
+Hoboken -SEC,1:04 PM,Track 2,Suffern Station,False
+Middletown,1:27 PM,Track 1,Suffern Station,False
+Hoboken -SEC,1:54 PM,Track 2,Suffern Station,False
+Hoboken -SEC,2:49 PM,Track 2,Suffern Station,False
+Hoboken -SEC,3:06 PM,Track 2,Suffern Station,False
+Hoboken -SEC,3:11 PM,Track 2,Suffern Station,False
+Middletown,3:25 PM,Track 1,Suffern Station,False
+Hoboken -SEC,4:07 PM,Track 2,Suffern Station,False
+Hoboken -SEC,4:20 PM,Track 2,Suffern Station,False
+Hoboken -SEC,4:26 PM,Track 2,Suffern Station,False
+Port Jervis,4:49 PM,Track 1,Suffern Station,False
+Hoboken -SEC,4:57 PM,Track 2,Suffern Station,False
+Port Jervis,5:30 PM,Track 1,Suffern Station,False
+Hoboken -SEC,5:48 PM,Track 2,Suffern Station,False
+New York -SEC,"10:46 AM
+           in 13 Min",Track 2,Summit Station,True
+Hoboken,"10:49 AM
+           in 18 Min",Track W,Summit Station,True
+Dover,"10:52 AM
+           in 20 Min",Track 1,Summit Station,True
+Gladstone,11:23 AM,Track 1,Summit Station,True
+New York -SEC,11:29 AM,Track 2,Summit Station,True
+Dover,11:34 AM,Track 1,Summit Station,True
+Hoboken,11:42 AM,Track W,Summit Station,True
+Gladstone,12:23 PM,Track 1,Summit Station,True
+Dover,12:34 PM,Track 1,Summit Station,True
+New York -SEC,12:36 PM,Track 2,Summit Station,True
+Hoboken,12:42 PM,Track W,Summit Station,True
+Hoboken,1:11 PM,Track 2,Summit Station,True
+Gladstone,1:23 PM,Track 1,Summit Station,True
+Dover,1:35 PM,Track 1,Summit Station,True
+New York -SEC,1:36 PM,Track 2,Summit Station,True
+Hoboken,1:42 PM,Track W,Summit Station,True
+Gladstone,2:23 PM,Track 1,Summit Station,True
+New York,2:36 PM,Track 2,Summit Station,True
+Dover,2:42 PM,Track 1,Summit Station,True
+Spring Valley,11:44 AM,Track Single,Teterboro Station,False
+Spring Valley,12:54 PM,Track Single,Teterboro Station,False
+Hoboken -SEC,1:11 PM,Track Single,Teterboro Station,False
+Hoboken -SEC,2:06 PM,Track Single,Teterboro Station,False
+Spring Valley,2:11 PM,Track Single,Teterboro Station,False
+Hoboken -SEC,3:37 PM,Track Single,Teterboro Station,False
+New Bridge Landing,3:40 PM,Track Single,Teterboro Station,False
+Spring Valley,4:27 PM,Track Single,Teterboro Station,False
+Hoboken -SEC,4:44 PM,Track Single,Teterboro Station,False
+Spring Valley,5:02 PM,Track Single,Teterboro Station,False
+Spring Valley,5:25 PM,Track Single,Teterboro Station,False
+Spring Valley,6:02 PM,Track Single,Teterboro Station,False
+Spring Valley,6:22 PM,Track Single,Teterboro Station,False
+Spring Valley,6:41 PM,Track Single,Teterboro Station,False
+Spring Valley,7:12 PM,Track Single,Teterboro Station,False
+Spring Valley,7:52 PM,Track Single,Teterboro Station,False
+Spring Valley,8:45 PM,Track Single,Teterboro Station,False
+Hoboken -SEC,10:03 PM,Track Single,Teterboro Station,False
+Spring Valley,10:07 PM,Track Single,Teterboro Station,False
+Dover,3:08 PM,Track Single,Towaco Station,True
+Denville,4:39 PM,Track Single,Towaco Station,True
+Hackettstown,5:39 PM,Track Single,Towaco Station,True
+Mount Olive,6:09 PM,Track Single,Towaco Station,True
+Dover,6:51 PM,Track Single,Towaco Station,True
+Lake Hopatcong,7:39 PM,Track Single,Towaco Station,True
+Hackettstown,8:31 PM,Track Single,Towaco Station,True
+Hackettstown,10:06 PM,Track Single,Towaco Station,True
+Mount Olive,11:13 PM,Track Single,Towaco Station,True
+Discharge Only,"10:25 AM
+           2HR 30M LATE",Track 1,Trenton Transit Center,True
+Saint Albans,"10:27 AM
+           ALL ABOARD",Track 1,Trenton Transit Center,True
+New York -SEC ✈,"10:41 AM
+           ON TIME",Track 2,Trenton Transit Center,True
+Philadelphia,"10:59 AM
+           ON TIME",Track 5,Trenton Transit Center,True
+Boston,"11:18 AM
+           10 MINS LATE",Track 1,Trenton Transit Center,True
+New York -SEC ✈,11:28 AM,Track 2,Trenton Transit Center,True
+Norfolk,"11:29 AM
+           10 MINS LATE",Track 4,Trenton Transit Center,True
+New York,"11:39 AM
+           ON TIME",Track 1,Trenton Transit Center,True
+Pittsburgh,"11:46 AM
+           ON TIME",Track 4,Trenton Transit Center,True
+Philadelphia,"11:51 AM
+           ON TIME",Track 5,Trenton Transit Center,True
+New York -SEC ✈,"11:52 AM
+           ON TIME",Track 2,Trenton Transit Center,True
+Washington,"12:01 PM
+           ON TIME",Track 4,Trenton Transit Center,True
+New York,"12:18 PM
+           ON TIME",Track 1,Trenton Transit Center,True
+New York -SEC ✈,"12:21 PM
+           ON TIME",Track 2,Trenton Transit Center,True
+Newport News,"12:30 PM
+           ON TIME",Track 4,Trenton Transit Center,True
+New York,"12:46 PM
+           ON TIME",Track 1,Trenton Transit Center,True
+New York -SEC ✈,"12:50 PM
+           ON TIME",Track 2,Trenton Transit Center,True
+Harrisburg,"12:55 PM
+           ON TIME",Track 4,Trenton Transit Center,True
+Philadelphia,"12:59 PM
+           ON TIME",Track 5,Trenton Transit Center,True
+Hoboken -SEC,"10:38 AM
+           in 8 Min",Track Single,Tuxedo Station,False
+Port Jervis,11:03 AM,Track Single,Tuxedo Station,False
+Hoboken -SEC,12:52 PM,Track Single,Tuxedo Station,False
+Middletown,1:39 PM,Track Single,Tuxedo Station,False
+Hoboken -SEC,2:52 PM,Track Single,Tuxedo Station,False
+Middletown,3:38 PM,Track Single,Tuxedo Station,False
+Hoboken -SEC,4:07 PM,Track Single,Tuxedo Station,False
+Port Jervis,5:01 PM,Track Single,Tuxedo Station,False
+Port Jervis,5:42 PM,Track Single,Tuxedo Station,False
+Port Jervis,6:12 PM,Track Single,Tuxedo Station,False
+Port Jervis,6:42 PM,Track Single,Tuxedo Station,False
+Port Jervis,7:24 PM,Track Single,Tuxedo Station,False
+Port Jervis,7:54 PM,Track Single,Tuxedo Station,False
+Port Jervis,8:50 PM,Track Single,Tuxedo Station,False
+Hoboken -SEC,10:40 PM,Track Single,Tuxedo Station,False
+Port Jervis,11:18 PM,Track Single,Tuxedo Station,False
+Port Jervis,1:58 AM,Track Single,Tuxedo Station,False
+New York -SEC,"10:40 AM
+           in 9 Min",Track 1,Union Station,True
+Raritan,11:08 AM,Track 1,Union Station,True
+New York -SEC,11:36 AM,Track 1,Union Station,True
+Raritan,12:08 PM,Track 1,Union Station,True
+New York -SEC,12:36 PM,Track 1,Union Station,True
+High Bridge,1:10 PM,Track 1,Union Station,True
+New York -SEC,1:37 PM,Track 1,Union Station,True
+Raritan,2:08 PM,Track 1,Union Station,True
+Newark Penn,2:37 PM,Track 1,Union Station,True
+High Bridge,3:09 PM,Track 1,Union Station,True
+Newark Penn,3:37 PM,Track 1,Union Station,True
+Raritan,4:20 PM,Track 1,Union Station,True
+Newark Penn,4:22 PM,Track 2,Union Station,True
+High Bridge,4:54 PM,Track 1,Union Station,True
+Newark Penn,4:58 PM,Track 2,Union Station,True
+Raritan,5:25 PM,Track 1,Union Station,True
+Raritan,5:53 PM,Track 1,Union Station,True
+Newark Penn,6:11 PM,Track 1,Union Station,True
+Raritan,6:14 PM,Track 1,Union Station,True
+New York -SEC,10:58 AM,Track 2,Upper Montclair Station,False
+MSU,11:12 AM,Track 1,Upper Montclair Station,False
+New York -SEC,11:55 AM,Track 2,Upper Montclair Station,False
+MSU,12:12 PM,Track 1,Upper Montclair Station,False
+New York -SEC,12:55 PM,Track 2,Upper Montclair Station,False
+MSU,1:12 PM,Track 1,Upper Montclair Station,False
+New York -SEC,1:55 PM,Track 2,Upper Montclair Station,False
+MSU,2:12 PM,Track 1,Upper Montclair Station,False
+Dover,2:39 PM,Track 1,Upper Montclair Station,False
+New York -SEC,2:53 PM,Track 2,Upper Montclair Station,False
+MSU,3:34 PM,Track 1,Upper Montclair Station,False
+Denville,4:12 PM,Track 1,Upper Montclair Station,False
+New York -SEC,4:24 PM,Track 2,Upper Montclair Station,False
+MSU,4:30 PM,Track 1,Upper Montclair Station,False
+Hackettstown,5:11 PM,Track 1,Upper Montclair Station,False
+New York -SEC,5:13 PM,Track 2,Upper Montclair Station,False
+MSU,5:33 PM,Track 1,Upper Montclair Station,False
+MSU,6:02 PM,Track 1,Upper Montclair Station,False
+MSU,6:13 PM,Track 1,Upper Montclair Station,False
+Hoboken -SEC,11:12 AM,Track 2,Waldwick Station,False
+Hoboken -SEC,11:20 AM,Track 2,Waldwick Station,False
+Suffern,11:38 AM,Track 3,Waldwick Station,False
+Hoboken -SEC,12:13 PM,Track 2,Waldwick Station,False
+Hoboken -SEC,12:19 PM,Track 2,Waldwick Station,False
+Suffern,12:37 PM,Track 3,Waldwick Station,False
+Hoboken -SEC,1:12 PM,Track 2,Waldwick Station,False
+Hoboken -SEC,1:20 PM,Track 2,Waldwick Station,False
+Suffern,1:28 PM,Track 3,Waldwick Station,False
+Hoboken -SEC,2:10 PM,Track 2,Waldwick Station,False
+Hoboken -SEC,2:15 PM,Track 2,Waldwick Station,False
+Suffern,2:29 PM,Track 3,Waldwick Station,False
+Hoboken -SEC,3:05 PM,Track 2,Waldwick Station,False
+Suffern,3:25 PM,Track 3,Waldwick Station,False
+Hoboken -SEC,3:27 PM,Track 2,Waldwick Station,False
+Hoboken -SEC,3:37 PM,Track 2,Waldwick Station,False
+Suffern,3:39 PM,Track 3,Waldwick Station,False
+Suffern,4:12 PM,Track 3,Waldwick Station,False
+Hoboken -SEC,4:24 PM,Track 2,Waldwick Station,False
+New York -SEC,11:04 AM,Track 2,Walnut Street Station,False
+MSU,11:07 AM,Track 1,Walnut Street Station,False
+New York -SEC,12:01 PM,Track 2,Walnut Street Station,False
+MSU,12:07 PM,Track 1,Walnut Street Station,False
+New York -SEC,1:01 PM,Track 2,Walnut Street Station,False
+MSU,1:07 PM,Track 1,Walnut Street Station,False
+New York -SEC,2:01 PM,Track 2,Walnut Street Station,False
+MSU,2:07 PM,Track 1,Walnut Street Station,False
+Dover,2:34 PM,Track 1,Walnut Street Station,False
+New York -SEC,2:58 PM,Track 2,Walnut Street Station,False
+MSU,3:29 PM,Track 1,Walnut Street Station,False
+Denville,4:07 PM,Track 1,Walnut Street Station,False
+MSU,4:25 PM,Track 1,Walnut Street Station,False
+New York -SEC,4:30 PM,Track 2,Walnut Street Station,False
+Hackettstown,5:05 PM,Track 1,Walnut Street Station,False
+New York -SEC,5:18 PM,Track 2,Walnut Street Station,False
+MSU,5:28 PM,Track 1,Walnut Street Station,False
+MSU,5:57 PM,Track 1,Walnut Street Station,False
+MSU,6:07 PM,Track 1,Walnut Street Station,False
+New York -SEC,11:01 AM,Track 2,Watchung Avenue Station,False
+MSU,11:09 AM,Track 1,Watchung Avenue Station,False
+New York -SEC,11:58 AM,Track 2,Watchung Avenue Station,False
+MSU,12:09 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,12:58 PM,Track 2,Watchung Avenue Station,False
+MSU,1:09 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,1:58 PM,Track 2,Watchung Avenue Station,False
+MSU,2:09 PM,Track 1,Watchung Avenue Station,False
+Dover,2:36 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,2:55 PM,Track 2,Watchung Avenue Station,False
+MSU,3:31 PM,Track 1,Watchung Avenue Station,False
+Denville,4:09 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,4:27 PM,Track 2,Watchung Avenue Station,False
+MSU,4:27 PM,Track 1,Watchung Avenue Station,False
+Hackettstown,5:08 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,5:15 PM,Track 2,Watchung Avenue Station,False
+MSU,5:30 PM,Track 1,Watchung Avenue Station,False
+Mount Olive,5:42 PM,Track 1,Watchung Avenue Station,False
+MSU,6:00 PM,Track 1,Watchung Avenue Station,False
+New York -SEC,"10:27 AM
+           in 0 Min",Track 2,Watsessing Avenue Station,False
+MSU,"10:56 AM
+           in 23 Min",Track 1,Watsessing Avenue Station,False
+New York -SEC,11:15 AM,Track 2,Watsessing Avenue Station,False
+MSU,11:56 AM,Track 1,Watsessing Avenue Station,False
+New York -SEC,12:12 PM,Track 2,Watsessing Avenue Station,False
+MSU,12:56 PM,Track 1,Watsessing Avenue Station,False
+New York -SEC,1:12 PM,Track 2,Watsessing Avenue Station,False
+MSU,1:56 PM,Track 1,Watsessing Avenue Station,False
+New York -SEC,2:12 PM,Track 2,Watsessing Avenue Station,False
+Dover,2:23 PM,Track 1,Watsessing Avenue Station,False
+New York -SEC,3:09 PM,Track 2,Watsessing Avenue Station,False
+MSU,3:18 PM,Track 1,Watsessing Avenue Station,False
+MSU,4:13 PM,Track 1,Watsessing Avenue Station,False
+New York -SEC,4:41 PM,Track 2,Watsessing Avenue Station,False
+MSU,5:16 PM,Track 1,Watsessing Avenue Station,False
+New York -SEC,5:29 PM,Track 2,Watsessing Avenue Station,False
+MSU,5:45 PM,Track 1,Watsessing Avenue Station,False
+MSU,5:53 PM,Track 1,Watsessing Avenue Station,False
+MSU,6:19 PM,Track 1,Watsessing Avenue Station,False
+Hoboken -SEC,"10:46 AM
+           in 16 Min",Track 2,Wesmont Station,True
+Ridgewood,11:02 AM,Track 1,Wesmont Station,True
+Hoboken -SEC,11:47 AM,Track 2,Wesmont Station,True
+Ridgewood,12:02 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,12:46 PM,Track 2,Wesmont Station,True
+Suffern,1:02 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,1:48 PM,Track 2,Wesmont Station,True
+Suffern,2:02 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,2:43 PM,Track 2,Wesmont Station,True
+Suffern,2:58 PM,Track 1,Wesmont Station,True
+Suffern,3:44 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,3:54 PM,Track 2,Wesmont Station,True
+Waldwick,4:42 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,5:09 PM,Track 2,Wesmont Station,True
+Ridgewood,5:20 PM,Track 1,Wesmont Station,True
+Waldwick,5:51 PM,Track 1,Wesmont Station,True
+Hoboken -SEC,5:58 PM,Track 2,Wesmont Station,True
+Waldwick,6:26 PM,Track 1,Wesmont Station,True
+Suffern,7:00 PM,Track 1,Wesmont Station,True
+High Bridge,"10:26 AM
+           All Aboard",Track 1,Westfield Station,True
+New York -SEC,11:20 AM,Track 1,Westfield Station,True
+Raritan,11:22 AM,Track 1,Westfield Station,True
+New York -SEC,12:20 PM,Track 1,Westfield Station,True
+Raritan,12:23 PM,Track 1,Westfield Station,True
+New York -SEC,1:22 PM,Track 1,Westfield Station,True
+High Bridge,1:24 PM,Track 1,Westfield Station,True
+Newark Penn,2:21 PM,Track 1,Westfield Station,True
+Raritan,2:23 PM,Track 1,Westfield Station,True
+Newark Penn,3:21 PM,Track 2,Westfield Station,True
+High Bridge,3:23 PM,Track 1,Westfield Station,True
+Newark Penn,4:07 PM,Track 2,Westfield Station,True
+Raritan,4:35 PM,Track 1,Westfield Station,True
+Newark Penn,4:43 PM,Track 2,Westfield Station,True
+High Bridge,5:10 PM,Track 1,Westfield Station,True
+Raritan,5:38 PM,Track 1,Westfield Station,True
+High Bridge,5:51 PM,Track 1,Westfield Station,True
+Newark Penn,5:55 PM,Track 2,Westfield Station,True
+Raritan,6:08 PM,Track 1,Westfield Station,True
+Spring Valley,"10:43 AM
+           in 14 Min",Track Single,Westwood Station,True
+Hoboken -SEC,11:18 AM,Track Single,Westwood Station,True
+Spring Valley,12:07 PM,Track Single,Westwood Station,True
+Hoboken -SEC,12:43 PM,Track Single,Westwood Station,True
+Spring Valley,1:17 PM,Track Single,Westwood Station,True
+Spring Valley,2:34 PM,Track Single,Westwood Station,True
+Hoboken -SEC,3:09 PM,Track Single,Westwood Station,True
+Spring Valley,3:42 PM,Track Single,Westwood Station,True
+Hoboken -SEC,4:17 PM,Track Single,Westwood Station,True
+Spring Valley,4:50 PM,Track Single,Westwood Station,True
+Spring Valley,5:27 PM,Track Single,Westwood Station,True
+Spring Valley,5:49 PM,Track Single,Westwood Station,True
+Spring Valley,6:30 PM,Track Single,Westwood Station,True
+Spring Valley,6:49 PM,Track Single,Westwood Station,True
+Spring Valley,7:08 PM,Track Single,Westwood Station,True
+Spring Valley,7:37 PM,Track Single,Westwood Station,True
+Spring Valley,8:15 PM,Track Single,Westwood Station,True
+Spring Valley,9:08 PM,Track Single,Westwood Station,True
+Hoboken -SEC,9:41 PM,Track Single,Westwood Station,True
+High Bridge,11:13 AM,Track Single,White House Station,False
+New York -SEC,12:33 PM,Track Single,White House Station,False
+High Bridge,2:11 PM,Track Single,White House Station,False
+Newark Penn,3:18 PM,Track Single,White House Station,False
+High Bridge,4:08 PM,Track Single,White House Station,False
+Newark Penn,5:08 PM,Track Single,White House Station,False
+High Bridge,5:59 PM,Track Single,White House Station,False
+High Bridge,6:34 PM,Track Single,White House Station,False
+High Bridge,7:25 PM,Track Single,White House Station,False
+High Bridge,8:24 PM,Track Single,White House Station,False
+High Bridge,10:16 PM,Track Single,White House Station,False
+High Bridge,12:16 AM,Track Single,White House Station,False
+Spring Valley,11:37 AM,Track Single,Wood Ridge Station,False
+Hoboken -SEC,11:43 AM,Track Single,Wood Ridge Station,False
+Spring Valley,12:50 PM,Track Single,Wood Ridge Station,False
+Hoboken -SEC,1:14 PM,Track Single,Wood Ridge Station,False
+Spring Valley,2:08 PM,Track Single,Wood Ridge Station,False
+Hoboken -SEC,2:13 PM,Track Single,Wood Ridge Station,False
+New Bridge Landing,3:34 PM,Track Single,Wood Ridge Station,False
+Hoboken -SEC,3:40 PM,Track Single,Wood Ridge Station,False
+Spring Valley,4:23 PM,Track Single,Wood Ridge Station,False
+Hoboken -SEC,4:47 PM,Track Single,Wood Ridge Station,False
+Spring Valley,4:59 PM,Track Single,Wood Ridge Station,False
+Spring Valley,5:22 PM,Track Single,Wood Ridge Station,False
+Spring Valley,5:58 PM,Track Single,Wood Ridge Station,False
+Spring Valley,6:18 PM,Track Single,Wood Ridge Station,False
+Spring Valley,6:38 PM,Track Single,Wood Ridge Station,False
+Spring Valley,7:08 PM,Track Single,Wood Ridge Station,False
+Spring Valley,7:49 PM,Track Single,Wood Ridge Station,False
+Spring Valley,8:42 PM,Track Single,Wood Ridge Station,False
+Spring Valley,10:04 PM,Track Single,Wood Ridge Station,False
+Long Branch,"10:34 AM
+           in 7 Min",Track 1,Woodbridge Station,True
+New York -SEC ✈,"10:42 AM
+           in 9 Min",Track 2,Woodbridge Station,True
+Long Branch,11:31 AM,Track 1,Woodbridge Station,True
+New York -SEC ✈,11:44 AM,Track 2,Woodbridge Station,True
+Long Branch,12:13 PM,Track 1,Woodbridge Station,True
+New York -SEC ✈,12:40 PM,Track 2,Woodbridge Station,True
+Long Branch,12:55 PM,Track 1,Woodbridge Station,True
+Long Branch,1:33 PM,Track 1,Woodbridge Station,True
+New York -SEC ✈,1:41 PM,Track 2,Woodbridge Station,True
+Long Branch,2:29 PM,Track 1,Woodbridge Station,True
+New York -SEC ✈,2:41 PM,Track 2,Woodbridge Station,True
+Long Branch,3:30 PM,Track 1,Woodbridge Station,True
+New York -SEC ✈,3:38 PM,Track 2,Woodbridge Station,True
+South Amboy,4:09 PM,Track 1,Woodbridge Station,True
+Long Branch,4:21 PM,Track 1,Woodbridge Station,True
+New York -SEC ✈,4:33 PM,Track 2,Woodbridge Station,True
+New York -SEC,4:56 PM,Track 2,Woodbridge Station,True
+South Amboy,4:59 PM,Track 1,Woodbridge Station,True
+Bay Head,5:08 PM,Track 1,Woodbridge Station,True
+Hoboken -SEC,11:12 AM,Track Single,Woodcliff Lake Station,False
+Hoboken -SEC,12:37 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,1:23 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,2:40 PM,Track Single,Woodcliff Lake Station,False
+Hoboken -SEC,3:03 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,3:48 PM,Track Single,Woodcliff Lake Station,False
+Hoboken -SEC,4:11 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,4:56 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,5:33 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,5:55 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,6:37 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,6:55 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,7:15 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,7:43 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,8:21 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,9:14 PM,Track Single,Woodcliff Lake Station,False
+Hoboken -SEC,9:35 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,10:36 PM,Track Single,Woodcliff Lake Station,False
+Spring Valley,12:05 AM,Track Single,Woodcliff Lake Station,False

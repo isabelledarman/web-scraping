@@ -6,6 +6,60 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
+import json
+
+'''
+def save_to_mongodb(stations_data, departures_data):
+    try:
+        client = MongoClient('mongodb://localhost:27017/')
+        db = client['nj_transit_db']
+        
+        stations_collection = db['stations']
+        departures_collection = db['departures']
+        
+        stations_to_insert = []
+        for station in stations_data:
+            stations_to_insert.append({
+                'name': station.name,
+                'is_accessible': station.is_accessible,
+                'updated_at': datetime.now()
+            })
+        
+        if stations_to_insert:
+            stations_collection.insert_many(stations_to_insert)
+            print(f"Saved {len(stations_to_insert)} stations to MongoDB")
+        
+        if not departures_data.empty:
+            departures_collection.insert_many(
+                departures_data.to_dict('records')
+            )
+            print(f"Saved {len(departures_data)} departures to MongoDB")
+            
+        return True
+        
+    except Exception as e:
+        print(f"Error saving to MongoDB: {e}")
+        return False
+'''
+
+def save_to_csv(stations_data, departures_data):
+    try:
+        stations_df = pd.DataFrame([
+            {'name': s.name, 'is_accessible': s.is_accessible} 
+            for s in stations_data
+        ])
+        stations_df.to_csv('nj_transit_stations.csv', index=False)
+        print(f"Saved {len(stations_df)} stations to CSV")
+        
+        if not departures_data.empty:
+            departures_data.to_csv('nj_transit_departures.csv', index=False)
+            print(f"Saved {len(departures_data)} departures to CSV")
+            
+        return True
+        
+    except Exception as e:
+        print(f"Error saving to CSV: {e}")
+        return False
 
 class Station:
     def __init__(self, name, is_accessible=False):
@@ -68,6 +122,7 @@ def get_all_stations():
         return []
 
 '''
+'''
 STATIONS = [
     {"name": "Newark Penn Station", "accessible": True},
     {"name": "New York Penn Station", "accessible": True},
@@ -91,8 +146,8 @@ class Station:
 
 def get_all_stations():
     return [Station(s["name"], s["accessible"]) for s in STATIONS]
-'''
 
+    
 def get_station_departures(station):
 
     trains = []
@@ -142,8 +197,21 @@ if __name__ == "__main__":
     stations = get_all_stations()
     print(f"\nFound {len(stations)} stations")
     
+    all_departures = []
     for station in stations:
         df = get_station_departures(station)
         if isinstance(df, pd.DataFrame) and not df.empty:
-            print(f"\nStored departures for {station}")
+            all_departures.append(df)
         time.sleep(2)  # Be respectful to the server
+    
+    # Combine all departures into one DataFrame
+    if all_departures:
+        combined_departures = pd.concat(all_departures, ignore_index=True)
+        
+        # Save data to MongoDB
+        save_to_mongodb(stations, combined_departures)
+        
+        # Backup to CSV
+        save_to_csv(stations, combined_departures)
+    else:
+        print("No departure data to save")
